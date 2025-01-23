@@ -77,8 +77,8 @@ def getChannelEPG(fhandle, channelID):
         program = epgdata[channelID[n]]['program']
         for detail in program:
             #write programe
-            st = (datetime.fromtimestamp(detail['st'], timezone.utc) - timedelta(hours=8)).strftime('%Y%m%d%H%M%S')
-            et = (datetime.fromtimestamp(detail['et'], timezone.utc) - timedelta(hours=8)).strftime('%Y%m%d%H%M%S')
+            st = (datetime.fromtimestamp(detail['st'], timezone.utc) + timedelta(hours=8)).strftime('%Y%m%d%H%M%S')
+            et = (datetime.fromtimestamp(detail['et'], timezone.utc) + timedelta(hours=8)).strftime('%Y%m%d%H%M%S')
 
             fhandle.write('    <programme start="%s" stop="%s" channel="%s">\n' % (st, et, channelID[n]))
             fhandle.write('        <title lang="zh">%s</title>\n' % detail['t'])
@@ -87,8 +87,8 @@ def getChannelEPG(fhandle, channelID):
         program2 = epgdata2[channelID[n]]['program']
         for detail2 in program2:
             #write programe
-            st = (datetime.fromtimestamp(detail2['st'], timezone.utc) - timedelta(hours=8)).strftime('%Y%m%d%H%M%S')
-            et = (datetime.fromtimestamp(detail2['et'], timezone.utc) - timedelta(hours=8)).strftime('%Y%m%d%H%M%S')
+            st = (datetime.fromtimestamp(detail2['st'], timezone.utc) + timedelta(hours=8)).strftime('%Y%m%d%H%M%S')
+            et = (datetime.fromtimestamp(detail2['et'], timezone.utc) + timedelta(hours=8)).strftime('%Y%m%d%H%M%S')
 
             fhandle.write('    <programme start="%s" stop="%s" channel="%s">\n' % (st, et, channelID[n]))
             fhandle.write('        <title lang="zh">%s</title>\n' % detail2['t'])
@@ -97,8 +97,8 @@ def getChannelEPG(fhandle, channelID):
         program3 = epgdata3[channelID[n]]['program']
         for detail3 in program3:
             #write programe
-            st = (datetime.fromtimestamp(detail3['st'], timezone.utc) - timedelta(hours=8)).strftime('%Y%m%d%H%M%S')
-            et = (datetime.fromtimestamp(detail3['et'], timezone.utc) - timedelta(hours=8)).strftime('%Y%m%d%H%M%S')
+            st = (datetime.fromtimestamp(detail3['st'], timezone.utc) + timedelta(hours=8)).strftime('%Y%m%d%H%M%S')
+            et = (datetime.fromtimestamp(detail3['et'], timezone.utc) + timedelta(hours=8)).strftime('%Y%m%d%H%M%S')
 
             fhandle.write('    <programme start="%s" stop="%s" channel="%s">\n' % (st, et, channelID[n]))
             fhandle.write('        <title lang="zh">%s</title>\n' % detail3['t'])
