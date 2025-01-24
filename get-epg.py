@@ -1,4 +1,3 @@
-#-*- coding: utf-8 -*-                                                                                                                                  
 import re
 import pytz
 import requests
@@ -22,6 +21,17 @@ def transformChannelName(input):
     elif input == 'CCTV-8K':
         return 'CCTV-8K 超高清'
     return input
+
+def escape_xml_special_chars(text):
+    '''
+    转义XML中的特殊字符
+    '''
+    text = text.replace('&', '&amp;')
+    text = text.replace('<', '&lt;')
+    text = text.replace('>', '&gt;')
+    text = text.replace('"', '&quot;')
+    text = text.replace("'", '&apos;')
+    return text
 
 def getChannelCNTV(fhandle, channelID):
     '''
@@ -52,7 +62,7 @@ def getChannelCNTV(fhandle, channelID):
 
         #write channel id info
         fhandle.write('    <channel id="%s">\n' % channelID[n])
-        fhandle.write('        <display-name lang="cn">%s</display-name>\n' % transformChannelName(epgdata[channelID[n]]['channelName']))
+        fhandle.write('        <display-name lang="cn">%s</display-name>\n' % escape_xml_special_chars(transformChannelName(epgdata[channelID[n]]['channelName'])))
         fhandle.write('    </channel>\n')
 
 def getChannelEPG(fhandle, channelID):
@@ -81,7 +91,7 @@ def getChannelEPG(fhandle, channelID):
             et = (datetime.fromtimestamp(detail['et'], timezone.utc) + timedelta(hours=0)).strftime('%Y%m%d%H%M%S')
 
             fhandle.write('    <programme start="%s" stop="%s" channel="%s">\n' % (st, et, channelID[n]))
-            fhandle.write('        <title lang="zh">%s</title>\n' % detail['t'])
+            fhandle.write('        <title lang="zh">%s</title>\n' % escape_xml_special_chars(detail['t']))
             fhandle.write('    </programme>\n')
 
         program2 = epgdata2[channelID[n]]['program']
@@ -91,7 +101,7 @@ def getChannelEPG(fhandle, channelID):
             et = (datetime.fromtimestamp(detail2['et'], timezone.utc) + timedelta(hours=0)).strftime('%Y%m%d%H%M%S')
 
             fhandle.write('    <programme start="%s" stop="%s" channel="%s">\n' % (st, et, channelID[n]))
-            fhandle.write('        <title lang="zh">%s</title>\n' % detail2['t'])
+            fhandle.write('        <title lang="zh">%s</title>\n' % escape_xml_special_chars(detail2['t']))
             fhandle.write('    </programme>\n')
 
         program3 = epgdata3[channelID[n]]['program']
@@ -101,7 +111,7 @@ def getChannelEPG(fhandle, channelID):
             et = (datetime.fromtimestamp(detail3['et'], timezone.utc) + timedelta(hours=0)).strftime('%Y%m%d%H%M%S')
 
             fhandle.write('    <programme start="%s" stop="%s" channel="%s">\n' % (st, et, channelID[n]))
-            fhandle.write('        <title lang="zh">%s</title>\n' % detail3['t'])
+            fhandle.write('        <title lang="zh">%s</title>\n' % escape_xml_special_chars(detail3['t']))
             fhandle.write('    </programme>\n')            
 
 with open('guide.xml','w', encoding='utf-8') as fhandle: # 参数 w 表示覆盖，追加用 at (追加+文本)
