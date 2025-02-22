@@ -252,10 +252,10 @@
     <programme start="20250223113920" stop="20250223120600" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20250223120600" stop="20250223134900" channel="cctv1">
+    <programme start="20250223120600" stop="20250223135045" channel="cctv1">
         <title lang="zh">三餐四季（第二季）-5</title>
     </programme>
-    <programme start="20250223134900" stop="20250223140000" channel="cctv1">
+    <programme start="20250223135045" stop="20250223140000" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme start="20250223140000" stop="20250223143430" channel="cctv1">
@@ -807,26 +807,32 @@
     <programme start="20250223125135" stop="20250223134450" channel="cctv3">
         <title lang="zh">幸福账单-勇者之战-2025-8</title>
     </programme>
-    <programme start="20250223134450" stop="20250223141515" channel="cctv3">
-        <title lang="zh">黄金100秒-2025-4TOP音乐咖4</title>
+    <programme start="20250223134450" stop="20250223141715" channel="cctv3">
+        <title lang="zh">黄金100秒-2025-2TOP音乐咖2</title>
     </programme>
-    <programme start="20250223141515" stop="20250223152105" channel="cctv3">
+    <programme start="20250223141715" stop="20250223152320" channel="cctv3">
         <title lang="zh">综艺盛典-2025-2选对健康2</title>
     </programme>
-    <programme start="20250223152105" stop="20250223155900" channel="cctv3">
+    <programme start="20250223152320" stop="20250223155900" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2025-149 一路向前 23/30</title>
     </programme>
-    <programme start="20250223160705" stop="20250223165305" channel="cctv3">
+    <programme start="20250223160920" stop="20250223165520" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2025-150 一路向前 24/30</title>
     </programme>
-    <programme start="20250223165305" stop="20250223173905" channel="cctv3">
+    <programme start="20250223165520" stop="20250223174130" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2025-151 一路向前 25/30</title>
     </programme>
-    <programme start="20250223173905" stop="20250223185705" channel="cctv3">
+    <programme start="20250223174130" stop="20250223174530" channel="cctv3">
+        <title lang="zh">2025年春节联欢晚会-世界赠予我的（4K）</title>
+    </programme>
+    <programme start="20250223174530" stop="20250223174905" channel="cctv3">
+        <title lang="zh">2025年春节联欢晚会-住在心里的人（4K）</title>
+    </programme>
+    <programme start="20250223174905" stop="20250223190705" channel="cctv3">
         <title lang="zh">向幸福出发-2024-46</title>
     </programme>
-    <programme start="20250223185705" stop="20250223195705" channel="cctv3">
-        <title lang="zh">艺览天下-2025-6</title>
+    <programme start="20250223190705" stop="20250223195705" channel="cctv3">
+        <title lang="zh">艺览天下-2025-4</title>
     </programme>
     <programme start="20250223195705" stop="20250223211505" channel="cctv3">
         <title lang="zh">中国·保定乡村音乐大会-万博广场2</title>
