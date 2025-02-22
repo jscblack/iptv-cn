@@ -8,7 +8,7 @@ tz = pytz.timezone('Asia/Shanghai')
 
 cctv_channel = ['cctv1','cctv2','cctv3','cctv4','cctv5','cctv5plus','cctv6',\
     'cctv7','cctv8','cctvjilu','cctv10','cctv11','cctv12','cctv13','cctvchild', \
-        'cctv15','cctv16','cctv17','cctv4k','cctv8k']
+        'cctv15','cctv16','cctv17','cctv4k','cctv8k','dongfang','jiangsu','zhejiang','hunan']
 
 def transformChannelName(input):
     '''
