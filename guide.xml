@@ -249,13 +249,13 @@
     <programme start="20250303120105" stop="20250303120600" channel="cctv1">
         <title lang="zh">前情提要-北上-1/38</title>
     </programme>
-    <programme start="20250303120600" stop="20250303125445" channel="cctv1">
+    <programme start="20250303120600" stop="20250303125440" channel="cctv1">
         <title lang="zh">北上1/38</title>
     </programme>
-    <programme start="20250303125445" stop="20250303125835" channel="cctv1">
+    <programme start="20250303125440" stop="20250303130100" channel="cctv1">
         <title lang="zh">前情提要-北上-2/38</title>
     </programme>
-    <programme start="20250303125835" stop="20250303140000" channel="cctv1">
+    <programme start="20250303130100" stop="20250303140000" channel="cctv1">
         <title lang="zh">北上2/38</title>
     </programme>
     <programme start="20250303140000" stop="20250303143730" channel="cctv1">
@@ -6921,8 +6921,11 @@
     <programme start="20250303145855" stop="20250303145925" channel="cctv8k">
         <title lang="zh">8K超高清万象-雨水2025</title>
     </programme>
-    <programme start="20250303145925" stop="20250303155900" channel="cctv8k">
+    <programme start="20250303145925" stop="20250303150000" channel="cctv8k">
         <title lang="zh">8K标识演绎-总宣（音乐改版）（8K）</title>
+    </programme>
+    <programme start="20250303150000" stop="20250303155900" channel="cctv8k">
+        <title lang="zh">8K再见</title>
     </programme>
     <programme start="20250303230000" stop="20250303230035" channel="cctv8k">
         <title lang="zh">8K标识演绎-总宣（音乐改版）（8K）</title>
