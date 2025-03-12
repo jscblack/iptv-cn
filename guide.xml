@@ -169,7 +169,7 @@
         <title lang="zh">前情提要-北上-第14集</title>
     </programme>
     <programme start="20250312130025" stop="20250312134910" channel="cctv1">
-        <title lang="zh">北上14/38</title>
+        <title lang="zh">北上第14集</title>
     </programme>
     <programme start="20250312134910" stop="20250312140000" channel="cctv1">
         <title lang="zh">山水间的家-主题曲</title>
@@ -1438,10 +1438,10 @@
         <title lang="zh">新闻联播</title>
     </programme>
     <programme start="20250314150430" stop="20250314155030" channel="cctv4">
-        <title lang="zh">爱在平凡17/30</title>
+        <title lang="zh">爱在平凡15/30</title>
     </programme>
     <programme start="20250314155030" stop="20250314155900" channel="cctv4">
-        <title lang="zh">爱在平凡18/30</title>
+        <title lang="zh">爱在平凡16/30</title>
     </programme>
     <programme start="20250311160500" stop="20250311170500" channel="cctv5">
         <title lang="zh">顶级赛事-围棋</title>
@@ -1545,29 +1545,26 @@
     <programme start="20250313062800" stop="20250313080000" channel="cctv5">
         <title lang="zh">实况录像-2025年亚洲羽毛球混合团体锦标赛 1</title>
     </programme>
-    <programme start="20250313080000" stop="20250313100000" channel="cctv5">
-        <title lang="zh">运动一起赢</title>
+    <programme start="20250313080000" stop="20250313093000" channel="cctv5">
+        <title lang="zh">运动一起赢-2025-47</title>
     </programme>
-    <programme start="20250313100000" stop="20250313110000" channel="cctv5">
+    <programme start="20250313093000" stop="20250313100000" channel="cctv5">
+        <title lang="zh">体坛零距离-2025-11(4K)</title>
+    </programme>
+    <programme start="20250313100000" stop="20250313103000" channel="cctv5">
         <title lang="zh">体育新闻</title>
     </programme>
-    <programme start="20250313110000" stop="20250313113000" channel="cctv5">
-        <title lang="zh">体坛零距离(4K)</title>
+    <programme start="20250313103000" stop="20250313133000" channel="cctv5">
+        <title lang="zh">2025年WTT冠军赛（重庆站）-1/8决赛1</title>
     </programme>
-    <programme start="20250313113000" stop="20250313124500" channel="cctv5">
-        <title lang="zh">2024/2025赛季自由式滑雪世界杯 意大利利维尼奥站-空中技巧决赛</title>
-    </programme>
-    <programme start="20250313124500" stop="20250313134500" channel="cctv5">
-        <title lang="zh">足球之夜</title>
-    </programme>
-    <programme start="20250313134500" stop="20250313145000" channel="cctv5">
+    <programme start="20250313133000" stop="20250313143500" channel="cctv5">
         <title lang="zh">体育世界</title>
     </programme>
-    <programme start="20250313145000" stop="20250313155900" channel="cctv5">
-        <title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 第39轮 九台农商银行—浙江方兴渡</title>
+    <programme start="20250313143500" stop="20250313153500" channel="cctv5">
+        <title lang="zh">足球之夜</title>
     </programme>
-    <programme start="20250313161500" stop="20250313170500" channel="cctv5">
-        <title lang="zh">实况录像-2024/2025赛季短道速滑世界巡回赛 意大利站 1</title>
+    <programme start="20250313153500" stop="20250313155900" channel="cctv5">
+        <title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 第39轮 九台农商银行—浙江方兴渡</title>
     </programme>
     <programme start="20250313170500" stop="20250313183500" channel="cctv5">
         <title lang="zh">实况录像-2025年四大洲花样滑冰锦标赛 双人自由滑</title>
@@ -1608,23 +1605,26 @@
     <programme start="20250314062800" stop="20250314080000" channel="cctv5">
         <title lang="zh">实况录像-2025年亚洲羽毛球混合团体锦标赛 2</title>
     </programme>
-    <programme start="20250314080000" stop="20250314100000" channel="cctv5">
+    <programme start="20250314080000" stop="20250314090500" channel="cctv5">
         <title lang="zh">运动一起赢</title>
     </programme>
-    <programme start="20250314100000" stop="20250314103500" channel="cctv5">
-        <title lang="zh">体育新闻</title>
-    </programme>
-    <programme start="20250314103500" stop="20250314113000" channel="cctv5">
+    <programme start="20250314090500" stop="20250314100000" channel="cctv5">
         <title lang="zh">篮球公园</title>
     </programme>
-    <programme start="20250314113000" stop="20250314134500" channel="cctv5">
-        <title lang="zh">2024/2025赛季中国男子篮球职业联赛-第40轮（浙江方兴渡-广东东阳光 ）</title>
+    <programme start="20250314100000" stop="20250314103000" channel="cctv5">
+        <title lang="zh">体育新闻</title>
     </programme>
-    <programme start="20250314134500" stop="20250314145000" channel="cctv5">
+    <programme start="20250314103000" stop="20250314133000" channel="cctv5">
+        <title lang="zh">2025年WTT冠军赛（重庆站）-1/8决赛3</title>
+    </programme>
+    <programme start="20250314133000" stop="20250314143500" channel="cctv5">
         <title lang="zh">体育世界</title>
     </programme>
-    <programme start="20250314145000" stop="20250314152000" channel="cctv5">
-        <title lang="zh">赛事集锦-2024/2025西班牙足球甲级联赛第27轮集锦</title>
+    <programme start="20250314143500" stop="20250314150500" channel="cctv5">
+        <title lang="zh">赛事集锦(高清体育)2024/2025西班牙足球甲级联赛第27轮集锦</title>
+    </programme>
+    <programme start="20250314150500" stop="20250314152000" channel="cctv5">
+        <title lang="zh">实况录像（奥林匹克）-哈尔滨2025年亚冬会 亚冬典藏4（4K）</title>
     </programme>
     <programme start="20250314152000" stop="20250314155900" channel="cctv5">
         <title lang="zh">实况录像-2024/2025赛季短道速滑世界巡回赛 意大利站 2</title>
@@ -1707,14 +1707,14 @@
     <programme start="20250313010000" stop="20250313023000" channel="cctv5plus">
         <title lang="zh">赛事集锦-2024年世界羽联世界巡回赛总决赛 1（4K）</title>
     </programme>
-    <programme start="20250313023000" stop="20250313040000" channel="cctv5plus">
-        <title lang="zh">国际足球赛场-24-25赛季法甲联赛第25轮 里尔—蒙彼利埃（4K）</title>
+    <programme start="20250313023000" stop="20250313030000" channel="cctv5plus">
+        <title lang="zh">实况录像-2025年世界雪车锦标赛 女子单人雪车决赛</title>
     </programme>
-    <programme start="20250313040000" stop="20250313053000" channel="cctv5plus">
-        <title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 第39轮 九台农商银行—浙江方兴渡</title>
+    <programme start="20250313030000" stop="20250313063000" channel="cctv5plus">
+        <title lang="zh">2025年WTT冠军赛(重庆站)-第1轮 5</title>
     </programme>
-    <programme start="20250313053000" stop="20250313070000" channel="cctv5plus">
-        <title lang="zh">实况录像-2025年四大洲花样滑冰锦标赛 男单自由滑</title>
+    <programme start="20250313063000" stop="20250313070000" channel="cctv5plus">
+        <title lang="zh">赛事集锦(高清体育)-2025-28-2024/2025英格兰足球超级联赛第28轮集锦</title>
     </programme>
     <programme start="20250313070000" stop="20250313083000" channel="cctv5plus">
         <title lang="zh">2024/2025西班牙足球甲级联赛-第27轮（毕尔巴鄂竞技-马略卡）（4K）</title>
@@ -1725,8 +1725,11 @@
     <programme start="20250313100000" stop="20250313120000" channel="cctv5plus">
         <title lang="zh">实况录像-2024/2025赛季斯诺克威尔士公开赛 1/4决赛</title>
     </programme>
-    <programme start="20250313120000" stop="20250313133000" channel="cctv5plus">
-        <title lang="zh">实况录像-2025年乒乓球亚洲杯 3</title>
+    <programme start="20250313120000" stop="20250313131500" channel="cctv5plus">
+        <title lang="zh">实况录像-2024/2025赛季中国排球超级联赛女子决赛第二场 江苏中天钢铁—上海光明优倍</title>
+    </programme>
+    <programme start="20250313131500" stop="20250313133000" channel="cctv5plus">
+        <title lang="zh">实况录像-2024/2025赛季斯诺克大师赛半决赛 墨菲的147</title>
     </programme>
     <programme start="20250313133000" stop="20250313142500" channel="cctv5plus">
         <title lang="zh">实况录像-2024/2025赛季短道速滑世界巡回赛 意大利站 1</title>
@@ -1755,35 +1758,32 @@
     <programme start="20250313220000" stop="20250313233000" channel="cctv5plus">
         <title lang="zh">实况录像-2024年世界田联钻石联赛 布鲁塞尔站 2</title>
     </programme>
-    <programme start="20250313233000" stop="20250314013000" channel="cctv5plus">
-        <title lang="zh">实况录像-2024/2025赛季斯诺克世界公开赛 半决赛</title>
+    <programme start="20250313233000" stop="20250314000000" channel="cctv5plus">
+        <title lang="zh">赛事集锦(高清体育)-2025-27-2024/2025德国足球甲级联赛第25轮集锦</title>
     </programme>
-    <programme start="20250314013000" stop="20250314023000" channel="cctv5plus">
+    <programme start="20250314000000" stop="20250314030000" channel="cctv5plus">
+        <title lang="zh">2024/2025赛季北美冰球职业联赛-常规赛64（纽约游骑兵-明尼苏达狂野）</title>
+    </programme>
+    <programme start="20250314030000" stop="20250314063500" channel="cctv5plus">
+        <title lang="zh">2025年WTT冠军赛(重庆站)-1/8决赛 2</title>
+    </programme>
+    <programme start="20250314063500" stop="20250314073500" channel="cctv5plus">
         <title lang="zh">2024/2025赛季自由式滑雪世界杯-法国蒂涅站 大跳台决赛（录播）</title>
     </programme>
-    <programme start="20250314023000" stop="20250314053500" channel="cctv5plus">
-        <title lang="zh">2024/2025赛季北美冰球职业联赛-常规赛64（华盛顿首都人-洛杉矶国王）</title>
-    </programme>
-    <programme start="20250314053500" stop="20250314060500" channel="cctv5plus">
-        <title lang="zh">实况录像-2025年四大洲花样滑冰锦标赛 表演滑</title>
-    </programme>
-    <programme start="20250314060500" stop="20250314070500" channel="cctv5plus">
-        <title lang="zh">赛事集锦-2025年世界北欧两项滑雪锦标赛3（4K）</title>
-    </programme>
-    <programme start="20250314070500" stop="20250314083500" channel="cctv5plus">
-        <title lang="zh">2024/2025德国足球甲级联赛-第25轮（拜仁慕尼黑-波鸿）（4K）</title>
+    <programme start="20250314073500" stop="20250314083500" channel="cctv5plus">
+        <title lang="zh">赛事集锦(高清体育)-2025-30-2025年世界北欧两项滑雪锦标赛3（4K）</title>
     </programme>
     <programme start="20250314083500" stop="20250314100500" channel="cctv5plus">
         <title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 第38轮 新疆伊力特—广东东阳光</title>
     </programme>
-    <programme start="20250314100500" stop="20250314120000" channel="cctv5plus">
-        <title lang="zh">实况录像-2024/2025赛季斯诺克威尔士公开赛 半决赛</title>
-    </programme>
-    <programme start="20250314120000" stop="20250314130000" channel="cctv5plus">
-        <title lang="zh">实况录像-2025年乒乓球亚洲杯 男单比赛</title>
-    </programme>
-    <programme start="20250314130000" stop="20250314135500" channel="cctv5plus">
+    <programme start="20250314100500" stop="20250314110000" channel="cctv5plus">
         <title lang="zh">实况录像-2024/2025赛季短道速滑世界巡回赛 意大利站 2</title>
+    </programme>
+    <programme start="20250314110000" stop="20250314113000" channel="cctv5plus">
+        <title lang="zh">实况录像-2025年世界雪车锦标赛 混合团体钢架雪车决赛</title>
+    </programme>
+    <programme start="20250314113000" stop="20250314135500" channel="cctv5plus">
+        <title lang="zh">2024/2025赛季中国男子篮球职业联赛-第40轮（浙江方兴渡-广东东阳光）</title>
     </programme>
     <programme start="20250314135500" stop="20250314145500" channel="cctv5plus">
         <title lang="zh">实况录像-2024/2025赛季自由式滑雪世界杯 意大利利维尼奥站 雪上技巧</title>
@@ -2212,7 +2212,7 @@
         <title lang="zh">军事纪实-2025-52</title>
     </programme>
     <programme start="20250313223330" stop="20250313225930" channel="cctv7">
-        <title lang="zh">国防故事-2024-222</title>
+        <title lang="zh">国防故事-2025-20</title>
     </programme>
     <programme start="20250313225930" stop="20250313232430" channel="cctv7">
         <title lang="zh">世界战史-2025-41</title>
@@ -2242,7 +2242,7 @@
         <title lang="zh">世界战史-2025-41</title>
     </programme>
     <programme start="20250314030330" stop="20250314033030" channel="cctv7">
-        <title lang="zh">国防故事-2024-222</title>
+        <title lang="zh">国防故事-2025-20</title>
     </programme>
     <programme start="20250314033030" stop="20250314040000" channel="cctv7">
         <title lang="zh">军事纪录-2025-46</title>
@@ -2295,22 +2295,25 @@
     <programme start="20250314120300" stop="20250314120930" channel="cctv7">
         <title lang="zh">国防微视频-军歌嘹亮-沙场追梦（2025年）</title>
     </programme>
-    <programme start="20250314120930" stop="20250314124330" channel="cctv7">
+    <programme start="20250314120930" stop="20250314123930" channel="cctv7">
         <title lang="zh">防务新观察-2025-73</title>
     </programme>
-    <programme start="20250314124330" stop="20250314131715" channel="cctv7">
+    <programme start="20250314123930" stop="20250314130830" channel="cctv7">
+        <title lang="zh">军工巡礼-2</title>
+    </programme>
+    <programme start="20250314130830" stop="20250314134215" channel="cctv7">
         <title lang="zh">军事纪实-2025-53</title>
     </programme>
-    <programme start="20250314131715" stop="20250314135315" channel="cctv7">
+    <programme start="20250314134215" stop="20250314141815" channel="cctv7">
         <title lang="zh">第二战场-2025-11</title>
     </programme>
-    <programme start="20250314135315" stop="20250314144045" channel="cctv7">
+    <programme start="20250314141815" stop="20250314150545" channel="cctv7">
         <title lang="zh">南来北往16/39</title>
     </programme>
-    <programme start="20250314144045" stop="20250314152945" channel="cctv7">
+    <programme start="20250314150545" stop="20250314155445" channel="cctv7">
         <title lang="zh">南来北往17/39</title>
     </programme>
-    <programme start="20250314152945" stop="20250314155900" channel="cctv7">
+    <programme start="20250314155445" stop="20250314155900" channel="cctv7">
         <title lang="zh">军事纪实-2025-53</title>
     </programme>
     <programme start="20250311160010" stop="20250311164610" channel="cctv8">
@@ -6226,16 +6229,13 @@
         <title lang="zh">简牍探中华-宣传片1（8K）</title>
     </programme>
     <programme start="20250312230205" stop="20250312230235" channel="cctv8k">
-        <title lang="zh">澳门双行线-宣传片（8K）</title>
-    </programme>
-    <programme start="20250312230235" stop="20250312230305" channel="cctv8k">
         <title lang="zh">主持人大赛-宣传片（8K）</title>
     </programme>
-    <programme start="20250312230305" stop="20250312230350" channel="cctv8k">
+    <programme start="20250312230235" stop="20250312230320" channel="cctv8k">
         <title lang="zh">记住乡愁-宣传片（8K）</title>
     </programme>
-    <programme start="20250312230350" stop="20250312230450" channel="cctv8k">
-        <title lang="zh">品牌强国企业贺岁-宣传片（8K）</title>
+    <programme start="20250312230320" stop="20250312230450" channel="cctv8k">
+        <title lang="zh">品牌强国总宣-宣传片（8K）</title>
     </programme>
     <programme start="20250312230450" stop="20250312231150" channel="cctv8k">
         <title lang="zh">2025年春节联欢晚会-重庆分会场（8K）</title>
@@ -6283,40 +6283,34 @@
         <title lang="zh">简牍探中华-宣传片1（8K）</title>
     </programme>
     <programme start="20250313000130" stop="20250313000200" channel="cctv8k">
-        <title lang="zh">澳门双行线-宣传片（8K）</title>
-    </programme>
-    <programme start="20250313000200" stop="20250313000230" channel="cctv8k">
         <title lang="zh">主持人大赛-宣传片（8K）</title>
     </programme>
-    <programme start="20250313000230" stop="20250313000400" channel="cctv8k">
-        <title lang="zh">品牌强国总宣-宣传片（8K）</title>
-    </programme>
-    <programme start="20250313000400" stop="20250313000430" channel="cctv8k">
+    <programme start="20250313000200" stop="20250313000230" channel="cctv8k">
         <title lang="zh">8K超高清万象-惊蛰2025</title>
     </programme>
-    <programme start="20250313000430" stop="20250313001407" channel="cctv8k">
+    <programme start="20250313000230" stop="20250313001207" channel="cctv8k">
         <title lang="zh">2025年春节联欢晚会-花架子（8K）</title>
     </programme>
-    <programme start="20250313001407" stop="20250313002227" channel="cctv8k">
+    <programme start="20250313001207" stop="20250313002027" channel="cctv8k">
         <title lang="zh">2025年春节联欢晚会-骗假不留（8K）</title>
     </programme>
-    <programme start="20250313002227" stop="20250313002337" channel="cctv8k">
+    <programme start="20250313002027" stop="20250313002137" channel="cctv8k">
         <title lang="zh">哈尔滨2025年亚冬会-夺冠时刻短道速滑男子500米（8K）</title>
     </programme>
-    <programme start="20250313002337" stop="20250313002555" channel="cctv8k">
+    <programme start="20250313002137" stop="20250313002355" channel="cctv8k">
         <title lang="zh">2025年元宵晚会-8K-有山有海有你</title>
     </programme>
-    <programme start="20250313002555" stop="20250313002928" channel="cctv8k">
+    <programme start="20250313002355" stop="20250313002728" channel="cctv8k">
         <title lang="zh">2025年元宵晚会-8K-相思</title>
     </programme>
-    <programme start="20250313002928" stop="20250313003436" channel="cctv8k">
+    <programme start="20250313002728" stop="20250313003236" channel="cctv8k">
         <title lang="zh">2025年元宵晚会-8K-一起唱过的歌</title>
     </programme>
-    <programme start="20250313003436" stop="20250313004036" channel="cctv8k">
+    <programme start="20250313003236" stop="20250313003836" channel="cctv8k">
         <title lang="zh">2025年元宵晚会-8K-元夕春意闹</title>
     </programme>
-    <programme start="20250313004036" stop="20250313004206" channel="cctv8k">
-        <title lang="zh">品牌强国总宣-宣传片（8K）</title>
+    <programme start="20250313003836" stop="20250313004206" channel="cctv8k">
+        <title lang="zh">鹿鸣课堂-宣传片(8K)</title>
     </programme>
     <programme start="20250313004206" stop="20250313005120" channel="cctv8k">
         <title lang="zh">2025年春节联欢晚会-声动梨园（8K）</title>
@@ -6334,25 +6328,22 @@
         <title lang="zh">简牍探中华-宣传片1（8K）</title>
     </programme>
     <programme start="20250313010130" stop="20250313010200" channel="cctv8k">
-        <title lang="zh">澳门双行线-宣传片（8K）</title>
-    </programme>
-    <programme start="20250313010200" stop="20250313010230" channel="cctv8k">
         <title lang="zh">主持人大赛-宣传片（8K）</title>
     </programme>
-    <programme start="20250313010230" stop="20250313010400" channel="cctv8k">
+    <programme start="20250313010200" stop="20250313010330" channel="cctv8k">
         <title lang="zh">品牌强国总宣-宣传片（8K）</title>
     </programme>
-    <programme start="20250313010400" stop="20250313010430" channel="cctv8k">
+    <programme start="20250313010330" stop="20250313010400" channel="cctv8k">
         <title lang="zh">8K超高清万象-惊蛰2025</title>
     </programme>
-    <programme start="20250313010430" stop="20250313015400" channel="cctv8k">
+    <programme start="20250313010400" stop="20250313015330" channel="cctv8k">
         <title lang="zh">大运河之歌-4（8K）</title>
     </programme>
-    <programme start="20250313015400" stop="20250313015900" channel="cctv8k">
+    <programme start="20250313015330" stop="20250313015830" channel="cctv8k">
         <title lang="zh">上海总站超高清节目集锦-如果国宝会说话第三季（8K）-11</title>
     </programme>
-    <programme start="20250313015900" stop="20250313020000" channel="cctv8k">
-        <title lang="zh">品牌强国企业贺岁-宣传片（8K）</title>
+    <programme start="20250313015830" stop="20250313020000" channel="cctv8k">
+        <title lang="zh">品牌强国总宣-宣传片（8K）</title>
     </programme>
     <programme start="20250313020000" stop="20250313020030" channel="cctv8k">
         <title lang="zh">美美与共-宣传片（8K）</title>
@@ -6364,28 +6355,25 @@
         <title lang="zh">简牍探中华-宣传片1（8K）</title>
     </programme>
     <programme start="20250313020130" stop="20250313020200" channel="cctv8k">
-        <title lang="zh">澳门双行线-宣传片（8K）</title>
-    </programme>
-    <programme start="20250313020200" stop="20250313020230" channel="cctv8k">
         <title lang="zh">主持人大赛-宣传片（8K）</title>
     </programme>
-    <programme start="20250313020230" stop="20250313020400" channel="cctv8k">
-        <title lang="zh">品牌强国总宣-宣传片（8K）</title>
+    <programme start="20250313020200" stop="20250313020300" channel="cctv8k">
+        <title lang="zh">品牌强国企业贺岁-宣传片（8K）</title>
     </programme>
-    <programme start="20250313020400" stop="20250313020430" channel="cctv8k">
+    <programme start="20250313020300" stop="20250313020330" channel="cctv8k">
         <title lang="zh">8K超高清万象-惊蛰2025</title>
     </programme>
-    <programme start="20250313020430" stop="20250313021153" channel="cctv8k">
+    <programme start="20250313020330" stop="20250313021053" channel="cctv8k">
         <title lang="zh">2025年春节联欢晚会-我们一起说相声（8K）</title>
     </programme>
-    <programme start="20250313021153" stop="20250313021655" channel="cctv8k">
+    <programme start="20250313021053" stop="20250313021555" channel="cctv8k">
         <title lang="zh">2025年春节联欢晚会-喜上枝头（8K）</title>
     </programme>
-    <programme start="20250313021655" stop="20250313022505" channel="cctv8k">
+    <programme start="20250313021555" stop="20250313022405" channel="cctv8k">
         <title lang="zh">2025年春节联欢晚会-拉萨分会场（8K）</title>
     </programme>
-    <programme start="20250313022505" stop="20250313022535" channel="cctv8k">
-        <title lang="zh">8K超高清万象-惊蛰2025</title>
+    <programme start="20250313022405" stop="20250313022535" channel="cctv8k">
+        <title lang="zh">品牌强国总宣-宣传片（8K）</title>
     </programme>
     <programme start="20250313022535" stop="20250313022838" channel="cctv8k">
         <title lang="zh">2025年元宵晚会-8K-知冷暖</title>
@@ -6424,13 +6412,10 @@
         <title lang="zh">简牍探中华-宣传片1（8K）</title>
     </programme>
     <programme start="20250313030130" stop="20250313030200" channel="cctv8k">
-        <title lang="zh">澳门双行线-宣传片（8K）</title>
-    </programme>
-    <programme start="20250313030200" stop="20250313030230" channel="cctv8k">
         <title lang="zh">主持人大赛-宣传片（8K）</title>
     </programme>
-    <programme start="20250313030230" stop="20250313030330" channel="cctv8k">
-        <title lang="zh">品牌强国企业贺岁-宣传片（8K）</title>
+    <programme start="20250313030200" stop="20250313030330" channel="cctv8k">
+        <title lang="zh">品牌强国总宣-宣传片（8K）</title>
     </programme>
     <programme start="20250313030330" stop="20250313030415" channel="cctv8k">
         <title lang="zh">记住乡愁-宣传片（8K）</title>
@@ -6481,40 +6466,34 @@
         <title lang="zh">简牍探中华-宣传片1（8K）</title>
     </programme>
     <programme start="20250313040130" stop="20250313040200" channel="cctv8k">
-        <title lang="zh">澳门双行线-宣传片（8K）</title>
-    </programme>
-    <programme start="20250313040200" stop="20250313040230" channel="cctv8k">
         <title lang="zh">主持人大赛-宣传片（8K）</title>
     </programme>
-    <programme start="20250313040230" stop="20250313040400" channel="cctv8k">
-        <title lang="zh">品牌强国总宣-宣传片（8K）</title>
-    </programme>
-    <programme start="20250313040400" stop="20250313040430" channel="cctv8k">
+    <programme start="20250313040200" stop="20250313040230" channel="cctv8k">
         <title lang="zh">8K超高清万象-惊蛰2025</title>
     </programme>
-    <programme start="20250313040430" stop="20250313041407" channel="cctv8k">
+    <programme start="20250313040230" stop="20250313041207" channel="cctv8k">
         <title lang="zh">2025年春节联欢晚会-花架子（8K）</title>
     </programme>
-    <programme start="20250313041407" stop="20250313042227" channel="cctv8k">
+    <programme start="20250313041207" stop="20250313042027" channel="cctv8k">
         <title lang="zh">2025年春节联欢晚会-骗假不留（8K）</title>
     </programme>
-    <programme start="20250313042227" stop="20250313042337" channel="cctv8k">
+    <programme start="20250313042027" stop="20250313042137" channel="cctv8k">
         <title lang="zh">哈尔滨2025年亚冬会-夺冠时刻短道速滑男子500米（8K）</title>
     </programme>
-    <programme start="20250313042337" stop="20250313042555" channel="cctv8k">
+    <programme start="20250313042137" stop="20250313042355" channel="cctv8k">
         <title lang="zh">2025年元宵晚会-8K-有山有海有你</title>
     </programme>
-    <programme start="20250313042555" stop="20250313042928" channel="cctv8k">
+    <programme start="20250313042355" stop="20250313042728" channel="cctv8k">
         <title lang="zh">2025年元宵晚会-8K-相思</title>
     </programme>
-    <programme start="20250313042928" stop="20250313043436" channel="cctv8k">
+    <programme start="20250313042728" stop="20250313043236" channel="cctv8k">
         <title lang="zh">2025年元宵晚会-8K-一起唱过的歌</title>
     </programme>
-    <programme start="20250313043436" stop="20250313044036" channel="cctv8k">
+    <programme start="20250313043236" stop="20250313043836" channel="cctv8k">
         <title lang="zh">2025年元宵晚会-8K-元夕春意闹</title>
     </programme>
-    <programme start="20250313044036" stop="20250313044206" channel="cctv8k">
-        <title lang="zh">品牌强国总宣-宣传片（8K）</title>
+    <programme start="20250313043836" stop="20250313044206" channel="cctv8k">
+        <title lang="zh">鹿鸣课堂-宣传片(8K)</title>
     </programme>
     <programme start="20250313044206" stop="20250313045120" channel="cctv8k">
         <title lang="zh">2025年春节联欢晚会-声动梨园（8K）</title>
@@ -6532,13 +6511,10 @@
         <title lang="zh">简牍探中华-宣传片1（8K）</title>
     </programme>
     <programme start="20250313050130" stop="20250313050200" channel="cctv8k">
-        <title lang="zh">澳门双行线-宣传片（8K）</title>
-    </programme>
-    <programme start="20250313050200" stop="20250313050230" channel="cctv8k">
         <title lang="zh">主持人大赛-宣传片（8K）</title>
     </programme>
-    <programme start="20250313050230" stop="20250313050330" channel="cctv8k">
-        <title lang="zh">品牌强国企业贺岁-宣传片（8K）</title>
+    <programme start="20250313050200" stop="20250313050330" channel="cctv8k">
+        <title lang="zh">品牌强国总宣-宣传片（8K）</title>
     </programme>
     <programme start="20250313050330" stop="20250313050400" channel="cctv8k">
         <title lang="zh">8K超高清万象-惊蛰2025</title>
@@ -6562,43 +6538,40 @@
         <title lang="zh">简牍探中华-宣传片1（8K）</title>
     </programme>
     <programme start="20250313060130" stop="20250313060200" channel="cctv8k">
-        <title lang="zh">澳门双行线-宣传片（8K）</title>
-    </programme>
-    <programme start="20250313060200" stop="20250313060230" channel="cctv8k">
         <title lang="zh">主持人大赛-宣传片（8K）</title>
     </programme>
-    <programme start="20250313060230" stop="20250313060400" channel="cctv8k">
-        <title lang="zh">品牌强国总宣-宣传片（8K）</title>
+    <programme start="20250313060200" stop="20250313060300" channel="cctv8k">
+        <title lang="zh">品牌强国企业贺岁-宣传片（8K）</title>
     </programme>
-    <programme start="20250313060400" stop="20250313060430" channel="cctv8k">
+    <programme start="20250313060300" stop="20250313060330" channel="cctv8k">
         <title lang="zh">8K超高清万象-惊蛰2025</title>
     </programme>
-    <programme start="20250313060430" stop="20250313061153" channel="cctv8k">
+    <programme start="20250313060330" stop="20250313061053" channel="cctv8k">
         <title lang="zh">2025年春节联欢晚会-我们一起说相声（8K）</title>
     </programme>
-    <programme start="20250313061153" stop="20250313061655" channel="cctv8k">
+    <programme start="20250313061053" stop="20250313061555" channel="cctv8k">
         <title lang="zh">2025年春节联欢晚会-喜上枝头（8K）</title>
     </programme>
-    <programme start="20250313061655" stop="20250313062505" channel="cctv8k">
+    <programme start="20250313061555" stop="20250313062405" channel="cctv8k">
         <title lang="zh">2025年春节联欢晚会-拉萨分会场（8K）</title>
     </programme>
-    <programme start="20250313062505" stop="20250313062614" channel="cctv8k">
+    <programme start="20250313062405" stop="20250313062514" channel="cctv8k">
         <title lang="zh">哈尔滨2025年亚冬会-夺冠时刻短道速滑女子3000米（8K）</title>
     </programme>
-    <programme start="20250313062614" stop="20250313062717" channel="cctv8k">
+    <programme start="20250313062514" stop="20250313062617" channel="cctv8k">
         <title lang="zh">哈尔滨2025年亚冬会-夺冠时刻速度滑冰女子1000米（8K）</title>
     </programme>
-    <programme start="20250313062717" stop="20250313063020" channel="cctv8k">
+    <programme start="20250313062617" stop="20250313062920" channel="cctv8k">
         <title lang="zh">2025年元宵晚会-8K-知冷暖</title>
     </programme>
-    <programme start="20250313063020" stop="20250313064029" channel="cctv8k">
+    <programme start="20250313062920" stop="20250313063929" channel="cctv8k">
         <title lang="zh">2025年元宵晚会-8K-聚会</title>
     </programme>
-    <programme start="20250313064029" stop="20250313064417" channel="cctv8k">
+    <programme start="20250313063929" stop="20250313064317" channel="cctv8k">
         <title lang="zh">2025年元宵晚会-8K-努力的人</title>
     </programme>
-    <programme start="20250313064417" stop="20250313064447" channel="cctv8k">
-        <title lang="zh">8K超高清万象-惊蛰2025</title>
+    <programme start="20250313064317" stop="20250313064447" channel="cctv8k">
+        <title lang="zh">品牌强国总宣-宣传片（8K）</title>
     </programme>
     <programme start="20250313064447" stop="20250313064727" channel="cctv8k">
         <title lang="zh">2025年春节联欢晚会-我的家（8K）</title>
@@ -6622,43 +6595,40 @@
         <title lang="zh">简牍探中华-宣传片1（8K）</title>
     </programme>
     <programme start="20250313070130" stop="20250313070200" channel="cctv8k">
-        <title lang="zh">澳门双行线-宣传片（8K）</title>
-    </programme>
-    <programme start="20250313070200" stop="20250313070230" channel="cctv8k">
         <title lang="zh">主持人大赛-宣传片（8K）</title>
     </programme>
-    <programme start="20250313070230" stop="20250313070315" channel="cctv8k">
+    <programme start="20250313070200" stop="20250313070245" channel="cctv8k">
         <title lang="zh">记住乡愁-宣传片（8K）</title>
     </programme>
-    <programme start="20250313070315" stop="20250313070445" channel="cctv8k">
-        <title lang="zh">品牌强国总宣-宣传片（8K）</title>
+    <programme start="20250313070245" stop="20250313070345" channel="cctv8k">
+        <title lang="zh">品牌强国企业贺岁-宣传片（8K）</title>
     </programme>
-    <programme start="20250313070445" stop="20250313070515" channel="cctv8k">
+    <programme start="20250313070345" stop="20250313070415" channel="cctv8k">
         <title lang="zh">8K超高清万象-惊蛰2025</title>
     </programme>
-    <programme start="20250313070515" stop="20250313071215" channel="cctv8k">
+    <programme start="20250313070415" stop="20250313071115" channel="cctv8k">
         <title lang="zh">2025年春节联欢晚会-重庆分会场（8K）</title>
     </programme>
-    <programme start="20250313071215" stop="20250313071704" channel="cctv8k">
+    <programme start="20250313071115" stop="20250313071604" channel="cctv8k">
         <title lang="zh">2025年春节联欢晚会-妥妥的（8K）</title>
     </programme>
-    <programme start="20250313071704" stop="20250313072108" channel="cctv8k">
+    <programme start="20250313071604" stop="20250313072008" channel="cctv8k">
         <title lang="zh">2025年春节联欢晚会-笔走龙蛇（8K）</title>
     </programme>
-    <programme start="20250313072108" stop="20250313072239" channel="cctv8k">
+    <programme start="20250313072008" stop="20250313072139" channel="cctv8k">
         <title lang="zh">哈尔滨2025年亚冬会-夺冠时刻速度滑冰男子100米（8K）</title>
     </programme>
-    <programme start="20250313072239" stop="20250313073239" channel="cctv8k">
+    <programme start="20250313072139" stop="20250313073139" channel="cctv8k">
         <title lang="zh">2025年元宵晚会-8K-辞旧迎新</title>
     </programme>
-    <programme start="20250313073239" stop="20250313073535" channel="cctv8k">
+    <programme start="20250313073139" stop="20250313073435" channel="cctv8k">
         <title lang="zh">2025年元宵晚会-8K-衣脉相承</title>
     </programme>
-    <programme start="20250313073535" stop="20250313073935" channel="cctv8k">
+    <programme start="20250313073435" stop="20250313073835" channel="cctv8k">
         <title lang="zh">2025年元宵晚会-8K-上元欢渝夜</title>
     </programme>
-    <programme start="20250313073935" stop="20250313074005" channel="cctv8k">
-        <title lang="zh">8K超高清万象-惊蛰2025</title>
+    <programme start="20250313073835" stop="20250313074005" channel="cctv8k">
+        <title lang="zh">品牌强国总宣-宣传片（8K）</title>
     </programme>
     <programme start="20250313074005" stop="20250313074714" channel="cctv8k">
         <title lang="zh">2025年春节联欢晚会-无锡分会场（8K）</title>
@@ -6682,16 +6652,13 @@
         <title lang="zh">简牍探中华-宣传片1（8K）</title>
     </programme>
     <programme start="20250313080130" stop="20250313080200" channel="cctv8k">
-        <title lang="zh">澳门双行线-宣传片（8K）</title>
-    </programme>
-    <programme start="20250313080200" stop="20250313080230" channel="cctv8k">
         <title lang="zh">主持人大赛-宣传片（8K）</title>
     </programme>
-    <programme start="20250313080230" stop="20250313080315" channel="cctv8k">
+    <programme start="20250313080200" stop="20250313080245" channel="cctv8k">
         <title lang="zh">记住乡愁-宣传片（8K）</title>
     </programme>
-    <programme start="20250313080315" stop="20250313080415" channel="cctv8k">
-        <title lang="zh">品牌强国企业贺岁-宣传片（8K）</title>
+    <programme start="20250313080245" stop="20250313080415" channel="cctv8k">
+        <title lang="zh">品牌强国总宣-宣传片（8K）</title>
     </programme>
     <programme start="20250313080415" stop="20250313081352" channel="cctv8k">
         <title lang="zh">2025年春节联欢晚会-花架子（8K）</title>
@@ -6733,25 +6700,22 @@
         <title lang="zh">简牍探中华-宣传片1（8K）</title>
     </programme>
     <programme start="20250313090130" stop="20250313090200" channel="cctv8k">
-        <title lang="zh">澳门双行线-宣传片（8K）</title>
-    </programme>
-    <programme start="20250313090200" stop="20250313090230" channel="cctv8k">
         <title lang="zh">主持人大赛-宣传片（8K）</title>
     </programme>
-    <programme start="20250313090230" stop="20250313090400" channel="cctv8k">
+    <programme start="20250313090200" stop="20250313090330" channel="cctv8k">
         <title lang="zh">品牌强国总宣-宣传片（8K）</title>
     </programme>
-    <programme start="20250313090400" stop="20250313090430" channel="cctv8k">
+    <programme start="20250313090330" stop="20250313090400" channel="cctv8k">
         <title lang="zh">8K超高清万象-惊蛰2025</title>
     </programme>
-    <programme start="20250313090430" stop="20250313095400" channel="cctv8k">
+    <programme start="20250313090400" stop="20250313095330" channel="cctv8k">
         <title lang="zh">大运河之歌-4（8K）</title>
     </programme>
-    <programme start="20250313095400" stop="20250313095900" channel="cctv8k">
+    <programme start="20250313095330" stop="20250313095830" channel="cctv8k">
         <title lang="zh">上海总站超高清节目集锦-如果国宝会说话第三季（8K）-13</title>
     </programme>
-    <programme start="20250313095900" stop="20250313100000" channel="cctv8k">
-        <title lang="zh">品牌强国企业贺岁-宣传片（8K）</title>
+    <programme start="20250313095830" stop="20250313100000" channel="cctv8k">
+        <title lang="zh">品牌强国总宣-宣传片（8K）</title>
     </programme>
     <programme start="20250313100000" stop="20250313100030" channel="cctv8k">
         <title lang="zh">美美与共-宣传片（8K）</title>
@@ -6763,43 +6727,40 @@
         <title lang="zh">简牍探中华-宣传片1（8K）</title>
     </programme>
     <programme start="20250313100130" stop="20250313100200" channel="cctv8k">
-        <title lang="zh">澳门双行线-宣传片（8K）</title>
-    </programme>
-    <programme start="20250313100200" stop="20250313100230" channel="cctv8k">
         <title lang="zh">主持人大赛-宣传片（8K）</title>
     </programme>
-    <programme start="20250313100230" stop="20250313100400" channel="cctv8k">
-        <title lang="zh">品牌强国总宣-宣传片（8K）</title>
+    <programme start="20250313100200" stop="20250313100300" channel="cctv8k">
+        <title lang="zh">品牌强国企业贺岁-宣传片（8K）</title>
     </programme>
-    <programme start="20250313100400" stop="20250313100430" channel="cctv8k">
+    <programme start="20250313100300" stop="20250313100330" channel="cctv8k">
         <title lang="zh">8K超高清万象-惊蛰2025</title>
     </programme>
-    <programme start="20250313100430" stop="20250313101153" channel="cctv8k">
+    <programme start="20250313100330" stop="20250313101053" channel="cctv8k">
         <title lang="zh">2025年春节联欢晚会-我们一起说相声（8K）</title>
     </programme>
-    <programme start="20250313101153" stop="20250313101655" channel="cctv8k">
+    <programme start="20250313101053" stop="20250313101555" channel="cctv8k">
         <title lang="zh">2025年春节联欢晚会-喜上枝头（8K）</title>
     </programme>
-    <programme start="20250313101655" stop="20250313102505" channel="cctv8k">
+    <programme start="20250313101555" stop="20250313102405" channel="cctv8k">
         <title lang="zh">2025年春节联欢晚会-拉萨分会场（8K）</title>
     </programme>
-    <programme start="20250313102505" stop="20250313102614" channel="cctv8k">
+    <programme start="20250313102405" stop="20250313102514" channel="cctv8k">
         <title lang="zh">哈尔滨2025年亚冬会-夺冠时刻短道速滑女子3000米（8K）</title>
     </programme>
-    <programme start="20250313102614" stop="20250313102717" channel="cctv8k">
+    <programme start="20250313102514" stop="20250313102617" channel="cctv8k">
         <title lang="zh">哈尔滨2025年亚冬会-夺冠时刻速度滑冰女子1000米（8K）</title>
     </programme>
-    <programme start="20250313102717" stop="20250313103020" channel="cctv8k">
+    <programme start="20250313102617" stop="20250313102920" channel="cctv8k">
         <title lang="zh">2025年元宵晚会-8K-知冷暖</title>
     </programme>
-    <programme start="20250313103020" stop="20250313104029" channel="cctv8k">
+    <programme start="20250313102920" stop="20250313103929" channel="cctv8k">
         <title lang="zh">2025年元宵晚会-8K-聚会</title>
     </programme>
-    <programme start="20250313104029" stop="20250313104417" channel="cctv8k">
+    <programme start="20250313103929" stop="20250313104317" channel="cctv8k">
         <title lang="zh">2025年元宵晚会-8K-努力的人</title>
     </programme>
-    <programme start="20250313104417" stop="20250313104447" channel="cctv8k">
-        <title lang="zh">8K超高清万象-惊蛰2025</title>
+    <programme start="20250313104317" stop="20250313104447" channel="cctv8k">
+        <title lang="zh">品牌强国总宣-宣传片（8K）</title>
     </programme>
     <programme start="20250313104447" stop="20250313104727" channel="cctv8k">
         <title lang="zh">2025年春节联欢晚会-我的家（8K）</title>
@@ -6823,10 +6784,10 @@
         <title lang="zh">简牍探中华-宣传片1（8K）</title>
     </programme>
     <programme start="20250313110130" stop="20250313110200" channel="cctv8k">
-        <title lang="zh">澳门双行线-宣传片（8K）</title>
+        <title lang="zh">主持人大赛-宣传片（8K）</title>
     </programme>
     <programme start="20250313110200" stop="20250313110230" channel="cctv8k">
-        <title lang="zh">主持人大赛-宣传片（8K）</title>
+        <title lang="zh">8K超高清万象-惊蛰2025</title>
     </programme>
     <programme start="20250313110230" stop="20250313110400" channel="cctv8k">
         <title lang="zh">品牌强国总宣-宣传片（8K）</title>
@@ -6895,10 +6856,10 @@
         <title lang="zh">简牍探中华-宣传片1（8K）</title>
     </programme>
     <programme start="20250313120130" stop="20250313120200" channel="cctv8k">
-        <title lang="zh">澳门双行线-宣传片（8K）</title>
+        <title lang="zh">主持人大赛-宣传片（8K）</title>
     </programme>
     <programme start="20250313120200" stop="20250313120230" channel="cctv8k">
-        <title lang="zh">主持人大赛-宣传片（8K）</title>
+        <title lang="zh">8K超高清万象-惊蛰2025</title>
     </programme>
     <programme start="20250313120230" stop="20250313120400" channel="cctv8k">
         <title lang="zh">品牌强国总宣-宣传片（8K）</title>
@@ -6949,10 +6910,10 @@
         <title lang="zh">简牍探中华-宣传片1（8K）</title>
     </programme>
     <programme start="20250313130130" stop="20250313130200" channel="cctv8k">
-        <title lang="zh">澳门双行线-宣传片（8K）</title>
+        <title lang="zh">主持人大赛-宣传片（8K）</title>
     </programme>
     <programme start="20250313130200" stop="20250313130230" channel="cctv8k">
-        <title lang="zh">主持人大赛-宣传片（8K）</title>
+        <title lang="zh">8K超高清万象-惊蛰2025</title>
     </programme>
     <programme start="20250313130230" stop="20250313130315" channel="cctv8k">
         <title lang="zh">记住乡愁-宣传片（8K）</title>
@@ -7012,25 +6973,22 @@
         <title lang="zh">简牍探中华-宣传片1（8K）</title>
     </programme>
     <programme start="20250313140130" stop="20250313140200" channel="cctv8k">
-        <title lang="zh">澳门双行线-宣传片（8K）</title>
-    </programme>
-    <programme start="20250313140200" stop="20250313140230" channel="cctv8k">
         <title lang="zh">主持人大赛-宣传片（8K）</title>
     </programme>
-    <programme start="20250313140230" stop="20250313140315" channel="cctv8k">
+    <programme start="20250313140200" stop="20250313140245" channel="cctv8k">
         <title lang="zh">记住乡愁-宣传片（8K）</title>
     </programme>
-    <programme start="20250313140315" stop="20250313140815" channel="cctv8k">
+    <programme start="20250313140245" stop="20250313140345" channel="cctv8k">
+        <title lang="zh">品牌强国企业贺岁-宣传片（8K）</title>
+    </programme>
+    <programme start="20250313140345" stop="20250313140845" channel="cctv8k">
         <title lang="zh">上海总站超高清节目集锦-如果国宝会说话第三季（8K）-14</title>
     </programme>
-    <programme start="20250313140815" stop="20250313140925" channel="cctv8k">
+    <programme start="20250313140845" stop="20250313140955" channel="cctv8k">
         <title lang="zh">哈尔滨2025年亚冬会-夺冠时刻短道速滑男子500米（8K）</title>
     </programme>
-    <programme start="20250313140925" stop="20250313145855" channel="cctv8k">
+    <programme start="20250313140955" stop="20250313145925" channel="cctv8k">
         <title lang="zh">大运河之歌-5（8K）</title>
-    </programme>
-    <programme start="20250313145855" stop="20250313145925" channel="cctv8k">
-        <title lang="zh">8K超高清万象-惊蛰2025</title>
     </programme>
     <programme start="20250313145925" stop="20250313150000" channel="cctv8k">
         <title lang="zh">8K标识演绎-总宣（音乐改版）（8K）</title>
