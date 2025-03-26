@@ -1050,25 +1050,22 @@
     <programme start="20250326012805" stop="20250326020000" channel="cctv4">
         <title lang="zh">走遍中国-2025-45</title>
     </programme>
-    <programme start="20250326020000" stop="20250326023100" channel="cctv4">
+    <programme start="20250326020000" stop="20250326024100" channel="cctv4">
         <title lang="zh">2025年国台办发布会-5</title>
     </programme>
-    <programme start="20250326023100" stop="20250326025700" channel="cctv4">
-        <title lang="zh">走遍中国-2025-46</title>
-    </programme>
-    <programme start="20250326025700" stop="20250326032500" channel="cctv4">
+    <programme start="20250326024100" stop="20250326030900" channel="cctv4">
         <title lang="zh">走遍中国-2025-47</title>
     </programme>
-    <programme start="20250326032500" stop="20250326032900" channel="cctv4">
-        <title lang="zh">记住乡愁-片段展播-2024-2</title>
-    </programme>
-    <programme start="20250326032900" stop="20250326033700" channel="cctv4">
+    <programme start="20250326030900" stop="20250326031700" channel="cctv4">
         <title lang="zh">国家公园精彩片段-14</title>
     </programme>
-    <programme start="20250326033700" stop="20250326035100" channel="cctv4">
+    <programme start="20250326031700" stop="20250326032500" channel="cctv4">
         <title lang="zh">国家公园精彩片段-11</title>
     </programme>
-    <programme start="20250326035100" stop="20250326040000" channel="cctv4">
+    <programme start="20250326032500" stop="20250326033000" channel="cctv4">
+        <title lang="zh">记住乡愁-片段展播-2024-2</title>
+    </programme>
+    <programme start="20250326033000" stop="20250326040000" channel="cctv4">
         <title lang="zh">海峡两岸-2025-84</title>
     </programme>
     <programme start="20250326040000" stop="20250326050220" channel="cctv4">
@@ -1192,16 +1189,16 @@
         <title lang="zh">今日亚洲</title>
     </programme>
     <programme start="20250327012805" stop="20250327015855" channel="cctv4">
-        <title lang="zh">国家记忆-2024-199</title>
+        <title lang="zh">国家记忆-2024-12</title>
     </programme>
     <programme start="20250327015855" stop="20250327022555" channel="cctv4">
-        <title lang="zh">国家记忆-2024-200</title>
+        <title lang="zh">国家记忆-2024-13</title>
     </programme>
     <programme start="20250327022555" stop="20250327025555" channel="cctv4">
-        <title lang="zh">国家记忆-2024-188</title>
+        <title lang="zh">国家记忆-2024-15</title>
     </programme>
     <programme start="20250327025555" stop="20250327032655" channel="cctv4">
-        <title lang="zh">国家记忆-2024-189</title>
+        <title lang="zh">国家记忆-2024-16</title>
     </programme>
     <programme start="20250327032655" stop="20250327040000" channel="cctv4">
         <title lang="zh">海峡两岸-2025-85</title>
@@ -2362,7 +2359,7 @@
         <title lang="zh">本集提要-黄雀-第17集</title>
     </programme>
     <programme start="20250326113000" stop="20250326122525" channel="cctv8">
-        <title lang="zh">黄雀17/24</title>
+        <title lang="zh">黄雀第17集</title>
     </programme>
     <programme start="20250326122525" stop="20250326123005" channel="cctv8">
         <title lang="zh">本集提要-黄雀-第18集</title>
@@ -2374,7 +2371,7 @@
         <title lang="zh">本集提要-棋士-第3集</title>
     </programme>
     <programme start="20250326132625" stop="20250326141555" channel="cctv8">
-        <title lang="zh">棋士3/22</title>
+        <title lang="zh">棋士第3集</title>
     </programme>
     <programme start="20250326141555" stop="20250326141800" channel="cctv8">
         <title lang="zh">本集提要- 《玫瑰的故事》第24集</title>
@@ -2491,7 +2488,7 @@
         <title lang="zh">黄雀19/24</title>
     </programme>
     <programme start="20250327122525" stop="20250327123005" channel="cctv8">
-        <title lang="zh">本集提要-黄雀-20/24</title>
+        <title lang="zh">本集提要-黄雀-第20集</title>
     </programme>
     <programme start="20250327123005" stop="20250327132255" channel="cctv8">
         <title lang="zh">黄雀20/24</title>
@@ -2500,7 +2497,7 @@
         <title lang="zh">本集提要-棋士-第4集</title>
     </programme>
     <programme start="20250327132625" stop="20250327141730" channel="cctv8">
-        <title lang="zh">棋士4/22</title>
+        <title lang="zh">棋士第4集</title>
     </programme>
     <programme start="20250327141730" stop="20250327150630" channel="cctv8">
         <title lang="zh">剧说很好看-2025-12</title>
@@ -5173,13 +5170,13 @@
         <title lang="zh">4K宣传片-主持人大赛</title>
     </programme>
     <programme start="20250327120220" stop="20250327120230" channel="cctv4k">
-        <title lang="zh">4K节目预告</title>
+        <title lang="zh">4K节目预告-垫播</title>
     </programme>
     <programme start="20250327120230" stop="20250327125000" channel="cctv4k">
-        <title lang="zh">好团圆-（4K）-1/36</title>
+        <title lang="zh">走向大西南-（4K）-1/23</title>
     </programme>
     <programme start="20250327125000" stop="20250327133600" channel="cctv4k">
-        <title lang="zh">好团圆-（4K）-2/36</title>
+        <title lang="zh">走向大西南-（4K）-2/23</title>
     </programme>
     <programme start="20250327133600" stop="20250327133620" channel="cctv4k">
         <title lang="zh">4K频道宣传片-标识演绎3</title>
@@ -5239,10 +5236,10 @@
         <title lang="zh">4K节目预告</title>
     </programme>
     <programme start="20250328010000" stop="20250328014630" channel="cctv4k">
-        <title lang="zh">好团圆-（4K）-1/36</title>
+        <title lang="zh">走向大西南-（4K）-1/23</title>
     </programme>
     <programme start="20250328014630" stop="20250328023230" channel="cctv4k">
-        <title lang="zh">好团圆-（4K）-2/36</title>
+        <title lang="zh">走向大西南-（4K）-2/23</title>
     </programme>
     <programme start="20250328023230" stop="20250328023250" channel="cctv4k">
         <title lang="zh">4K频道宣传片-标识演绎3</title>
@@ -5350,10 +5347,10 @@
         <title lang="zh">4K节目预告</title>
     </programme>
     <programme start="20250328120230" stop="20250328125000" channel="cctv4k">
-        <title lang="zh">好团圆-（4K）-3/36</title>
+        <title lang="zh">走向大西南-（4K）-3/23</title>
     </programme>
     <programme start="20250328125000" stop="20250328133600" channel="cctv4k">
-        <title lang="zh">好团圆-（4K）-4/36</title>
+        <title lang="zh">走向大西南-（4K）-4/23</title>
     </programme>
     <programme start="20250328133600" stop="20250328133620" channel="cctv4k">
         <title lang="zh">4K超清视野-2018-1-标识演绎-2/3</title>
