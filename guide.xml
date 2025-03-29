@@ -150,10 +150,10 @@
     <programme start="20250329113850" stop="20250329120600" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20250329120600" stop="20250329134745" channel="cctv1">
+    <programme start="20250329120600" stop="20250329134845" channel="cctv1">
         <title lang="zh">美美与共-和美之歌9</title>
     </programme>
-    <programme start="20250329134745" stop="20250329140000" channel="cctv1">
+    <programme start="20250329134845" stop="20250329140000" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme start="20250329140000" stop="20250329143515" channel="cctv1">
@@ -219,13 +219,13 @@
     <programme start="20250330070855" stop="20250330075710" channel="cctv1">
         <title lang="zh">画眉第24集</title>
     </programme>
-    <programme start="20250330075710" stop="20250330084625" channel="cctv1">
+    <programme start="20250330075710" stop="20250330084525" channel="cctv1">
         <title lang="zh">画眉第25集</title>
     </programme>
-    <programme start="20250330084625" stop="20250330091710" channel="cctv1">
+    <programme start="20250330084525" stop="20250330091610" channel="cctv1">
         <title lang="zh">2024农耕探文明-2</title>
     </programme>
-    <programme start="20250330091710" stop="20250330105230" channel="cctv1">
+    <programme start="20250330091610" stop="20250330105230" channel="cctv1">
         <title lang="zh">美美与共-和美之歌9</title>
     </programme>
     <programme start="20250330105230" stop="20250330110000" channel="cctv1">
@@ -264,8 +264,98 @@
     <programme start="20250330183835" stop="20250330184500" channel="cctv1">
         <title lang="zh">大唐诗人传-杜牧MV</title>
     </programme>
-    <programme start="20250330184500" stop="20250331155900" channel="cctv1">
+    <programme start="20250330184500" stop="20250330202000" channel="cctv1">
         <title lang="zh">山水间的家（第二季）-9</title>
+    </programme>
+    <programme start="20250330202000" stop="20250330205300" channel="cctv1">
+        <title lang="zh">纪录片瞬间中国-农耕探文明21</title>
+    </programme>
+    <programme start="20250330205300" stop="20250330212700" channel="cctv1">
+        <title lang="zh">新闻联播</title>
+    </programme>
+    <programme start="20250330212700" stop="20250330220000" channel="cctv1">
+        <title lang="zh">寻宝-文脉春秋-22</title>
+    </programme>
+    <programme start="20250330220000" stop="20250331003715" channel="cctv1">
+        <title lang="zh">朝闻天下</title>
+    </programme>
+    <programme start="20250331003715" stop="20250331012245" channel="cctv1">
+        <title lang="zh">生活早参考-特别节目（生活圈）2025-64</title>
+    </programme>
+    <programme start="20250331012245" stop="20250331021320" channel="cctv1">
+        <title lang="zh">雪迷宫1/31</title>
+    </programme>
+    <programme start="20250331021320" stop="20250331030710" channel="cctv1">
+        <title lang="zh">雪迷宫2/31</title>
+    </programme>
+    <programme start="20250331030710" stop="20250331035415" channel="cctv1">
+        <title lang="zh">雪迷宫3/31</title>
+    </programme>
+    <programme start="20250331035415" stop="20250331040000" channel="cctv1">
+        <title lang="zh">2024秘境之眼-339</title>
+    </programme>
+    <programme start="20250331040000" stop="20250331043500" channel="cctv1">
+        <title lang="zh">新闻30分</title>
+    </programme>
+    <programme start="20250331043500" stop="20250331051005" channel="cctv1">
+        <title lang="zh">今日说法-2025-64</title>
+    </programme>
+    <programme start="20250331051005" stop="20250331055810" channel="cctv1">
+        <title lang="zh">画眉26/38</title>
+    </programme>
+    <programme start="20250331055810" stop="20250331064945" channel="cctv1">
+        <title lang="zh">画眉27/38</title>
+    </programme>
+    <programme start="20250331064945" stop="20250331074130" channel="cctv1">
+        <title lang="zh">画眉28/38</title>
+    </programme>
+    <programme start="20250331074130" stop="20250331083000" channel="cctv1">
+        <title lang="zh">画眉29/38</title>
+    </programme>
+    <programme start="20250331083000" stop="20250331091950" channel="cctv1">
+        <title lang="zh">画眉30/38</title>
+    </programme>
+    <programme start="20250331091950" stop="20250331093950" channel="cctv1">
+        <title lang="zh">第一动画乐园-2025-119</title>
+    </programme>
+    <programme start="20250331093950" stop="20250331101950" channel="cctv1">
+        <title lang="zh">第一动画乐园-2025-120</title>
+    </programme>
+    <programme start="20250331101950" stop="20250331104950" channel="cctv1">
+        <title lang="zh">精彩一刻-本草流芳5</title>
+    </programme>
+    <programme start="20250331104950" stop="20250331110000" channel="cctv1">
+        <title lang="zh">秘境之眼-2025-88</title>
+    </programme>
+    <programme start="20250331110000" stop="20250331113835" channel="cctv1">
+        <title lang="zh">新闻联播</title>
+    </programme>
+    <programme start="20250331113835" stop="20250331120015" channel="cctv1">
+        <title lang="zh">焦点访谈</title>
+    </programme>
+    <programme start="20250331120015" stop="20250331120600" channel="cctv1">
+        <title lang="zh">前情提要-青山是故乡-1/29</title>
+    </programme>
+    <programme start="20250331120600" stop="20250331125530" channel="cctv1">
+        <title lang="zh">青山是故乡-电视剧1/29</title>
+    </programme>
+    <programme start="20250331125530" stop="20250331130000" channel="cctv1">
+        <title lang="zh">前情提要-青山是故乡-2/29</title>
+    </programme>
+    <programme start="20250331130000" stop="20250331135010" channel="cctv1">
+        <title lang="zh">青山是故乡-电视剧2/29</title>
+    </programme>
+    <programme start="20250331135010" stop="20250331140000" channel="cctv1">
+        <title lang="zh">非遗里的中国-MV</title>
+    </programme>
+    <programme start="20250331140000" stop="20250331143430" channel="cctv1">
+        <title lang="zh">晚间新闻</title>
+    </programme>
+    <programme start="20250331143430" stop="20250331150945" channel="cctv1">
+        <title lang="zh">寻古中国（第二季）-水下考古1</title>
+    </programme>
+    <programme start="20250331150945" stop="20250331155900" channel="cctv1">
+        <title lang="zh">山水间的家（第二季）-10</title>
     </programme>
     <programme start="20250328160000" stop="20250328165000" channel="cctv2">
         <title lang="zh">习近平经济思想系列讲读-5</title>
@@ -2209,13 +2299,13 @@
         <title lang="zh">本集提要-我的后半生-第1集</title>
     </programme>
     <programme start="20250330113000" stop="20250330122525" channel="cctv8">
-        <title lang="zh">我的后半生1/36</title>
+        <title lang="zh">我的后半生第1集</title>
     </programme>
     <programme start="20250330122525" stop="20250330123005" channel="cctv8">
         <title lang="zh">本集提要-我的后半生-第2集</title>
     </programme>
     <programme start="20250330123005" stop="20250330132255" channel="cctv8">
-        <title lang="zh">我的后半生2/36</title>
+        <title lang="zh">我的后半生第2集</title>
     </programme>
     <programme start="20250330132255" stop="20250330132625" channel="cctv8">
         <title lang="zh">本集提要-棋士-第7集</title>
@@ -2335,13 +2425,13 @@
         <title lang="zh">本集提要-我的后半生-3/36</title>
     </programme>
     <programme start="20250331113000" stop="20250331122435" channel="cctv8">
-        <title lang="zh">我的后半生3/36</title>
+        <title lang="zh">我的后半生-（高清版）-3/36</title>
     </programme>
     <programme start="20250331122435" stop="20250331122930" channel="cctv8">
         <title lang="zh">本集提要-我的后半生-4/36</title>
     </programme>
     <programme start="20250331122930" stop="20250331132100" channel="cctv8">
-        <title lang="zh">我的后半生4/36</title>
+        <title lang="zh">我的后半生-（高清版）-4/36</title>
     </programme>
     <programme start="20250331132100" stop="20250331132405" channel="cctv8">
         <title lang="zh">本集提要-棋士-8/22</title>
