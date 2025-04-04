@@ -199,7 +199,7 @@
         <title lang="zh">朝闻天下</title>
     </programme>
     <programme start="20250405003745" stop="20250405012615" channel="cctv1">
-        <title lang="zh">雪迷宫15/31</title>
+        <title lang="zh">雪迷宫第15集</title>
     </programme>
     <programme start="20250405012615" stop="20250405020000" channel="cctv1">
         <title lang="zh">本草流芳（精品展播）-人参</title>
@@ -208,7 +208,7 @@
         <title lang="zh">新闻直播间</title>
     </programme>
     <programme start="20250405030000" stop="20250405035415" channel="cctv1">
-        <title lang="zh">雪迷宫16/31</title>
+        <title lang="zh">雪迷宫第16集</title>
     </programme>
     <programme start="20250405035415" stop="20250405040000" channel="cctv1">
         <title lang="zh">2024秘境之眼-344</title>
@@ -220,13 +220,13 @@
         <title lang="zh">宗师列传·大唐诗人传-7</title>
     </programme>
     <programme start="20250405061605" stop="20250405070740" channel="cctv1">
-        <title lang="zh">追风者11/38</title>
+        <title lang="zh">追风者第11集</title>
     </programme>
     <programme start="20250405070740" stop="20250405075640" channel="cctv1">
-        <title lang="zh">追风者12/38</title>
+        <title lang="zh">追风者第12集</title>
     </programme>
     <programme start="20250405075640" stop="20250405085010" channel="cctv1">
-        <title lang="zh">追风者13/38</title>
+        <title lang="zh">追风者第13集</title>
     </programme>
     <programme start="20250405085010" stop="20250405093910" channel="cctv1">
         <title lang="zh">正大综艺-2025-10</title>
@@ -243,10 +243,10 @@
     <programme start="20250405113820" stop="20250405120600" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20250405120600" stop="20250405134410" channel="cctv1">
+    <programme start="20250405120600" stop="20250405134440" channel="cctv1">
         <title lang="zh">美美与共-和美之歌10</title>
     </programme>
-    <programme start="20250405134410" stop="20250405140000" channel="cctv1">
+    <programme start="20250405134440" stop="20250405140000" channel="cctv1">
         <title lang="zh">2024秘境之眼-铜壁关雨林奇境</title>
     </programme>
     <programme start="20250405140000" stop="20250405143430" channel="cctv1">
@@ -942,17 +942,20 @@
     <programme start="20250404013530" stop="20250404014000" channel="cctv4">
         <title lang="zh">记住乡愁-片段展播-2024-4</title>
     </programme>
-    <programme start="20250404014000" stop="20250404023200" channel="cctv4">
+    <programme start="20250404014000" stop="20250404024700" channel="cctv4">
         <title lang="zh">乙巳（2025）年清明公祭轩辕黄帝典礼-1</title>
     </programme>
-    <programme start="20250404023200" stop="20250404025900" channel="cctv4">
+    <programme start="20250404024700" stop="20250404031400" channel="cctv4">
         <title lang="zh">国家记忆-2024-171</title>
     </programme>
-    <programme start="20250404025900" stop="20250404032600" channel="cctv4">
-        <title lang="zh">国家记忆-2024-155</title>
-    </programme>
-    <programme start="20250404032600" stop="20250404033000" channel="cctv4">
+    <programme start="20250404031400" stop="20250404031800" channel="cctv4">
         <title lang="zh">记住乡愁-片段展播-2024-15</title>
+    </programme>
+    <programme start="20250404031800" stop="20250404032200" channel="cctv4">
+        <title lang="zh">记住乡愁-片段展播-2024-32</title>
+    </programme>
+    <programme start="20250404032200" stop="20250404033000" channel="cctv4">
+        <title lang="zh">记住乡愁-片段展播-2024-37</title>
     </programme>
     <programme start="20250404033000" stop="20250404040000" channel="cctv4">
         <title lang="zh">海峡两岸-2025-93</title>
@@ -1141,10 +1144,10 @@
         <title lang="zh">健康中国-2025-13</title>
     </programme>
     <programme start="20250405155930" stop="20250405155900" channel="cctv4">
-        <title lang="zh">最美的乡村1/30</title>
+        <title lang="zh">最美的乡村第1集</title>
     </programme>
     <programme start="20250405164530" stop="20250405173300" channel="cctv4">
-        <title lang="zh">最美的乡村2/30</title>
+        <title lang="zh">最美的乡村第2集</title>
     </programme>
     <programme start="20250405173300" stop="20250405180000" channel="cctv4">
         <title lang="zh">中国缘-2025-13</title>
@@ -1501,7 +1504,7 @@
         <title lang="zh">国际足球赛场-24-25赛季英超联赛第30轮 诺丁汉森林—曼联（4K）</title>
     </programme>
     <programme start="20250404113000" stop="20250404135000" channel="cctv5plus">
-        <title lang="zh">2024/2025赛季中国男子篮球职业联赛-季后赛 12进8 第一场1</title>
+        <title lang="zh">2024/2025赛季中国男子篮球职业联赛-季后赛 12进8 第一场1（青岛国信制药-浙江稠州金租）</title>
     </programme>
     <programme start="20250404135000" stop="20250404145000" channel="cctv5plus">
         <title lang="zh">实况录像（奥林匹克）-2025年全国举重锦标赛 男子比赛2（4K）</title>
@@ -1549,7 +1552,7 @@
         <title lang="zh">国际足球赛场-24-25赛季英超联赛第30轮 曼城—莱斯特城（4K）</title>
     </programme>
     <programme start="20250405113000" stop="20250405135000" channel="cctv5plus">
-        <title lang="zh">2024/2025赛季中国男子篮球职业联赛-季后赛 12进8 第一场2</title>
+        <title lang="zh">2024/2025赛季中国男子篮球职业联赛-季后赛 12进8 第一场（广东东阳光VS上海久事）</title>
     </programme>
     <programme start="20250405135000" stop="20250405144000" channel="cctv5plus">
         <title lang="zh">实况录像-2025年世界短道速滑锦标赛 1</title>
@@ -1998,6 +2001,9 @@
     <programme start="20250405155345" stop="20250405155900" channel="cctv7">
         <title lang="zh">第二战场-2025-14</title>
     </programme>
+    <programme start="20250405163645" stop="20250405220300" channel="cctv7">
+        <title lang="zh">再见</title>
+    </programme>
     <programme start="20250405220300" stop="20250405223330" channel="cctv7">
         <title lang="zh">军迷行天下-2025-14</title>
     </programme>
@@ -2242,52 +2248,52 @@
         <title lang="zh">星推荐-2025年4月-4</title>
     </programme>
     <programme start="20250404203510" stop="20250404212110" channel="cctv8">
-        <title lang="zh">故乡的泥土21/32</title>
+        <title lang="zh">故乡的泥土第21集</title>
     </programme>
     <programme start="20250404212110" stop="20250404220710" channel="cctv8">
-        <title lang="zh">故乡的泥土22/32</title>
+        <title lang="zh">故乡的泥土第22集</title>
     </programme>
     <programme start="20250404220710" stop="20250404225715" channel="cctv8">
-        <title lang="zh">故乡的泥土23/32</title>
+        <title lang="zh">故乡的泥土第23集</title>
     </programme>
     <programme start="20250404225715" stop="20250404234315" channel="cctv8">
-        <title lang="zh">故乡的泥土24/32</title>
+        <title lang="zh">故乡的泥土第24集</title>
     </programme>
     <programme start="20250404234315" stop="20250404235140" channel="cctv8">
         <title lang="zh">星推荐-2025年4月-4</title>
     </programme>
     <programme start="20250404235140" stop="20250405004555" channel="cctv8">
-        <title lang="zh">虎胆巍城33/36</title>
+        <title lang="zh">虎胆巍城第33集</title>
     </programme>
     <programme start="20250405004555" stop="20250405013555" channel="cctv8">
-        <title lang="zh">虎胆巍城34/36</title>
+        <title lang="zh">虎胆巍城第34集</title>
     </programme>
     <programme start="20250405013555" stop="20250405014640" channel="cctv8">
         <title lang="zh">星推荐-2025年4月-4</title>
     </programme>
     <programme start="20250405014640" stop="20250405024255" channel="cctv8">
-        <title lang="zh">虎胆巍城35/36</title>
+        <title lang="zh">虎胆巍城第35集</title>
     </programme>
     <programme start="20250405024255" stop="20250405033820" channel="cctv8">
-        <title lang="zh">虎胆巍城36/36</title>
+        <title lang="zh">虎胆巍城第36集</title>
     </programme>
     <programme start="20250405033820" stop="20250405042420" channel="cctv8">
-        <title lang="zh">铁道风云1/34</title>
+        <title lang="zh">铁道风云第1集</title>
     </programme>
     <programme start="20250405042420" stop="20250405043845" channel="cctv8">
         <title lang="zh">星推荐-2025年4月-4</title>
     </programme>
     <programme start="20250405043845" stop="20250405053500" channel="cctv8">
-        <title lang="zh">大河之水23/36</title>
+        <title lang="zh">大河之水第23集</title>
     </programme>
     <programme start="20250405053500" stop="20250405063015" channel="cctv8">
-        <title lang="zh">大河之水24/36</title>
+        <title lang="zh">大河之水第24集</title>
     </programme>
     <programme start="20250405063015" stop="20250405072630" channel="cctv8">
-        <title lang="zh">大河之水25/36</title>
+        <title lang="zh">大河之水第25集</title>
     </programme>
     <programme start="20250405072630" stop="20250405081230" channel="cctv8">
-        <title lang="zh">大河之水26/36</title>
+        <title lang="zh">大河之水第26集</title>
     </programme>
     <programme start="20250405081230" stop="20250405082640" channel="cctv8">
         <title lang="zh">星推荐-2025年4月-4</title>
@@ -2296,70 +2302,70 @@
         <title lang="zh">插花-2015-3</title>
     </programme>
     <programme start="20250405083025" stop="20250405093245" channel="cctv8">
-        <title lang="zh">红旗渠31/31</title>
+        <title lang="zh">红旗渠第31集</title>
     </programme>
     <programme start="20250405093245" stop="20250405102615" channel="cctv8">
-        <title lang="zh">陌上又花开1/36</title>
+        <title lang="zh">陌上又花开第1集</title>
     </programme>
     <programme start="20250405102615" stop="20250405103315" channel="cctv8">
         <title lang="zh">星推荐-2025年4月-4</title>
     </programme>
     <programme start="20250405103315" stop="20250405112235" channel="cctv8">
-        <title lang="zh">陌上又花开2/36</title>
+        <title lang="zh">陌上又花开第2集</title>
     </programme>
     <programme start="20250405112235" stop="20250405112810" channel="cctv8">
         <title lang="zh">星推荐-2025年4月-5</title>
     </programme>
     <programme start="20250405112810" stop="20250405113000" channel="cctv8">
-        <title lang="zh">本集提要-我的后半生-13/36</title>
+        <title lang="zh">本集提要-我的后半生-第13集</title>
     </programme>
     <programme start="20250405113000" stop="20250405122435" channel="cctv8">
-        <title lang="zh">我的后半生-（高清版）-13/36</title>
+        <title lang="zh">我的后半生第13集</title>
     </programme>
     <programme start="20250405122435" stop="20250405122930" channel="cctv8">
-        <title lang="zh">本集提要-我的后半生-14/36</title>
+        <title lang="zh">本集提要-我的后半生-第14集</title>
     </programme>
     <programme start="20250405122930" stop="20250405132100" channel="cctv8">
-        <title lang="zh">我的后半生-（高清版）-14/36</title>
+        <title lang="zh">我的后半生第14集</title>
     </programme>
     <programme start="20250405132100" stop="20250405132405" channel="cctv8">
-        <title lang="zh">本集提要-棋士-13/22</title>
+        <title lang="zh">本集提要-棋士-第13集</title>
     </programme>
     <programme start="20250405132405" stop="20250405141335" channel="cctv8">
-        <title lang="zh">棋士13/22</title>
+        <title lang="zh">棋士第13集</title>
     </programme>
     <programme start="20250405141335" stop="20250405141540" channel="cctv8">
-        <title lang="zh">本集提要-《一路向前》4/30</title>
+        <title lang="zh">本集提要- 《一路向前》第4集</title>
     </programme>
     <programme start="20250405141540" stop="20250405150540" channel="cctv8">
-        <title lang="zh">一路向前4/30</title>
+        <title lang="zh">一路向前第4集</title>
     </programme>
     <programme start="20250405150540" stop="20250405155140" channel="cctv8">
-        <title lang="zh">一路向前5/30</title>
+        <title lang="zh">一路向前第5集</title>
     </programme>
     <programme start="20250405155140" stop="20250405155925" channel="cctv8">
         <title lang="zh">星推荐-2025年4月-5</title>
     </programme>
     <programme start="20250405155925" stop="20250405155900" channel="cctv8">
-        <title lang="zh">星火云雾街3/34</title>
+        <title lang="zh">星火云雾街第3集</title>
     </programme>
     <programme start="20250405164525" stop="20250405165005" channel="cctv8">
         <title lang="zh">星推荐-2025年4月-5</title>
     </programme>
     <programme start="20250405165005" stop="20250405173605" channel="cctv8">
-        <title lang="zh">星火云雾街4/34</title>
+        <title lang="zh">星火云雾街第4集</title>
     </programme>
     <programme start="20250405173605" stop="20250405182205" channel="cctv8">
-        <title lang="zh">星火云雾街5/34</title>
+        <title lang="zh">星火云雾街第5集</title>
     </programme>
     <programme start="20250405182205" stop="20250405190805" channel="cctv8">
-        <title lang="zh">星火云雾街6/34</title>
+        <title lang="zh">星火云雾街第6集</title>
     </programme>
     <programme start="20250405190805" stop="20250405192230" channel="cctv8">
         <title lang="zh">插花-2022-3</title>
     </programme>
     <programme start="20250405192230" stop="20250405200830" channel="cctv8">
-        <title lang="zh">星火云雾街7/34</title>
+        <title lang="zh">星火云雾街第7集</title>
     </programme>
     <programme start="20250405200830" stop="20250405202830" channel="cctv8">
         <title lang="zh">插花-2022-3</title>
@@ -2946,8 +2952,11 @@
     <programme start="20250405171630" stop="20250405175630" channel="cctv10">
         <title lang="zh">科幻地带-2025-15</title>
     </programme>
-    <programme start="20250405175630" stop="20250405220000" channel="cctv10">
+    <programme start="20250405175630" stop="20250405183630" channel="cctv10">
         <title lang="zh">百家讲坛-2025-95</title>
+    </programme>
+    <programme start="20250405183630" stop="20250405220000" channel="cctv10">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20250405220000" stop="20250405221000" channel="cctv10">
         <title lang="zh">读书-2025-95</title>
@@ -3121,10 +3130,10 @@
         <title lang="zh">电影《王昭君》</title>
     </programme>
     <programme start="20250405030900" stop="20250405035930" channel="cctv11">
-        <title lang="zh">亲爱的自己3/45</title>
+        <title lang="zh">亲爱的自己第3集</title>
     </programme>
     <programme start="20250405035930" stop="20250405045000" channel="cctv11">
-        <title lang="zh">亲爱的自己4/45</title>
+        <title lang="zh">亲爱的自己第4集</title>
     </programme>
     <programme start="20250405045000" stop="20250405060900" channel="cctv11">
         <title lang="zh">角儿来了-2023-16年年有好戏（一）</title>
@@ -3133,10 +3142,10 @@
         <title lang="zh">中国戏曲像音像集萃-2024-48京剧《白蛇传》</title>
     </programme>
     <programme start="20250405090800" stop="20250405095830" channel="cctv11">
-        <title lang="zh">一代匠师26/32</title>
+        <title lang="zh">一代匠师第26集</title>
     </programme>
     <programme start="20250405095830" stop="20250405105500" channel="cctv11">
-        <title lang="zh">一代匠师27/32</title>
+        <title lang="zh">一代匠师第27集</title>
     </programme>
     <programme start="20250405105500" stop="20250405113000" channel="cctv11">
         <title lang="zh">戏韵传奇-白蛇传-2</title>
@@ -3145,16 +3154,19 @@
         <title lang="zh">CCTV空中剧院-2025-69地方戏版 越剧《梁山伯与祝英台》</title>
     </programme>
     <programme start="20250405142500" stop="20250405151530" channel="cctv11">
-        <title lang="zh">大江大河210/39</title>
+        <title lang="zh">大江大河2第10集</title>
     </programme>
     <programme start="20250405151530" stop="20250405155900" channel="cctv11">
-        <title lang="zh">大江大河211/39</title>
+        <title lang="zh">大江大河2第11集</title>
     </programme>
     <programme start="20250405160600" stop="20250405165630" channel="cctv11">
-        <title lang="zh">大江大河212/39</title>
+        <title lang="zh">大江大河2第12集</title>
     </programme>
-    <programme start="20250405165630" stop="20250405220630" channel="cctv11">
+    <programme start="20250405165630" stop="20250405173230" channel="cctv11">
         <title lang="zh">戏韵传奇-白蛇传-2</title>
+    </programme>
+    <programme start="20250405173230" stop="20250405220630" channel="cctv11">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20250405220630" stop="20250405231950" channel="cctv11">
         <title lang="zh">CCTV空中剧院-2025-62地方戏版 好戏连连看 纪念范瑞娟诞辰100周年主题演出《风·范》2</title>
@@ -3393,8 +3405,11 @@
     <programme start="20250405171300" stop="20250405175300" channel="cctv12">
         <title lang="zh">小区大事-2025-14</title>
     </programme>
-    <programme start="20250405175300" stop="20250405220300" channel="cctv12">
+    <programme start="20250405175300" stop="20250405184400" channel="cctv12">
         <title lang="zh">方圆剧阵2025-95</title>
+    </programme>
+    <programme start="20250405184400" stop="20250405220300" channel="cctv12">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20250405220300" stop="20250405223600" channel="cctv12">
         <title lang="zh">法律讲堂-2025-95</title>
@@ -3879,6 +3894,9 @@
     <programme start="20250405152800" stop="20250405155900" channel="cctvchild">
         <title lang="zh">电影-英雄儿女</title>
     </programme>
+    <programme start="20250405171700" stop="20250405220000" channel="cctvchild">
+        <title lang="zh">再见</title>
+    </programme>
     <programme start="20250405220000" stop="20250405230000" channel="cctvchild">
         <title lang="zh">英雄出少年-2025-14</title>
     </programme>
@@ -4026,8 +4044,11 @@
     <programme start="20250405165130" stop="20250405173830" channel="cctv15">
         <title lang="zh">CCTV音乐厅-2025-51-名家名曲（22）</title>
     </programme>
-    <programme start="20250405173830" stop="20250405220000" channel="cctv15">
+    <programme start="20250405173830" stop="20250405182530" channel="cctv15">
         <title lang="zh">CCTV音乐厅-2025-48-古典交响作品系列音乐会（13）</title>
+    </programme>
+    <programme start="20250405182530" stop="20250405220000" channel="cctv15">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20250405220000" stop="20250405231230" channel="cctv15">
         <title lang="zh">精彩音乐汇-我的爱对你说-2025-90</title>
@@ -4435,13 +4456,13 @@
         <title lang="zh">田野欢歌-2025-6</title>
     </programme>
     <programme start="20250405012700" stop="20250405021715" channel="cctv17">
-        <title lang="zh">初婚20/35</title>
+        <title lang="zh">初婚第20集</title>
     </programme>
     <programme start="20250405021715" stop="20250405030945" channel="cctv17">
-        <title lang="zh">初婚21/35</title>
+        <title lang="zh">初婚第21集</title>
     </programme>
     <programme start="20250405030945" stop="20250405040000" channel="cctv17">
-        <title lang="zh">初婚22/35</title>
+        <title lang="zh">初婚第22集</title>
     </programme>
     <programme start="20250405040000" stop="20250405043100" channel="cctv17">
         <title lang="zh">中国三农报道</title>
@@ -4453,16 +4474,16 @@
         <title lang="zh">17故事会2024-农耕春秋之时和岁丰5</title>
     </programme>
     <programme start="20250405053700" stop="20250405063035" channel="cctv17">
-        <title lang="zh">我哥我嫂38/50</title>
+        <title lang="zh">我哥我嫂第38集</title>
     </programme>
     <programme start="20250405063035" stop="20250405072300" channel="cctv17">
-        <title lang="zh">我哥我嫂39/50</title>
+        <title lang="zh">我哥我嫂第39集</title>
     </programme>
     <programme start="20250405072300" stop="20250405081505" channel="cctv17">
-        <title lang="zh">我哥我嫂40/50</title>
+        <title lang="zh">我哥我嫂第40集</title>
     </programme>
     <programme start="20250405081505" stop="20250405090530" channel="cctv17">
-        <title lang="zh">我哥我嫂41/50</title>
+        <title lang="zh">我哥我嫂第41集</title>
     </programme>
     <programme start="20250405090530" stop="20250405093215" channel="cctv17">
         <title lang="zh">乡理乡亲-2025-49</title>
@@ -4474,13 +4495,13 @@
         <title lang="zh">中国三农报道</title>
     </programme>
     <programme start="20250405103415" stop="20250405112730" channel="cctv17">
-        <title lang="zh">初婚23/35</title>
+        <title lang="zh">初婚第23集</title>
     </programme>
     <programme start="20250405112730" stop="20250405122200" channel="cctv17">
-        <title lang="zh">初婚24/35</title>
+        <title lang="zh">初婚第24集</title>
     </programme>
     <programme start="20250405122200" stop="20250405131200" channel="cctv17">
-        <title lang="zh">初婚25/35</title>
+        <title lang="zh">初婚第25集</title>
     </programme>
     <programme start="20250405131200" stop="20250405140500" channel="cctv17">
         <title lang="zh">田野欢歌-2025-7</title>
@@ -4497,8 +4518,11 @@
     <programme start="20250405152500" stop="20250405155900" channel="cctv17">
         <title lang="zh">乐游新乡村-2025-3</title>
     </programme>
-    <programme start="20250405161700" stop="20250405215530" channel="cctv17">
+    <programme start="20250405161700" stop="20250405164800" channel="cctv17">
         <title lang="zh">三农群英汇-2025-129</title>
+    </programme>
+    <programme start="20250405164800" stop="20250405215530" channel="cctv17">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20250405215530" stop="20250405220600" channel="cctv17">
         <title lang="zh">17故事会2024-农耕春秋之时和岁丰5</title>
@@ -4928,6 +4952,9 @@
     </programme>
     <programme start="20250405155925" stop="20250405155900" channel="cctv4k">
         <title lang="zh">4K超清视野-2018-1-标识演绎-1/3</title>
+    </programme>
+    <programme start="20250405160000" stop="20250405220049" channel="cctv4k">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20250405220049" stop="20250405220125" channel="cctv4k">
         <title lang="zh">4K频道宣传片-标识演绎4</title>
@@ -6834,8 +6861,11 @@
     <programme start="20250405145645" stop="20250405145925" channel="cctv8k">
         <title lang="zh">2025年春节联欢晚会-幽兰（8K）</title>
     </programme>
-    <programme start="20250405145925" stop="20250405155900" channel="cctv8k">
+    <programme start="20250405145925" stop="20250405150000" channel="cctv8k">
         <title lang="zh">8K标识演绎-总宣（音乐改版）（8K）</title>
+    </programme>
+    <programme start="20250405150000" stop="20250405155900" channel="cctv8k">
+        <title lang="zh">8K再见</title>
     </programme>
     <programme start="20250405230000" stop="20250405230035" channel="cctv8k">
         <title lang="zh">8K标识演绎-总宣（音乐改版）（8K）</title>
