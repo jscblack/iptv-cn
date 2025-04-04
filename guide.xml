@@ -243,10 +243,10 @@
     <programme start="20250405113820" stop="20250405120600" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20250405120600" stop="20250405134440" channel="cctv1">
+    <programme start="20250405120600" stop="20250405134115" channel="cctv1">
         <title lang="zh">美美与共-和美之歌10</title>
     </programme>
-    <programme start="20250405134440" stop="20250405140000" channel="cctv1">
+    <programme start="20250405134115" stop="20250405140000" channel="cctv1">
         <title lang="zh">2024秘境之眼-铜壁关雨林奇境</title>
     </programme>
     <programme start="20250405140000" stop="20250405143430" channel="cctv1">
@@ -292,7 +292,7 @@
         <title lang="zh">雪迷宫17/31</title>
     </programme>
     <programme start="20250406012615" stop="20250406020000" channel="cctv1">
-        <title lang="zh">精彩一刻-本草流芳2</title>
+        <title lang="zh">本草流芳（精品展播）-石斛</title>
     </programme>
     <programme start="20250406020000" stop="20250406030720" channel="cctv1">
         <title lang="zh">新闻直播间</title>
@@ -1308,17 +1308,11 @@
     <programme start="20250404030000" stop="20250404031500" channel="cctv5">
         <title lang="zh">体坛快讯</title>
     </programme>
-    <programme start="20250404031500" stop="20250404043000" channel="cctv5">
+    <programme start="20250404031500" stop="20250404044300" channel="cctv5">
         <title lang="zh">2024/2025赛季美国职业篮球联赛-常规赛（勇士-湖人）</title>
     </programme>
-    <programme start="20250404043000" stop="20250404063500" channel="cctv5">
+    <programme start="20250404044300" stop="20250404080000" channel="cctv5">
         <title lang="zh">2025年WTT冠军赛(仁川站)-1/8决赛2</title>
-    </programme>
-    <programme start="20250404063500" stop="20250404065800" channel="cctv5">
-        <title lang="zh">艺术里的奥林匹克</title>
-    </programme>
-    <programme start="20250404065800" stop="20250404080000" channel="cctv5">
-        <title lang="zh">实况录像（奥林匹克）-2025年全国举重锦标赛 男子比赛1（4K）</title>
     </programme>
     <programme start="20250404080000" stop="20250404090500" channel="cctv5">
         <title lang="zh">运动一起赢</title>
