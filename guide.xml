@@ -246,16 +246,16 @@
     <programme start="20250407120005" stop="20250407120600" channel="cctv1">
         <title lang="zh">前情提要-青山是故乡-第9集</title>
     </programme>
-    <programme start="20250407120600" stop="20250407125335" channel="cctv1">
+    <programme start="20250407120600" stop="20250407125445" channel="cctv1">
         <title lang="zh">青山是故乡9/29</title>
     </programme>
-    <programme start="20250407125335" stop="20250407125805" channel="cctv1">
+    <programme start="20250407125445" stop="20250407125945" channel="cctv1">
         <title lang="zh">前情提要-青山是故乡-第10集</title>
     </programme>
-    <programme start="20250407125805" stop="20250407134700" channel="cctv1">
+    <programme start="20250407125945" stop="20250407134915" channel="cctv1">
         <title lang="zh">青山是故乡10/29</title>
     </programme>
-    <programme start="20250407134700" stop="20250407140000" channel="cctv1">
+    <programme start="20250407134915" stop="20250407140000" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme start="20250407140000" stop="20250407143415" channel="cctv1">
@@ -511,7 +511,7 @@
         <title lang="zh">正点财经</title>
     </programme>
     <programme start="20250407023100" stop="20250407024500" channel="cctv2">
-        <title lang="zh">周末特供2025-210</title>
+        <title lang="zh">周末特供2025-183</title>
     </programme>
     <programme start="20250407024500" stop="20250407030000" channel="cctv2">
         <title lang="zh">周末特供2025-211</title>
@@ -822,8 +822,14 @@
     <programme start="20250407034815" stop="20250407051120" channel="cctv3">
         <title lang="zh">开门大吉-2025-1</title>
     </programme>
-    <programme start="20250407051120" stop="20250407070845" channel="cctv3">
-        <title lang="zh">乐在旅途第三季-1</title>
+    <programme start="20250407051120" stop="20250407063445" channel="cctv3">
+        <title lang="zh">星光大道-2025-10（这一站星光3）</title>
+    </programme>
+    <programme start="20250407063445" stop="20250407063845" channel="cctv3">
+        <title lang="zh">中国文艺报道-2025-36 艺瞬间 大河之水</title>
+    </programme>
+    <programme start="20250407063845" stop="20250407070845" channel="cctv3">
+        <title lang="zh">乐在旅途第三季-先导片（新）</title>
     </programme>
     <programme start="20250407070845" stop="20250407080445" channel="cctv3">
         <title lang="zh">我爱满堂彩-2025-2一笑一周</title>
@@ -1377,20 +1383,17 @@
     <programme start="20250406100000" stop="20250406123500" channel="cctv5">
         <title lang="zh">2025年WTT冠军赛(仁川站)-决赛</title>
     </programme>
-    <programme start="20250406123500" stop="20250406140500" channel="cctv5">
-        <title lang="zh">实况录像-2025年世界泳联跳水世界杯墨西哥站（录播）1</title>
+    <programme start="20250406123500" stop="20250406130000" channel="cctv5">
+        <title lang="zh">赛事集锦(高清体育)-2025-40-2025年世界室内田径锦标赛精彩</title>
     </programme>
-    <programme start="20250406140500" stop="20250406155900" channel="cctv5">
-        <title lang="zh">2024/2025西班牙足球甲级联赛-第30轮（塞维利亚—马德里竞技）</title>
+    <programme start="20250406130000" stop="20250406150000" channel="cctv5">
+        <title lang="zh">2024/2025英格兰足球超级联赛-第31轮（布伦特福德—切尔西）</title>
     </programme>
-    <programme start="20250406162500" stop="20250406171300" channel="cctv5">
-        <title lang="zh">实况录像-2024/2025赛季短道速滑世界巡回赛 意大利站 2</title>
+    <programme start="20250406150000" stop="20250406155900" channel="cctv5">
+        <title lang="zh">2025年世界男子冰壶锦标赛-铜牌赛（加拿大—中国）</title>
     </programme>
-    <programme start="20250406171300" stop="20250406183800" channel="cctv5">
-        <title lang="zh">实况录像-2025年亚洲羽毛球混合团体锦标赛 1</title>
-    </programme>
-    <programme start="20250406183800" stop="20250406200000" channel="cctv5">
-        <title lang="zh">2025年澳大利亚网球公开赛-女单决赛（4K）</title>
+    <programme start="20250406180500" stop="20250406200000" channel="cctv5">
+        <title lang="zh">2025年澳大利亚网球公开赛-男单决赛（4K）</title>
     </programme>
     <programme start="20250406200000" stop="20250406213000" channel="cctv5">
         <title lang="zh">国际足球赛场-24-25赛季法甲联赛第9轮 朗斯—里尔</title>
@@ -1536,14 +1539,17 @@
     <programme start="20250406100500" stop="20250406113500" channel="cctv5plus">
         <title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 12进8 第一场2</title>
     </programme>
-    <programme start="20250406113500" stop="20250406125500" channel="cctv5plus">
+    <programme start="20250406113500" stop="20250406125000" channel="cctv5plus">
         <title lang="zh">实况录像-2024/2025赛季中国排球超级联赛女子决赛第二场 江苏中天钢铁—上海光明优倍</title>
     </programme>
-    <programme start="20250406125500" stop="20250406151000" channel="cctv5plus">
-        <title lang="zh">2024/2025英格兰足球超级联赛-第31轮（布伦特福德—切尔西）</title>
+    <programme start="20250406125000" stop="20250406141000" channel="cctv5plus">
+        <title lang="zh">实况录像-2025年世界泳联跳水世界杯墨西哥站（录播）</title>
     </programme>
-    <programme start="20250406151000" stop="20250406155900" channel="cctv5plus">
-        <title lang="zh">2025年ATP1000男子网球大师赛-迈阿密站 决赛（4K）</title>
+    <programme start="20250406141000" stop="20250406155900" channel="cctv5plus">
+        <title lang="zh">2024/2025西班牙足球甲级联赛-第30轮（塞维利亚—马德里竞技）</title>
+    </programme>
+    <programme start="20250406162200" stop="20250406163500" channel="cctv5plus">
+        <title lang="zh">实况录像-2024/2025赛季斯诺克世界公开赛 墨菲的147</title>
     </programme>
     <programme start="20250406163500" stop="20250406170600" channel="cctv5plus">
         <title lang="zh">实况录像-2025年世界雪车锦标赛 男子钢架雪车决赛</title>
@@ -3663,10 +3669,10 @@
     <programme start="20250406201500" stop="20250406210000" channel="cctv13">
         <title lang="zh">世界周刊</title>
     </programme>
-    <programme start="20250406210000" stop="20250406211600" channel="cctv13">
+    <programme start="20250406210000" stop="20250406211200" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20250406211600" stop="20250406220000" channel="cctv13">
+    <programme start="20250406211200" stop="20250406220000" channel="cctv13">
         <title lang="zh">面对面</title>
     </programme>
     <programme start="20250406220000" stop="20250407010000" channel="cctv13">
@@ -3684,19 +3690,19 @@
     <programme start="20250407030000" stop="20250407040000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20250407040000" stop="20250407043300" channel="cctv13">
+    <programme start="20250407040000" stop="20250407043400" channel="cctv13">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme start="20250407043300" stop="20250407050000" channel="cctv13">
+    <programme start="20250407043400" stop="20250407050000" channel="cctv13">
         <title lang="zh">法治在线</title>
     </programme>
     <programme start="20250407050000" stop="20250407060000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20250407060000" stop="20250407061600" channel="cctv13">
+    <programme start="20250407060000" stop="20250407061200" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20250407061600" stop="20250407070000" channel="cctv13">
+    <programme start="20250407061200" stop="20250407070000" channel="cctv13">
         <title lang="zh">面对面</title>
     </programme>
     <programme start="20250407070000" stop="20250407080000" channel="cctv13">
@@ -3711,10 +3717,13 @@
     <programme start="20250407100000" stop="20250407110000" channel="cctv13">
         <title lang="zh">共同关注</title>
     </programme>
-    <programme start="20250407110000" stop="20250407114030" channel="cctv13">
+    <programme start="20250407110000" stop="20250407113125" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20250407114030" stop="20250407120000" channel="cctv13">
+    <programme start="20250407113125" stop="20250407113805" channel="cctv13">
+        <title lang="zh">天气预报</title>
+    </programme>
+    <programme start="20250407113805" stop="20250407120000" channel="cctv13">
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20250407120000" stop="20250407130000" channel="cctv13">
@@ -3738,13 +3747,13 @@
     <programme start="20250407160000" stop="20250407170000" channel="cctv13">
         <title lang="zh">午夜新闻</title>
     </programme>
-    <programme start="20250407170000" stop="20250407172000" channel="cctv13">
+    <programme start="20250407170000" stop="20250407172100" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20250407172000" stop="20250407173600" channel="cctv13">
+    <programme start="20250407172100" stop="20250407173700" channel="cctv13">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20250407173600" stop="20250407180000" channel="cctv13">
+    <programme start="20250407173700" stop="20250407180000" channel="cctv13">
         <title lang="zh">法治在线</title>
     </programme>
     <programme start="20250407180000" stop="20250407183300" channel="cctv13">
@@ -3765,13 +3774,13 @@
     <programme start="20250407203300" stop="20250407210000" channel="cctv13">
         <title lang="zh">新闻1+1</title>
     </programme>
-    <programme start="20250407210000" stop="20250407211700" channel="cctv13">
+    <programme start="20250407210000" stop="20250407211800" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20250407211700" stop="20250407213300" channel="cctv13">
+    <programme start="20250407211800" stop="20250407213400" channel="cctv13">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20250407213300" stop="20250407220000" channel="cctv13">
+    <programme start="20250407213400" stop="20250407220000" channel="cctv13">
         <title lang="zh">法治在线</title>
     </programme>
     <programme start="20250407220000" stop="20250408010000" channel="cctv13">
@@ -3786,10 +3795,10 @@
     <programme start="20250408030000" stop="20250408040000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20250408040000" stop="20250408043300" channel="cctv13">
+    <programme start="20250408040000" stop="20250408043400" channel="cctv13">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme start="20250408043300" stop="20250408050000" channel="cctv13">
+    <programme start="20250408043400" stop="20250408050000" channel="cctv13">
         <title lang="zh">法治在线</title>
     </programme>
     <programme start="20250408050000" stop="20250408060000" channel="cctv13">
@@ -3810,10 +3819,13 @@
     <programme start="20250408100000" stop="20250408110000" channel="cctv13">
         <title lang="zh">共同关注</title>
     </programme>
-    <programme start="20250408110000" stop="20250408114025" channel="cctv13">
+    <programme start="20250408110000" stop="20250408113140" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20250408114025" stop="20250408120000" channel="cctv13">
+    <programme start="20250408113140" stop="20250408113835" channel="cctv13">
+        <title lang="zh">天气预报</title>
+    </programme>
+    <programme start="20250408113835" stop="20250408120000" channel="cctv13">
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20250408120000" stop="20250408130000" channel="cctv13">
