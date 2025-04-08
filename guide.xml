@@ -264,22 +264,22 @@
     <programme start="20250409110000" stop="20250409113805" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20250409113805" stop="20250409120000" channel="cctv1">
+    <programme start="20250409113805" stop="20250409120005" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20250409120000" stop="20250409120600" channel="cctv1">
+    <programme start="20250409120005" stop="20250409120600" channel="cctv1">
         <title lang="zh">前情提要-青山是故乡-第13集</title>
     </programme>
-    <programme start="20250409120600" stop="20250409125620" channel="cctv1">
+    <programme start="20250409120600" stop="20250409125700" channel="cctv1">
         <title lang="zh">青山是故乡13/29</title>
     </programme>
-    <programme start="20250409125620" stop="20250409125850" channel="cctv1">
+    <programme start="20250409125700" stop="20250409130015" channel="cctv1">
         <title lang="zh">前情提要-青山是故乡-第14集</title>
     </programme>
-    <programme start="20250409125850" stop="20250409134745" channel="cctv1">
+    <programme start="20250409130015" stop="20250409134945" channel="cctv1">
         <title lang="zh">青山是故乡14/29</title>
     </programme>
-    <programme start="20250409134745" stop="20250409140000" channel="cctv1">
+    <programme start="20250409134945" stop="20250409140000" channel="cctv1">
         <title lang="zh">山水间的家-主题曲</title>
     </programme>
     <programme start="20250409140000" stop="20250409143415" channel="cctv1">
@@ -922,7 +922,7 @@
         <title lang="zh">越战越勇-2025-13</title>
     </programme>
     <programme start="20250409125140" stop="20250409134725" channel="cctv3">
-        <title lang="zh">我爱满堂彩-2025-10一笑一周</title>
+        <title lang="zh">我爱满堂彩-2025-8一笑一周</title>
     </programme>
     <programme start="20250409134725" stop="20250409144325" channel="cctv3">
         <title lang="zh">回声嘹亮-2025-3音乐告白屋3</title>
@@ -999,11 +999,11 @@
     <programme start="20250410113000" stop="20250410124620" channel="cctv3">
         <title lang="zh">星光大道-2025-15（这一站星光8）</title>
     </programme>
-    <programme start="20250410124620" stop="20250410140905" channel="cctv3">
-        <title lang="zh">越战越勇-2025-12</title>
+    <programme start="20250410124620" stop="20250410134205" channel="cctv3">
+        <title lang="zh">我爱满堂彩-2025-10一笑一周</title>
     </programme>
-    <programme start="20250410140905" stop="20250410150505" channel="cctv3">
-        <title lang="zh">绽放吧！妈妈-51</title>
+    <programme start="20250410134205" stop="20250410150505" channel="cctv3">
+        <title lang="zh">越战越勇-2025-12</title>
     </programme>
     <programme start="20250410150505" stop="20250410155105" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2025-366 繁花 4/30</title>
@@ -2359,16 +2359,16 @@
         <title lang="zh">星推荐-2025年4月-8</title>
     </programme>
     <programme start="20250408112740" stop="20250408113000" channel="cctv8">
-        <title lang="zh">本集提要-我的后半生-19/36</title>
+        <title lang="zh">本集提要-我的后半生-第19集</title>
     </programme>
     <programme start="20250408113000" stop="20250408122435" channel="cctv8">
-        <title lang="zh">我的后半生-（高清版）-19/36</title>
+        <title lang="zh">我的后半生第19集</title>
     </programme>
     <programme start="20250408122435" stop="20250408122930" channel="cctv8">
-        <title lang="zh">本集提要-我的后半生-20/36</title>
+        <title lang="zh">本集提要-我的后半生-第20集</title>
     </programme>
     <programme start="20250408122930" stop="20250408132115" channel="cctv8">
-        <title lang="zh">我的后半生-（高清版）-20/36</title>
+        <title lang="zh">我的后半生第20集</title>
     </programme>
     <programme start="20250408132115" stop="20250408132415" channel="cctv8">
         <title lang="zh">本集提要-棋士-第16集</title>
@@ -2485,7 +2485,7 @@
         <title lang="zh">星推荐-2025年4月-9</title>
     </programme>
     <programme start="20250409112740" stop="20250409113000" channel="cctv8">
-        <title lang="zh">本集提要-我的后半生-21/36</title>
+        <title lang="zh">本集提要-我的后半生-第21集</title>
     </programme>
     <programme start="20250409113000" stop="20250409122435" channel="cctv8">
         <title lang="zh">我的后半生-（高清版）-21/36</title>
@@ -2500,7 +2500,7 @@
         <title lang="zh">本集提要-棋士-第17集</title>
     </programme>
     <programme start="20250409132415" stop="20250409141345" channel="cctv8">
-        <title lang="zh">棋士17/22</title>
+        <title lang="zh">棋士第17集</title>
     </programme>
     <programme start="20250409141345" stop="20250409141550" channel="cctv8">
         <title lang="zh">本集提要- 《一路向前》第10集</title>
