@@ -861,8 +861,11 @@
     <programme start="20250414125145" stop="20250414134630" channel="cctv3">
         <title lang="zh">绽放吧！妈妈-53</title>
     </programme>
-    <programme start="20250414134630" stop="20250414144230" channel="cctv3">
+    <programme start="20250414134630" stop="20250414144130" channel="cctv3">
         <title lang="zh">幸福账单-勇者之战-2025-14</title>
+    </programme>
+    <programme start="20250414144130" stop="20250414144230" channel="cctv3">
+        <title lang="zh">神采正飞扬-中国郎之夜-2</title>
     </programme>
     <programme start="20250414144230" stop="20250414152830" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2025-378 繁花16/30</title>
@@ -2262,59 +2265,65 @@
     <programme start="20250413200825" stop="20250413202825" channel="cctv8">
         <title lang="zh">插花-2022-3</title>
     </programme>
-    <programme start="20250413202825" stop="20250413204825" channel="cctv8">
+    <programme start="20250413202825" stop="20250413202900" channel="cctv8">
         <title lang="zh">插花-2015-12</title>
     </programme>
-    <programme start="20250413204825" stop="20250413205505" channel="cctv8">
+    <programme start="20250413202900" stop="20250413203540" channel="cctv8">
         <title lang="zh">星推荐-2025年4月-13</title>
     </programme>
-    <programme start="20250413205505" stop="20250413214105" channel="cctv8">
+    <programme start="20250413203540" stop="20250413212140" channel="cctv8">
         <title lang="zh">我怕来不及第25集</title>
     </programme>
-    <programme start="20250413214105" stop="20250413222705" channel="cctv8">
+    <programme start="20250413212140" stop="20250413220740" channel="cctv8">
         <title lang="zh">我怕来不及第26集</title>
     </programme>
-    <programme start="20250413222705" stop="20250413231710" channel="cctv8">
+    <programme start="20250413220740" stop="20250413225745" channel="cctv8">
         <title lang="zh">我怕来不及第27集</title>
     </programme>
-    <programme start="20250413231710" stop="20250414000310" channel="cctv8">
+    <programme start="20250413225745" stop="20250413234345" channel="cctv8">
         <title lang="zh">我怕来不及第28集</title>
     </programme>
-    <programme start="20250414000310" stop="20250414001135" channel="cctv8">
+    <programme start="20250413234345" stop="20250413235210" channel="cctv8">
         <title lang="zh">星推荐-2025年4月-13</title>
     </programme>
-    <programme start="20250414001135" stop="20250414010550" channel="cctv8">
+    <programme start="20250413235210" stop="20250414004625" channel="cctv8">
         <title lang="zh">叛逆者第8集</title>
     </programme>
-    <programme start="20250414010550" stop="20250414015605" channel="cctv8">
+    <programme start="20250414004625" stop="20250414013640" channel="cctv8">
         <title lang="zh">叛逆者第9集</title>
     </programme>
-    <programme start="20250414015605" stop="20250414020630" channel="cctv8">
+    <programme start="20250414013640" stop="20250414014705" channel="cctv8">
         <title lang="zh">星推荐-2025年4月-13</title>
     </programme>
-    <programme start="20250414020630" stop="20250414030230" channel="cctv8">
+    <programme start="20250414014705" stop="20250414024305" channel="cctv8">
         <title lang="zh">叛逆者第10集</title>
     </programme>
-    <programme start="20250414030230" stop="20250414035840" channel="cctv8">
+    <programme start="20250414024305" stop="20250414033915" channel="cctv8">
         <title lang="zh">叛逆者第11集</title>
     </programme>
-    <programme start="20250414035840" stop="20250414044440" channel="cctv8">
+    <programme start="20250414033915" stop="20250414042515" channel="cctv8">
         <title lang="zh">叛逆者第12集</title>
     </programme>
-    <programme start="20250414044440" stop="20250414045905" channel="cctv8">
+    <programme start="20250414042515" stop="20250414043940" channel="cctv8">
         <title lang="zh">星推荐-2025年4月-13</title>
     </programme>
-    <programme start="20250414045905" stop="20250414055435" channel="cctv8">
+    <programme start="20250414043940" stop="20250414053510" channel="cctv8">
         <title lang="zh">人世间第23集</title>
     </programme>
-    <programme start="20250414055435" stop="20250414064935" channel="cctv8">
+    <programme start="20250414053510" stop="20250414063010" channel="cctv8">
         <title lang="zh">人世间第24集</title>
     </programme>
-    <programme start="20250414064935" stop="20250414074550" channel="cctv8">
+    <programme start="20250414063010" stop="20250414072625" channel="cctv8">
         <title lang="zh">人世间第25集</title>
     </programme>
-    <programme start="20250414074550" stop="20250414083040" channel="cctv8">
+    <programme start="20250414072625" stop="20250414081225" channel="cctv8">
         <title lang="zh">人世间第26集</title>
+    </programme>
+    <programme start="20250414081225" stop="20250414082620" channel="cctv8">
+        <title lang="zh">星推荐-2025年4月-13</title>
+    </programme>
+    <programme start="20250414082620" stop="20250414083040" channel="cctv8">
+        <title lang="zh">插花-2015-3</title>
     </programme>
     <programme start="20250414083040" stop="20250414093215" channel="cctv8">
         <title lang="zh">陌上又花开第27集</title>
@@ -6600,8 +6609,11 @@
     <programme start="20250414135925" stop="20250414145925" channel="cctv8k">
         <title lang="zh">神奇的中国-1(8K)</title>
     </programme>
-    <programme start="20250414145925" stop="20250414155900" channel="cctv8k">
+    <programme start="20250414145925" stop="20250414150000" channel="cctv8k">
         <title lang="zh">8K标识演绎-总宣（音乐改版）（8K）</title>
+    </programme>
+    <programme start="20250414150000" stop="20250414155900" channel="cctv8k">
+        <title lang="zh">8K再见</title>
     </programme>
     <programme start="20250414230000" stop="20250414230035" channel="cctv8k">
         <title lang="zh">8K标识演绎-总宣（音乐改版）（8K）</title>
