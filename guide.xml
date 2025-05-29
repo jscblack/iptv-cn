@@ -802,7 +802,7 @@
         <title lang="zh">中央广播电视总台首届青年京剧演员大会-第三阶段精华版8</title>
     </programme>
     <programme start="20250529203325" stop="20250529213325" channel="cctv3">
-        <title lang="zh">角儿来了-2024-38尹韵风华（一）</title>
+        <title lang="zh">综艺盛典-2025-17选对健康17</title>
     </programme>
     <programme start="20250529213325" stop="20250529213620" channel="cctv3">
         <title lang="zh">2025年春节联欢晚会-COUNTING STARS（4K）</title>
@@ -853,7 +853,7 @@
         <title lang="zh">综艺喜乐汇-2025-308</title>
     </programme>
     <programme start="20250530134820" stop="20250530145305" channel="cctv3">
-        <title lang="zh">综艺盛典-2025-19选对健康19</title>
+        <title lang="zh">综艺盛典-2025-20选对健康20</title>
     </programme>
     <programme start="20250530145305" stop="20250530153905" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2025-517 风雨送春归 5/40</title>
@@ -1254,16 +1254,10 @@
     <programme start="20250531000000" stop="20250531010000" channel="cctv4">
         <title lang="zh">今日环球</title>
     </programme>
-    <programme start="20250531010000" stop="20250531012700" channel="cctv4">
-        <title lang="zh">今日亚洲</title>
+    <programme start="20250531010000" stop="20250531033000" channel="cctv4">
+        <title lang="zh">传奇中国节·四海共端阳-1</title>
     </programme>
-    <programme start="20250531012700" stop="20250531022730" channel="cctv4">
-        <title lang="zh">中国文艺-致敬经典2025-21</title>
-    </programme>
-    <programme start="20250531022730" stop="20250531032655" channel="cctv4">
-        <title lang="zh">环球综艺秀-2025-21</title>
-    </programme>
-    <programme start="20250531032655" stop="20250531040000" channel="cctv4">
+    <programme start="20250531033000" stop="20250531040000" channel="cctv4">
         <title lang="zh">海峡两岸-2025-150</title>
     </programme>
     <programme start="20250531040000" stop="20250531050015" channel="cctv4">
@@ -1284,23 +1278,14 @@
     <programme start="20250531073530" stop="20250531081715" channel="cctv4">
         <title lang="zh">上甘岭-(四套)-19/24</title>
     </programme>
-    <programme start="20250531081715" stop="20250531085930" channel="cctv4">
+    <programme start="20250531081715" stop="20250531090000" channel="cctv4">
         <title lang="zh">上甘岭-(四套)-20/24</title>
     </programme>
-    <programme start="20250531085930" stop="20250531092530" channel="cctv4">
-        <title lang="zh">走遍中国-2025-83</title>
-    </programme>
-    <programme start="20250531092530" stop="20250531095400" channel="cctv4">
-        <title lang="zh">走遍中国-2025-84</title>
-    </programme>
-    <programme start="20250531095400" stop="20250531100000" channel="cctv4">
-        <title lang="zh">记住乡愁-片段展播-2024-4</title>
-    </programme>
-    <programme start="20250531100000" stop="20250531110000" channel="cctv4">
+    <programme start="20250531090000" stop="20250531100200" channel="cctv4">
         <title lang="zh">中国文艺-致敬经典2025-22</title>
     </programme>
-    <programme start="20250531110000" stop="20250531113000" channel="cctv4">
-        <title lang="zh">中国新闻</title>
+    <programme start="20250531100200" stop="20250531113000" channel="cctv4">
+        <title lang="zh">中国中医药大会（第二季）-11</title>
     </programme>
     <programme start="20250531113000" stop="20250531120000" channel="cctv4">
         <title lang="zh">今日亚洲</title>
@@ -1416,16 +1401,13 @@
     <programme start="20250530000000" stop="20250530030000" channel="cctv5">
         <title lang="zh">2024/2025赛季美国职业篮球联赛-东部决赛（步行者-尼克斯）第五场</title>
     </programme>
-    <programme start="20250530030000" stop="20250530040000" channel="cctv5">
-        <title lang="zh">实况录像（奥林匹克）-2025年亚洲举重锦标赛 女子59公斤级决赛（4K）</title>
+    <programme start="20250530030000" stop="20250530043000" channel="cctv5">
+        <title lang="zh">2025年中华龙舟大赛四川恩阳站-预赛</title>
     </programme>
-    <programme start="20250530040000" stop="20250530050500" channel="cctv5">
+    <programme start="20250530043000" stop="20250530053000" channel="cctv5">
         <title lang="zh">体坛快讯</title>
     </programme>
-    <programme start="20250530050500" stop="20250530052800" channel="cctv5">
-        <title lang="zh">艺术里的奥林匹克(4K)</title>
-    </programme>
-    <programme start="20250530052800" stop="20250530070000" channel="cctv5">
+    <programme start="20250530053000" stop="20250530070000" channel="cctv5">
         <title lang="zh">实况录像-2025年法国网球公开赛 第二轮（录播）2</title>
     </programme>
     <programme start="20250530070000" stop="20250530080000" channel="cctv5">
@@ -1566,11 +1548,11 @@
     <programme start="20250529220000" stop="20250529233000" channel="cctv5plus">
         <title lang="zh">赛事集锦-2025年世界女子冰壶锦标赛 2（4K）</title>
     </programme>
-    <programme start="20250529233000" stop="20250530010000" channel="cctv5plus">
-        <title lang="zh">赛事集锦-2025年世界室内田径锦标赛 2（4K）</title>
+    <programme start="20250529233000" stop="20250530000000" channel="cctv5plus">
+        <title lang="zh">赛事集锦(高清体育)-2025-70-2024/2025英格兰足球超级联赛第38轮集锦</title>
     </programme>
-    <programme start="20250530010000" stop="20250530030000" channel="cctv5plus">
-        <title lang="zh">实况录像（奥林匹克）-2025年苏迪曼杯羽毛球赛 半决赛（4K）</title>
+    <programme start="20250530000000" stop="20250530030000" channel="cctv5plus">
+        <title lang="zh">2024/2025赛季北美冰球职业联赛-斯坦利杯 西部决赛（埃德蒙顿油人—达拉斯星）第五场</title>
     </programme>
     <programme start="20250530030000" stop="20250530043000" channel="cctv5plus">
         <title lang="zh">2025年国际冰联男子冰球世界锦标赛-顶级组  半决赛1</title>
@@ -1722,8 +1704,11 @@
     <programme start="20250529180718" stop="20250529194314" channel="cctv6">
         <title lang="zh">中原女警</title>
     </programme>
-    <programme start="20250529194314" stop="20250529213457" channel="cctv6">
+    <programme start="20250529194314" stop="20250529201842" channel="cctv6">
         <title lang="zh">杀手一号（上）</title>
+    </programme>
+    <programme start="20250529201842" stop="20250529213457" channel="cctv6">
+        <title lang="zh">杀手一号（下）</title>
     </programme>
     <programme start="20250529213457" stop="20250529231458" channel="cctv6">
         <title lang="zh">神跤</title>
@@ -1912,7 +1897,7 @@
         <title lang="zh">世界战史-2025-91</title>
     </programme>
     <programme start="20250529093130" stop="20250529095630" channel="cctv7">
-        <title lang="zh">军事纪录-2025-100</title>
+        <title lang="zh">军事纪录-2025-101</title>
     </programme>
     <programme start="20250529095630" stop="20250529100230" channel="cctv7">
         <title lang="zh">国防微视频-军歌嘹亮-为青春镀光</title>
@@ -1993,7 +1978,7 @@
         <title lang="zh">国防故事-2025-71</title>
     </programme>
     <programme start="20250530032830" stop="20250530035330" channel="cctv7">
-        <title lang="zh">军事纪录-2025-100</title>
+        <title lang="zh">军事纪录-2025-101</title>
     </programme>
     <programme start="20250530035330" stop="20250530040000" channel="cctv7">
         <title lang="zh">国防微视频-军歌嘹亮-精武之歌</title>
@@ -2011,7 +1996,7 @@
         <title lang="zh">兵器面面观-2025-107</title>
     </programme>
     <programme start="20250530061500" stop="20250530064230" channel="cctv7">
-        <title lang="zh">军事纪录-2025-100</title>
+        <title lang="zh">军事纪录-2025-101</title>
     </programme>
     <programme start="20250530064230" stop="20250530073000" channel="cctv7">
         <title lang="zh">太行山上1/26</title>
@@ -2026,7 +2011,7 @@
         <title lang="zh">世界战史-2025-92</title>
     </programme>
     <programme start="20250530093030" stop="20250530095530" channel="cctv7">
-        <title lang="zh">军事纪录-2025-101</title>
+        <title lang="zh">军事纪录-2025-102</title>
     </programme>
     <programme start="20250530095530" stop="20250530100230" channel="cctv7">
         <title lang="zh">国防微视频-军歌嘹亮-迷彩青春向战行</title>
@@ -2254,19 +2239,19 @@
         <title lang="zh">本集提要-藏海传-第23集</title>
     </programme>
     <programme start="20250529113000" stop="20250529122410" channel="cctv8">
-        <title lang="zh">藏海传23/40</title>
+        <title lang="zh">藏海传第23集</title>
     </programme>
     <programme start="20250529122410" stop="20250529122905" channel="cctv8">
         <title lang="zh">本集提要-藏海传-第24集</title>
     </programme>
     <programme start="20250529122905" stop="20250529132000" channel="cctv8">
-        <title lang="zh">藏海传24/40</title>
+        <title lang="zh">藏海传第24集</title>
     </programme>
     <programme start="20250529132000" stop="20250529132325" channel="cctv8">
         <title lang="zh">本集提要-我叫张思德-第1集</title>
     </programme>
     <programme start="20250529132325" stop="20250529141415" channel="cctv8">
-        <title lang="zh">我叫张思德1/20</title>
+        <title lang="zh">我叫张思德第1集</title>
     </programme>
     <programme start="20250529141415" stop="20250529150300" channel="cctv8">
         <title lang="zh">北上第1集</title>
@@ -2377,7 +2362,7 @@
         <title lang="zh">藏海传25/40</title>
     </programme>
     <programme start="20250530122410" stop="20250530122905" channel="cctv8">
-        <title lang="zh">本集提要-藏海传-26/40</title>
+        <title lang="zh">本集提要-藏海传-第26集</title>
     </programme>
     <programme start="20250530122905" stop="20250530132000" channel="cctv8">
         <title lang="zh">藏海传26/40</title>
