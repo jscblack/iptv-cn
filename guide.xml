@@ -282,16 +282,16 @@
     <programme start="20250624120035" stop="20250624120500" channel="cctv1">
         <title lang="zh">前情提要-淬火年代-第7集</title>
     </programme>
-    <programme start="20250624120500" stop="20250624125620" channel="cctv1">
+    <programme start="20250624120500" stop="20250624125615" channel="cctv1">
         <title lang="zh">淬火年代7/34</title>
     </programme>
-    <programme start="20250624125620" stop="20250624125920" channel="cctv1">
+    <programme start="20250624125615" stop="20250624125915" channel="cctv1">
         <title lang="zh">前情提要-淬火年代-第8集</title>
     </programme>
-    <programme start="20250624125920" stop="20250624135220" channel="cctv1">
+    <programme start="20250624125915" stop="20250624135210" channel="cctv1">
         <title lang="zh">淬火年代8/34</title>
     </programme>
-    <programme start="20250624135220" stop="20250624140000" channel="cctv1">
+    <programme start="20250624135210" stop="20250624140000" channel="cctv1">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
     <programme start="20250624140000" stop="20250624143315" channel="cctv1">
@@ -415,7 +415,7 @@
         <title lang="zh">晚间新闻</title>
     </programme>
     <programme start="20250625143315" stop="20250625150700" channel="cctv1">
-        <title lang="zh">寻古中国-古滇记1</title>
+        <title lang="zh">寻古中国（精品展播）-古滇记1</title>
     </programme>
     <programme start="20250625150700" stop="20250625155900" channel="cctv1">
         <title lang="zh">简牍探中华第二季-9</title>
@@ -873,14 +873,17 @@
     <programme start="20250624050000" stop="20250624052240" channel="cctv3">
         <title lang="zh">文化十分-2025-131</title>
     </programme>
-    <programme start="20250624052240" stop="20250624071825" channel="cctv3">
-        <title lang="zh">国家宝藏第四季-6</title>
+    <programme start="20250624052240" stop="20250624071610" channel="cctv3">
+        <title lang="zh">乐在旅途第三季-1</title>
     </programme>
-    <programme start="20250624071825" stop="20250624081255" channel="cctv3">
-        <title lang="zh">幸福账单-勇者之战-2025-16</title>
+    <programme start="20250624071610" stop="20250624072625" channel="cctv3">
+        <title lang="zh">我的艺术夜校-我们的文学课-1</title>
     </programme>
-    <programme start="20250624081255" stop="20250624091155" channel="cctv3">
-        <title lang="zh">黄金100秒-2025-10TOP音乐咖10</title>
+    <programme start="20250624072625" stop="20250624083110" channel="cctv3">
+        <title lang="zh">非常6+1-2025-15萌娃问天下15</title>
+    </programme>
+    <programme start="20250624083110" stop="20250624091155" channel="cctv3">
+        <title lang="zh">动物园里有什么-1</title>
     </programme>
     <programme start="20250624091155" stop="20250624100715" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2025-615</title>
@@ -945,14 +948,14 @@
     <programme start="20250625050000" stop="20250625052655" channel="cctv3">
         <title lang="zh">文化十分-2025-132</title>
     </programme>
-    <programme start="20250625052655" stop="20250625073040" channel="cctv3">
+    <programme start="20250625052655" stop="20250625073210" channel="cctv3">
         <title lang="zh">乐在旅途第三季-10</title>
     </programme>
-    <programme start="20250625073040" stop="20250625083525" channel="cctv3">
-        <title lang="zh">综艺盛典-2025-16选对健康16</title>
+    <programme start="20250625073210" stop="20250625082655" channel="cctv3">
+        <title lang="zh">我爱满堂彩-2025-15一笑一周</title>
     </programme>
-    <programme start="20250625083525" stop="20250625090655" channel="cctv3">
-        <title lang="zh">黄金100秒-2025-5TOP音乐咖5</title>
+    <programme start="20250625082655" stop="20250625090655" channel="cctv3">
+        <title lang="zh">动物园里有什么-1</title>
     </programme>
     <programme start="20250625090655" stop="20250625100520" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2025-616</title>
@@ -1077,11 +1080,8 @@
     <programme start="20250623091500" stop="20250623100000" channel="cctv4">
         <title lang="zh">远方的家2025-36</title>
     </programme>
-    <programme start="20250623100000" stop="20250623103000" channel="cctv4">
+    <programme start="20250623100000" stop="20250623110000" channel="cctv4">
         <title lang="zh">中国新闻</title>
-    </programme>
-    <programme start="20250623103000" stop="20250623110000" channel="cctv4">
-        <title lang="zh">中国文艺-2025-124</title>
     </programme>
     <programme start="20250623110000" stop="20250623113000" channel="cctv4">
         <title lang="zh">中国新闻</title>
@@ -1167,16 +1167,16 @@
     <programme start="20250624010000" stop="20250624012800" channel="cctv4">
         <title lang="zh">今日亚洲</title>
     </programme>
-    <programme start="20250624012800" stop="20250624022655" channel="cctv4">
-        <title lang="zh">健康中国-2025-25</title>
+    <programme start="20250624012800" stop="20250624020000" channel="cctv4">
+        <title lang="zh">走遍中国-2025-99</title>
     </programme>
-    <programme start="20250624022655" stop="20250624025455" channel="cctv4">
-        <title lang="zh">中国缘-2025-25</title>
+    <programme start="20250624020000" stop="20250624030000" channel="cctv4">
+        <title lang="zh">2025年国新办发布会-5</title>
     </programme>
-    <programme start="20250624025455" stop="20250624032655" channel="cctv4">
+    <programme start="20250624030000" stop="20250624033000" channel="cctv4">
         <title lang="zh">国家记忆-2025-61</title>
     </programme>
-    <programme start="20250624032655" stop="20250624040000" channel="cctv4">
+    <programme start="20250624033000" stop="20250624040000" channel="cctv4">
         <title lang="zh">海峡两岸-2025-174</title>
     </programme>
     <programme start="20250624040000" stop="20250624050130" channel="cctv4">
@@ -2374,19 +2374,19 @@
         <title lang="zh">本集提要-长安的荔枝-第33集</title>
     </programme>
     <programme start="20250623113000" stop="20250623122425" channel="cctv8">
-        <title lang="zh">长安的荔枝33/35</title>
+        <title lang="zh">长安的荔枝第33集</title>
     </programme>
     <programme start="20250623122425" stop="20250623122925" channel="cctv8">
         <title lang="zh">本集提要-长安的荔枝-第34集</title>
     </programme>
     <programme start="20250623122925" stop="20250623132110" channel="cctv8">
-        <title lang="zh">长安的荔枝34/35</title>
+        <title lang="zh">长安的荔枝第34集</title>
     </programme>
     <programme start="20250623132110" stop="20250623132445" channel="cctv8">
         <title lang="zh">本集提要-长安的荔枝-第35集</title>
     </programme>
     <programme start="20250623132445" stop="20250623141535" channel="cctv8">
-        <title lang="zh">长安的荔枝35/35</title>
+        <title lang="zh">长安的荔枝第35集</title>
     </programme>
     <programme start="20250623141535" stop="20250623150320" channel="cctv8">
         <title lang="zh">剧说很好看-2025-23</title>
