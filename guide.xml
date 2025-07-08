@@ -273,16 +273,16 @@
     <programme start="20250709120105" stop="20250709120600" channel="cctv1">
         <title lang="zh">前情提要-淬火年代-第27集</title>
     </programme>
-    <programme start="20250709120600" stop="20250709125615" channel="cctv1">
-        <title lang="zh">淬火年代27/34</title>
+    <programme start="20250709120600" stop="20250709125555" channel="cctv1">
+        <title lang="zh">淬火年代第27集</title>
     </programme>
-    <programme start="20250709125615" stop="20250709125845" channel="cctv1">
+    <programme start="20250709125555" stop="20250709130015" channel="cctv1">
         <title lang="zh">前情提要-淬火年代-第28集</title>
     </programme>
-    <programme start="20250709125845" stop="20250709135140" channel="cctv1">
-        <title lang="zh">淬火年代28/34</title>
+    <programme start="20250709130015" stop="20250709135215" channel="cctv1">
+        <title lang="zh">淬火年代第28集</title>
     </programme>
-    <programme start="20250709135140" stop="20250709140000" channel="cctv1">
+    <programme start="20250709135215" stop="20250709140000" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme start="20250709140000" stop="20250709143500" channel="cctv1">
@@ -2449,7 +2449,7 @@
         <title lang="zh">星推荐-2025年7月-9</title>
     </programme>
     <programme start="20250709112810" stop="20250709113000" channel="cctv8">
-        <title lang="zh">本集提要-以法之名-31/36</title>
+        <title lang="zh">本集提要-以法之名-第31集</title>
     </programme>
     <programme start="20250709113000" stop="20250709122415" channel="cctv8">
         <title lang="zh">以法之名31/36</title>
@@ -2467,7 +2467,7 @@
         <title lang="zh">春晖16/32</title>
     </programme>
     <programme start="20250709141400" stop="20250709141605" channel="cctv8">
-        <title lang="zh">本集提要-春晖-17/32</title>
+        <title lang="zh">本集提要-春晖-第17集</title>
     </programme>
     <programme start="20250709141605" stop="20250709150450" channel="cctv8">
         <title lang="zh">春晖17/32</title>
@@ -4392,14 +4392,17 @@
     <programme start="20250709075500" stop="20250709081500" channel="cctv16">
         <title lang="zh">艺术里的奥林匹克2025-18</title>
     </programme>
-    <programme start="20250709081500" stop="20250709090500" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 攀岩比赛</title>
+    <programme start="20250709081500" stop="20250709093000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2025年中国女篮热身赛 海口站 中国队—澳大利亚队（4K）</title>
     </programme>
-    <programme start="20250709090500" stop="20250709102200" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2025年中国女篮热身赛 海口站 中国队—澳大利亚队</title>
+    <programme start="20250709093000" stop="20250709102200" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2025年东亚足球锦标赛 日本队—中国香港队 录播（4K）</title>
     </programme>
-    <programme start="20250709102200" stop="20250709112000" channel="cctv16">
+    <programme start="20250709102200" stop="20250709105500" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 举重男子102公斤级决赛</title>
+    </programme>
+    <programme start="20250709105500" stop="20250709112000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 攀岩男子速度1/4决赛、半决赛、决赛（4K）</title>
     </programme>
     <programme start="20250709112000" stop="20250709115500" channel="cctv16">
         <title lang="zh">运动一起赢-2025-273</title>
