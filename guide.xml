@@ -166,7 +166,7 @@
         <title lang="zh">前情提要-浴血荣光-第12集</title>
     </programme>
     <programme start="20250723125910" stop="20250723135150" channel="cctv1">
-        <title lang="zh">浴血荣光12/40</title>
+        <title lang="zh">浴血荣光第12集</title>
     </programme>
     <programme start="20250723135150" stop="20250723140000" channel="cctv1">
         <title lang="zh">山水间的家-主题曲</title>
@@ -841,7 +841,7 @@
         <title lang="zh">动物园里有什么-2</title>
     </programme>
     <programme start="20250724011810" stop="20250724021405" channel="cctv3">
-        <title lang="zh">综艺喜乐汇-2025-940</title>
+        <title lang="zh">幸福账单-勇者之战-2025-23</title>
     </programme>
     <programme start="20250724021405" stop="20250724033525" channel="cctv3">
         <title lang="zh">星光大道-2025-22（这一站星光15）</title>
@@ -1449,11 +1449,14 @@
     <programme start="20250724043000" stop="20250724053500" channel="cctv5">
         <title lang="zh">体坛快讯</title>
     </programme>
-    <programme start="20250724053500" stop="20250724055800" channel="cctv5">
+    <programme start="20250724053500" stop="20250724055000" channel="cctv5">
         <title lang="zh">艺术里的奥林匹克(4K)</title>
     </programme>
-    <programme start="20250724055800" stop="20250724073000" channel="cctv5">
-        <title lang="zh">实况录像-2025年世乒联大满贯赛 美国站 3</title>
+    <programme start="20250724055000" stop="20250724060000" channel="cctv5">
+        <title lang="zh">实况录像-2024/2025赛季斯诺克大师赛半决赛 墨菲的147</title>
+    </programme>
+    <programme start="20250724060000" stop="20250724073000" channel="cctv5">
+        <title lang="zh">2025年中国羽毛球公开赛-第2轮</title>
     </programme>
     <programme start="20250724073000" stop="20250724080000" channel="cctv5">
         <title lang="zh">实况录像-2025年射箭世界杯 西班牙站 2</title>
@@ -1629,14 +1632,11 @@
     <programme start="20250724003000" stop="20250724020000" channel="cctv5plus">
         <title lang="zh">实况录像-2025年世界田联钻石联赛 尤金站</title>
     </programme>
-    <programme start="20250724020000" stop="20250724033000" channel="cctv5plus">
-        <title lang="zh">实况录像-2025年国际篮联U19女子世界杯 三四名决赛</title>
-    </programme>
-    <programme start="20250724033000" stop="20250724040000" channel="cctv5plus">
-        <title lang="zh">实况录像-2025年射箭世界杯 西班牙站 1</title>
+    <programme start="20250724020000" stop="20250724040000" channel="cctv5plus">
+        <title lang="zh">2025年中国羽毛球公开赛- 第二轮</title>
     </programme>
     <programme start="20250724040000" stop="20250724053000" channel="cctv5plus">
-        <title lang="zh">2025年东亚足球锦标赛-中国台北女足—中国女足</title>
+        <title lang="zh">实况录像-2025年国际篮联U19女子世界杯 三四名决赛</title>
     </programme>
     <programme start="20250724053000" stop="20250724064500" channel="cctv5plus">
         <title lang="zh">实况录像-2025年女篮亚洲杯 半决赛</title>
@@ -1803,37 +1803,49 @@
     <programme start="20250723180428" stop="20250723193730" channel="cctv6">
         <title lang="zh">八角笼</title>
     </programme>
-    <programme start="20250723193730" stop="20250724002102" channel="cctv6">
+    <programme start="20250723193730" stop="20250723210831" channel="cctv6">
         <title lang="zh">乡村婚礼</title>
     </programme>
-    <programme start="20250724002102" stop="20250724021020" channel="cctv6">
+    <programme start="20250723210831" stop="20250723223822" channel="cctv6">
+        <title lang="zh">税金马车</title>
+    </programme>
+    <programme start="20250723223822" stop="20250723231211" channel="cctv6">
+        <title lang="zh">我和我的家乡：神笔马亮</title>
+    </programme>
+    <programme start="20250723231211" stop="20250724005949" channel="cctv6">
         <title lang="zh">熊猫计划</title>
     </programme>
-    <programme start="20250724021020" stop="20250724035224" channel="cctv6">
+    <programme start="20250724005949" stop="20250724024253" channel="cctv6">
         <title lang="zh">美术老师的放羊班</title>
     </programme>
-    <programme start="20250724035224" stop="20250724053141" channel="cctv6">
+    <programme start="20250724024253" stop="20250724042520" channel="cctv6">
         <title lang="zh">夺樽</title>
     </programme>
-    <programme start="20250724053141" stop="20250724053756" channel="cctv6">
+    <programme start="20250724042520" stop="20250724043110" channel="cctv6">
         <title lang="zh">音乐电影欣赏</title>
     </programme>
-    <programme start="20250724053756" stop="20250724071500" channel="cctv6">
+    <programme start="20250724043110" stop="20250724060709" channel="cctv6">
         <title lang="zh">刺客道</title>
     </programme>
-    <programme start="20250724071500" stop="20250724084928" channel="cctv6">
+    <programme start="20250724060709" stop="20250724073852" channel="cctv6">
         <title lang="zh">尼斯大冒险</title>
     </programme>
-    <programme start="20250724084928" stop="20250724102303" channel="cctv6">
+    <programme start="20250724073852" stop="20250724080335" channel="cctv6">
+        <title lang="zh">我和我的家乡:天上掉下个UFO</title>
+    </programme>
+    <programme start="20250724080335" stop="20250724082739" channel="cctv6">
+        <title lang="zh">我和我的家乡：回乡之路</title>
+    </programme>
+    <programme start="20250724082739" stop="20250724101114" channel="cctv6">
         <title lang="zh">疯子老爸</title>
     </programme>
-    <programme start="20250724102303" stop="20250724103348" channel="cctv6">
+    <programme start="20250724101114" stop="20250724102334" channel="cctv6">
         <title lang="zh">今日影评2025-147</title>
     </programme>
-    <programme start="20250724103348" stop="20250724121853" channel="cctv6">
+    <programme start="20250724102334" stop="20250724121638" channel="cctv6">
         <title lang="zh">征程之星火</title>
     </programme>
-    <programme start="20250724121853" stop="20250724140000" channel="cctv6">
+    <programme start="20250724121638" stop="20250724140000" channel="cctv6">
         <title lang="zh">迷案寻凶</title>
     </programme>
     <programme start="20250724140000" stop="20250724141800" channel="cctv6">
@@ -1842,55 +1854,70 @@
     <programme start="20250724141800" stop="20250724142320" channel="cctv6">
         <title lang="zh">中国福利彩票阳光开奖2025-07-24</title>
     </programme>
-    <programme start="20250724142320" stop="20250724155620" channel="cctv6">
-        <title lang="zh">穿条纹睡衣的男孩</title>
+    <programme start="20250724142320" stop="20250724150027" channel="cctv6">
+        <title lang="zh">穿条纹睡衣的男孩（上）</title>
     </programme>
-    <programme start="20250724155620" stop="20250724155900" channel="cctv6">
+    <programme start="20250724150027" stop="20250724150127" channel="cctv6">
         <title lang="zh">中国体育彩票阳光开奖2025-07-24</title>
     </programme>
-    <programme start="20250724160025" stop="20250724161455" channel="cctv6">
+    <programme start="20250724150127" stop="20250724155545" channel="cctv6">
+        <title lang="zh">穿条纹睡衣的男孩（下）</title>
+    </programme>
+    <programme start="20250724155545" stop="20250724155900" channel="cctv6">
         <title lang="zh">今日影评2025-147</title>
     </programme>
-    <programme start="20250724161455" stop="20250724180828" channel="cctv6">
+    <programme start="20250724160845" stop="20250724175818" channel="cctv6">
         <title lang="zh">天道王</title>
     </programme>
-    <programme start="20250724180828" stop="20250724193637" channel="cctv6">
+    <programme start="20250724175818" stop="20250724192627" channel="cctv6">
         <title lang="zh">我们是冠军</title>
     </programme>
-    <programme start="20250724193637" stop="20250724234321" channel="cctv6">
-        <title lang="zh">我的秘密之花</title>
+    <programme start="20250724192627" stop="20250724200034" channel="cctv6">
+        <title lang="zh">我的秘密之花（上）</title>
     </programme>
-    <programme start="20250724234321" stop="20250725012233" channel="cctv6">
+    <programme start="20250724200034" stop="20250724210110" channel="cctv6">
+        <title lang="zh">我的秘密之花（下）</title>
+    </programme>
+    <programme start="20250724210110" stop="20250724224556" channel="cctv6">
+        <title lang="zh">检察风云</title>
+    </programme>
+    <programme start="20250724224556" stop="20250724231759" channel="cctv6">
+        <title lang="zh">第二届电影类型短片创投季作品 《爱心快餐》</title>
+    </programme>
+    <programme start="20250724231759" stop="20250725005631" channel="cctv6">
         <title lang="zh">迷案寻凶</title>
     </programme>
-    <programme start="20250725012233" stop="20250725030500" channel="cctv6">
+    <programme start="20250725005631" stop="20250725024123" channel="cctv6">
         <title lang="zh">念书的孩子</title>
     </programme>
-    <programme start="20250725030500" stop="20250725043825" channel="cctv6">
+    <programme start="20250725024123" stop="20250725042123" channel="cctv6">
         <title lang="zh">宋庄战斗</title>
     </programme>
-    <programme start="20250725043825" stop="20250725044440" channel="cctv6">
+    <programme start="20250725042123" stop="20250725042713" channel="cctv6">
         <title lang="zh">音乐电影欣赏</title>
     </programme>
-    <programme start="20250725044440" stop="20250725062016" channel="cctv6">
+    <programme start="20250725042713" stop="20250725060044" channel="cctv6">
         <title lang="zh">御案之谜</title>
     </programme>
-    <programme start="20250725062016" stop="20250725080211" channel="cctv6">
-        <title lang="zh">忍者神龟：变种大乱斗</title>
+    <programme start="20250725060044" stop="20250725063559" channel="cctv6">
+        <title lang="zh">忍者神龟：变种大乱斗（上）</title>
     </programme>
-    <programme start="20250725080211" stop="20250725094549" channel="cctv6">
+    <programme start="20250725063559" stop="20250725074156" channel="cctv6">
+        <title lang="zh">忍者神龟：变种大乱斗（下）</title>
+    </programme>
+    <programme start="20250725074156" stop="20250725092719" channel="cctv6">
         <title lang="zh">临时劫案</title>
     </programme>
-    <programme start="20250725094549" stop="20250725101134" channel="cctv6">
+    <programme start="20250725092719" stop="20250725100149" channel="cctv6">
         <title lang="zh">《1905影视频》2025-030</title>
     </programme>
-    <programme start="20250725101134" stop="20250725102229" channel="cctv6">
+    <programme start="20250725100149" stop="20250725101344" channel="cctv6">
         <title lang="zh">今日影评2025-148</title>
     </programme>
-    <programme start="20250725102229" stop="20250725120844" channel="cctv6">
+    <programme start="20250725101344" stop="20250725120734" channel="cctv6">
         <title lang="zh">醉剑侠</title>
     </programme>
-    <programme start="20250725120844" stop="20250725140000" channel="cctv6">
+    <programme start="20250725120734" stop="20250725140000" channel="cctv6">
         <title lang="zh">叶问4：完结篇</title>
     </programme>
     <programme start="20250725140000" stop="20250725141800" channel="cctv6">
@@ -1899,13 +1926,13 @@
     <programme start="20250725141800" stop="20250725142320" channel="cctv6">
         <title lang="zh">中国福利彩票阳光开奖2025-07-25</title>
     </programme>
-    <programme start="20250725142320" stop="20250725150131" channel="cctv6">
+    <programme start="20250725142320" stop="20250725150011" channel="cctv6">
         <title lang="zh">杀掉那个魔术师（上）</title>
     </programme>
-    <programme start="20250725150131" stop="20250725150301" channel="cctv6">
+    <programme start="20250725150011" stop="20250725150111" channel="cctv6">
         <title lang="zh">中国体育彩票阳光开奖2025-07-25</title>
     </programme>
-    <programme start="20250725150301" stop="20250725155900" channel="cctv6">
+    <programme start="20250725150111" stop="20250725155900" channel="cctv6">
         <title lang="zh">杀掉那个魔术师（下）</title>
     </programme>
     <programme start="20250722160345" stop="20250722164145" channel="cctv7">
@@ -2341,13 +2368,13 @@
         <title lang="zh">本集提要-扫毒风暴-第23集</title>
     </programme>
     <programme start="20250723113000" stop="20250723122410" channel="cctv8">
-        <title lang="zh">扫毒风暴23/33</title>
+        <title lang="zh">扫毒风暴第23集</title>
     </programme>
     <programme start="20250723122410" stop="20250723122910" channel="cctv8">
         <title lang="zh">本集提要-扫毒风暴-第24集</title>
     </programme>
     <programme start="20250723122910" stop="20250723132105" channel="cctv8">
-        <title lang="zh">扫毒风暴24/33</title>
+        <title lang="zh">扫毒风暴第24集</title>
     </programme>
     <programme start="20250723132105" stop="20250723132455" channel="cctv8">
         <title lang="zh">本集提要-我是刑警-第16集</title>
@@ -2461,13 +2488,13 @@
         <title lang="zh">本集提要-扫毒风暴-第25集</title>
     </programme>
     <programme start="20250724113000" stop="20250724122410" channel="cctv8">
-        <title lang="zh">扫毒风暴25/33</title>
+        <title lang="zh">扫毒风暴第25集</title>
     </programme>
     <programme start="20250724122410" stop="20250724122910" channel="cctv8">
-        <title lang="zh">本集提要-扫毒风暴-26/33</title>
+        <title lang="zh">本集提要-扫毒风暴-第26集</title>
     </programme>
     <programme start="20250724122910" stop="20250724132105" channel="cctv8">
-        <title lang="zh">扫毒风暴26/33</title>
+        <title lang="zh">扫毒风暴第26集</title>
     </programme>
     <programme start="20250724132105" stop="20250724132455" channel="cctv8">
         <title lang="zh">本集提要-我是刑警-第19集</title>
@@ -4374,17 +4401,11 @@
     <programme start="20250724023000" stop="20250724040000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2025年世乒联大满贯赛 美国站4</title>
     </programme>
-    <programme start="20250724040000" stop="20250724042000" channel="cctv16">
-        <title lang="zh">艺术里的奥林匹克2025-27</title>
+    <programme start="20250724040000" stop="20250724060000" channel="cctv16">
+        <title lang="zh">2025年中国羽毛球公开赛-第二轮</title>
     </programme>
-    <programme start="20250724042000" stop="20250724045000" channel="cctv16">
-        <title lang="zh">体坛零距离-2025-29</title>
-    </programme>
-    <programme start="20250724045000" stop="20250724052500" channel="cctv16">
-        <title lang="zh">运动一起赢-2025-283</title>
-    </programme>
-    <programme start="20250724052500" stop="20250724061200" channel="cctv16">
-        <title lang="zh">奥林匹克典藏-东京奥运会举重男子61公斤级决赛</title>
+    <programme start="20250724060000" stop="20250724061200" channel="cctv16">
+        <title lang="zh">奥林匹克荣光-巴黎奥运会 女子网球决赛</title>
     </programme>
     <programme start="20250724061200" stop="20250724071000" channel="cctv16">
         <title lang="zh">2025年环法自行车赛-第16赛段</title>
