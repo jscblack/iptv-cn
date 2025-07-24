@@ -366,8 +366,11 @@
     <programme start="20250726113820" stop="20250726120300" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20250726120300" stop="20250726134910" channel="cctv1">
+    <programme start="20250726120300" stop="20250726133510" channel="cctv1">
         <title lang="zh">城市风华录-10</title>
+    </programme>
+    <programme start="20250726133510" stop="20250726134910" channel="cctv1">
+        <title lang="zh">字从遇见你（精品展播）-美</title>
     </programme>
     <programme start="20250726134910" stop="20250726140000" channel="cctv1">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
@@ -898,7 +901,7 @@
         <title lang="zh">星光大道-2025-28（这一站星光21）</title>
     </programme>
     <programme start="20250726030505" stop="20250726042700" channel="cctv3">
-        <title lang="zh">越战越勇-2025-16</title>
+        <title lang="zh">开门大吉-2025-28</title>
     </programme>
     <programme start="20250726042700" stop="20250726055055" channel="cctv3">
         <title lang="zh">向幸福出发-2025-12</title>
@@ -907,10 +910,10 @@
         <title lang="zh">综艺喜乐汇-2024-782</title>
     </programme>
     <programme start="20250726070950" stop="20250726083320" channel="cctv3">
-        <title lang="zh">开门大吉-2025-28</title>
+        <title lang="zh">星光大道-2025-30（这一站星光23）</title>
     </programme>
     <programme start="20250726083320" stop="20250726095740" channel="cctv3">
-        <title lang="zh">星光大道-2025-30（这一站星光23）</title>
+        <title lang="zh">越战越勇-2025-26</title>
     </programme>
     <programme start="20250726095740" stop="20250726103315" channel="cctv3">
         <title lang="zh">敬浓烈的生活-2</title>
@@ -2431,13 +2434,13 @@
         <title lang="zh">本集提要-扫毒风暴-第27集</title>
     </programme>
     <programme start="20250725113000" stop="20250725122410" channel="cctv8">
-        <title lang="zh">扫毒风暴27/33</title>
+        <title lang="zh">扫毒风暴第27集</title>
     </programme>
     <programme start="20250725122410" stop="20250725122910" channel="cctv8">
         <title lang="zh">本集提要-扫毒风暴-第28集</title>
     </programme>
     <programme start="20250725122910" stop="20250725132105" channel="cctv8">
-        <title lang="zh">扫毒风暴28/33</title>
+        <title lang="zh">扫毒风暴第28集</title>
     </programme>
     <programme start="20250725132105" stop="20250725132455" channel="cctv8">
         <title lang="zh">本集提要-我是刑警-第22集</title>
@@ -3016,7 +3019,7 @@
         <title lang="zh">创新进行时-2025-147</title>
     </programme>
     <programme start="20250725064000" stop="20250725072830" channel="cctv10">
-        <title lang="zh">探索·发现-2025-205</title>
+        <title lang="zh">时代楷模发布厅-2025-1(4K)</title>
     </programme>
     <programme start="20250725072830" stop="20250725082730" channel="cctv10">
         <title lang="zh">2025大千世界-85</title>
