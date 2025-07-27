@@ -147,11 +147,11 @@
     <programme start="20250727082630" stop="20250727091630" channel="cctv1">
         <title lang="zh">潜行者第33集</title>
     </programme>
-    <programme start="20250727091630" stop="20250727105015" channel="cctv1">
-        <title lang="zh">中央广播电视总台主持人大赛新闻主播季-2</title>
-    </programme>
-    <programme start="20250727105015" stop="20250727110000" channel="cctv1">
+    <programme start="20250727091630" stop="20250727091830" channel="cctv1">
         <title lang="zh">秘境之眼-2025-208</title>
+    </programme>
+    <programme start="20250727091830" stop="20250727110000" channel="cctv1">
+        <title lang="zh">中央广播电视总台主持人大赛新闻主播季-2</title>
     </programme>
     <programme start="20250727110000" stop="20250727113820" channel="cctv1">
         <title lang="zh">新闻联播</title>
@@ -264,16 +264,16 @@
     <programme start="20250728120020" stop="20250728120500" channel="cctv1">
         <title lang="zh">前情提要-浴血荣光-第16集</title>
     </programme>
-    <programme start="20250728120500" stop="20250728125415" channel="cctv1">
+    <programme start="20250728120500" stop="20250728125540" channel="cctv1">
         <title lang="zh">浴血荣光16/40</title>
     </programme>
-    <programme start="20250728125415" stop="20250728125645" channel="cctv1">
+    <programme start="20250728125540" stop="20250728125955" channel="cctv1">
         <title lang="zh">前情提要-浴血荣光-第17集</title>
     </programme>
-    <programme start="20250728125645" stop="20250728134945" channel="cctv1">
+    <programme start="20250728125955" stop="20250728135215" channel="cctv1">
         <title lang="zh">浴血荣光17/40</title>
     </programme>
-    <programme start="20250728134945" stop="20250728140000" channel="cctv1">
+    <programme start="20250728135215" stop="20250728140000" channel="cctv1">
         <title lang="zh">字从遇见你（精品展播）-宀</title>
     </programme>
     <programme start="20250728140000" stop="20250728143515" channel="cctv1">
@@ -922,7 +922,7 @@
         <title lang="zh">中央广播电视总台主持人大赛新闻主播季-2</title>
     </programme>
     <programme start="20250729130615" stop="20250729140125" channel="cctv3">
-        <title lang="zh">综艺喜乐汇-2025-953</title>
+        <title lang="zh">综艺喜乐汇-2025-952</title>
     </programme>
     <programme start="20250729140125" stop="20250729145625" channel="cctv3">
         <title lang="zh">艺览天下-2025-15</title>
