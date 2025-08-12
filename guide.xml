@@ -166,13 +166,13 @@
         <title lang="zh">前情提要-浴血荣光-第38集</title>
     </programme>
     <programme start="20250812120500" stop="20250812125420" channel="cctv1">
-        <title lang="zh">浴血荣光38/40</title>
+        <title lang="zh">浴血荣光第38集</title>
     </programme>
     <programme start="20250812125420" stop="20250812125815" channel="cctv1">
         <title lang="zh">前情提要-浴血荣光-第39集</title>
     </programme>
     <programme start="20250812125815" stop="20250812135450" channel="cctv1">
-        <title lang="zh">浴血荣光39/40</title>
+        <title lang="zh">浴血荣光第39集</title>
     </programme>
     <programme start="20250812135450" stop="20250812140000" channel="cctv1">
         <title lang="zh">字从遇见你（精品展播）-龟</title>
@@ -267,19 +267,19 @@
     <programme start="20250813110000" stop="20250813113905" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20250813113905" stop="20250813120100" channel="cctv1">
+    <programme start="20250813113905" stop="20250813120105" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20250813120100" stop="20250813120600" channel="cctv1">
-        <title lang="zh">前情提要-浴血荣光-40/40</title>
+    <programme start="20250813120105" stop="20250813120600" channel="cctv1">
+        <title lang="zh">前情提要-浴血荣光-第40集</title>
     </programme>
-    <programme start="20250813120600" stop="20250813125820" channel="cctv1">
+    <programme start="20250813120600" stop="20250813130000" channel="cctv1">
         <title lang="zh">浴血荣光40/40</title>
     </programme>
-    <programme start="20250813125820" stop="20250813135110" channel="cctv1">
+    <programme start="20250813130000" stop="20250813135105" channel="cctv1">
         <title lang="zh">专题节目-1</title>
     </programme>
-    <programme start="20250813135110" stop="20250813140000" channel="cctv1">
+    <programme start="20250813135105" stop="20250813140000" channel="cctv1">
         <title lang="zh">字从遇见你（精品展播）-蚕</title>
     </programme>
     <programme start="20250813140000" stop="20250813143415" channel="cctv1">
@@ -2296,13 +2296,13 @@
         <title lang="zh">本集提要-利剑·玫瑰-第31集</title>
     </programme>
     <programme start="20250812113000" stop="20250812122345" channel="cctv8">
-        <title lang="zh">利剑·玫瑰31/32</title>
+        <title lang="zh">利剑·玫瑰第31集</title>
     </programme>
     <programme start="20250812122345" stop="20250812122845" channel="cctv8">
         <title lang="zh">本集提要-利剑·玫瑰-第32集</title>
     </programme>
     <programme start="20250812122845" stop="20250812132025" channel="cctv8">
-        <title lang="zh">利剑·玫瑰32/32</title>
+        <title lang="zh">利剑·玫瑰第32集</title>
     </programme>
     <programme start="20250812132025" stop="20250812132430" channel="cctv8">
         <title lang="zh">本集提要-驻站-第22集</title>
@@ -3627,8 +3627,11 @@
     <programme start="20250812043400" stop="20250812050000" channel="cctv13">
         <title lang="zh">法治在线</title>
     </programme>
-    <programme start="20250812050000" stop="20250812060000" channel="cctv13">
+    <programme start="20250812050000" stop="20250812051700" channel="cctv13">
         <title lang="zh">新闻直播间</title>
+    </programme>
+    <programme start="20250812051700" stop="20250812060000" channel="cctv13">
+        <title lang="zh">特别节目</title>
     </programme>
     <programme start="20250812060000" stop="20250812070000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
@@ -4777,7 +4780,7 @@
         <title lang="zh">三农群英汇-2025-82</title>
     </programme>
     <programme start="20250814130200" stop="20250814133000" channel="cctv17">
-        <title lang="zh">共富经-2025-103</title>
+        <title lang="zh">共富经-2025-145</title>
     </programme>
     <programme start="20250814133000" stop="20250814135800" channel="cctv17">
         <title lang="zh">超级农人秀-2025-162</title>
@@ -4795,7 +4798,7 @@
         <title lang="zh">超级农人秀-2025-162</title>
     </programme>
     <programme start="20250814154800" stop="20250814155900" channel="cctv17">
-        <title lang="zh">共富经-2025-103</title>
+        <title lang="zh">共富经-2025-145</title>
     </programme>
     <programme start="20250811160000" stop="20250811220049" channel="cctv4k">
         <title lang="zh">再见</title>
