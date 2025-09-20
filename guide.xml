@@ -258,34 +258,34 @@
     <programme start="20250921134755" stop="20250921140000" channel="cctv1">
         <title lang="zh">山水间的家-主题曲</title>
     </programme>
-    <programme start="20250921140000" stop="20250921143430" channel="cctv1">
+    <programme start="20250921140000" stop="20250921143330" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20250921143430" stop="20250921150745" channel="cctv1">
-        <title lang="zh">专题节目-1</title>
+    <programme start="20250921143330" stop="20250921150745" channel="cctv1">
+        <title lang="zh">本草流芳（精品展播）-益母草</title>
     </programme>
     <programme start="20250921150745" stop="20250921155900" channel="cctv1">
-        <title lang="zh">城市风华录-3</title>
+        <title lang="zh">城市风华录-4</title>
     </programme>
-    <programme start="20250921164500" stop="20250921171700" channel="cctv1">
-        <title lang="zh">本草流芳（精品展播）-葛根</title>
-    </programme>
-    <programme start="20250921171700" stop="20250921174715" channel="cctv1">
-        <title lang="zh">晚间新闻</title>
-    </programme>
-    <programme start="20250921174715" stop="20250921181915" channel="cctv1">
+    <programme start="20250921164300" stop="20250921171500" channel="cctv1">
         <title lang="zh">国家荣光-2025-5</title>
     </programme>
-    <programme start="20250921181915" stop="20250921182915" channel="cctv1">
+    <programme start="20250921171500" stop="20250921174515" channel="cctv1">
+        <title lang="zh">晚间新闻</title>
+    </programme>
+    <programme start="20250921174515" stop="20250921181715" channel="cctv1">
+        <title lang="zh">本草流芳（精品展播）-葛根</title>
+    </programme>
+    <programme start="20250921181715" stop="20250921182715" channel="cctv1">
         <title lang="zh">2024秘境之眼-高原蹄踪(4K)</title>
     </programme>
-    <programme start="20250921182915" stop="20250921183935" channel="cctv1">
+    <programme start="20250921182715" stop="20250921183735" channel="cctv1">
         <title lang="zh">2024秘境之眼-犀鸟养家记(4K)</title>
     </programme>
-    <programme start="20250921183935" stop="20250921184305" channel="cctv1">
+    <programme start="20250921183735" stop="20250921184105" channel="cctv1">
         <title lang="zh">非遗里的中国（第二季）-弦韵心曲</title>
     </programme>
-    <programme start="20250921184305" stop="20250921184900" channel="cctv1">
+    <programme start="20250921184105" stop="20250921184900" channel="cctv1">
         <title lang="zh">非遗里的中国（第二季）-武当意韵</title>
     </programme>
     <programme start="20250921184900" stop="20250921202000" channel="cctv1">
@@ -369,14 +369,14 @@
     <programme start="20250922130000" stop="20250922140000" channel="cctv1">
         <title lang="zh">专题节目-1</title>
     </programme>
-    <programme start="20250922140000" stop="20250922143530" channel="cctv1">
+    <programme start="20250922140000" stop="20250922143415" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20250922143530" stop="20250922152740" channel="cctv1">
-        <title lang="zh">烽火战歌-6</title>
+    <programme start="20250922143415" stop="20250922150900" channel="cctv1">
+        <title lang="zh">本草流芳（精品展播）-灵芝</title>
     </programme>
-    <programme start="20250922152740" stop="20250922155900" channel="cctv1">
-        <title lang="zh">城市风华录-4</title>
+    <programme start="20250922150900" stop="20250922155900" channel="cctv1">
+        <title lang="zh">城市风华录-3</title>
     </programme>
     <programme start="20250919162740" stop="20250919171740" channel="cctv2">
         <title lang="zh">乡村振兴中国行（第四季）-26</title>
@@ -8147,6 +8147,84 @@
     </programme>
     <programme start="20250921152600" stop="20250921155900" channel="zhejiang">
         <title lang="zh">奔跑吧生态篇</title>
+    </programme>
+    <programme start="20250921203600" stop="20250921205100" channel="zhejiang">
+        <title lang="zh">江南・戏文传奇</title>
+    </programme>
+    <programme start="20250921205100" stop="20250921213000" channel="zhejiang">
+        <title lang="zh">一本书一座城</title>
+    </programme>
+    <programme start="20250921213000" stop="20250921223000" channel="zhejiang">
+        <title lang="zh">纪录片</title>
+    </programme>
+    <programme start="20250921223000" stop="20250921230000" channel="zhejiang">
+        <title lang="zh">华商启示录</title>
+    </programme>
+    <programme start="20250921230000" stop="20250921231700" channel="zhejiang">
+        <title lang="zh">浙江新闻联播</title>
+    </programme>
+    <programme start="20250921231700" stop="20250921232600" channel="zhejiang">
+        <title lang="zh">天气预报</title>
+    </programme>
+    <programme start="20250921232600" stop="20250922001000" channel="zhejiang">
+        <title lang="zh">纪录片</title>
+    </programme>
+    <programme start="20250922001000" stop="20250922004600" channel="zhejiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20250922004600" stop="20250922012900" channel="zhejiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20250922012900" stop="20250922021400" channel="zhejiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20250922021400" stop="20250922025800" channel="zhejiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20250922025800" stop="20250922040000" channel="zhejiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20250922040000" stop="20250922042800" channel="zhejiang">
+        <title lang="zh">正午播报</title>
+    </programme>
+    <programme start="20250922042800" stop="20250922095700" channel="zhejiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20250922095700" stop="20250922100000" channel="zhejiang">
+        <title lang="zh">浙江海洋预报</title>
+    </programme>
+    <programme start="20250922100000" stop="20250922103000" channel="zhejiang">
+        <title lang="zh">新闻深一度</title>
+    </programme>
+    <programme start="20250922103000" stop="20250922105100" channel="zhejiang">
+        <title lang="zh">浙江新闻联播</title>
+    </programme>
+    <programme start="20250922105100" stop="20250922105300" channel="zhejiang">
+        <title lang="zh">浙江天气预报</title>
+    </programme>
+    <programme start="20250922105300" stop="20250922110000" channel="zhejiang">
+        <title lang="zh">今日聚焦</title>
+    </programme>
+    <programme start="20250922110000" stop="20250922113200" channel="zhejiang">
+        <title lang="zh">新闻联播</title>
+    </programme>
+    <programme start="20250922113200" stop="20250922130900" channel="zhejiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20250922130900" stop="20250922133000" channel="zhejiang">
+        <title lang="zh">抢先看</title>
+    </programme>
+    <programme start="20250922133000" stop="20250922134400" channel="zhejiang">
+        <title lang="zh">今日评说</title>
+    </programme>
+    <programme start="20250922134400" stop="20250922142300" channel="zhejiang">
+        <title lang="zh">好戏看浙里</title>
+    </programme>
+    <programme start="20250922142300" stop="20250922155300" channel="zhejiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20250922155300" stop="20250922155900" channel="zhejiang">
+        <title lang="zh">好戏看浙里</title>
     </programme>
     <programme start="20250919171800" stop="20250919174900" channel="hunan">
         <title lang="zh">新闻大求真</title>
