@@ -249,19 +249,19 @@
     <programme start="20251009110000" stop="20251009114050" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20251009114050" stop="20251009120120" channel="cctv1">
+    <programme start="20251009114050" stop="20251009120205" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20251009120120" stop="20251009120600" channel="cctv1">
+    <programme start="20251009120205" stop="20251009120630" channel="cctv1">
         <title lang="zh">前情提要-阵地-第19集</title>
     </programme>
-    <programme start="20251009120600" stop="20251009125730" channel="cctv1">
+    <programme start="20251009120630" stop="20251009125640" channel="cctv1">
         <title lang="zh">阵地19/32</title>
     </programme>
-    <programme start="20251009125730" stop="20251009130055" channel="cctv1">
+    <programme start="20251009125640" stop="20251009130100" channel="cctv1">
         <title lang="zh">前情提要-阵地-第20集</title>
     </programme>
-    <programme start="20251009130055" stop="20251009140000" channel="cctv1">
+    <programme start="20251009130100" stop="20251009140000" channel="cctv1">
         <title lang="zh">阵地20/32</title>
     </programme>
     <programme start="20251009140000" stop="20251009143430" channel="cctv1">
@@ -939,19 +939,19 @@
     <programme start="20251010112250" stop="20251010113000" channel="cctv3">
         <title lang="zh">国家宝藏-周游季-19</title>
     </programme>
-    <programme start="20251010113000" stop="20251010124920" channel="cctv3">
+    <programme start="20251010113000" stop="20251010130320" channel="cctv3">
         <title lang="zh">国风超有戏·寻风季-9综艺频道</title>
     </programme>
-    <programme start="20251010124920" stop="20251010134610" channel="cctv3">
+    <programme start="20251010130320" stop="20251010140010" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2025-1015</title>
     </programme>
-    <programme start="20251010134610" stop="20251010150210" channel="cctv3">
+    <programme start="20251010140010" stop="20251010150610" channel="cctv3">
         <title lang="zh">沧海运河谣-4</title>
     </programme>
-    <programme start="20251010150210" stop="20251010154810" channel="cctv3">
+    <programme start="20251010150610" stop="20251010155210" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2025-1173 问心 8/38</title>
     </programme>
-    <programme start="20251010154810" stop="20251010155900" channel="cctv3">
+    <programme start="20251010155210" stop="20251010155900" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2025-1174 问心 9//38</title>
     </programme>
     <programme start="20251007162700" stop="20251007170905" channel="cctv4">
@@ -4092,26 +4092,26 @@
     <programme start="20251008171835" stop="20251008220000" channel="cctv15">
         <title lang="zh">再见</title>
     </programme>
-    <programme start="20251008220000" stop="20251008230935" channel="cctv15">
+    <programme start="20251008220000" stop="20251008230600" channel="cctv15">
         <title lang="zh">精彩音乐汇-我的爱对你说-2025-275</title>
     </programme>
-    <programme start="20251008230935" stop="20251008234905" channel="cctv15">
+    <programme start="20251008230600" stop="20251009000330" channel="cctv15">
+        <title lang="zh">中国音乐电视-万物声动2025-13</title>
+    </programme>
+    <programme start="20251009000330" stop="20251009004300" channel="cctv15">
         <title lang="zh">风华国乐-2025-294</title>
     </programme>
-    <programme start="20251008234905" stop="20251009005435" channel="cctv15">
+    <programme start="20251009004300" stop="20251009014830" channel="cctv15">
         <title lang="zh">音乐周刊-原声天籁中国民歌盛典4</title>
     </programme>
-    <programme start="20251009005435" stop="20251009021005" channel="cctv15">
+    <programme start="20251009014830" stop="20251009030400" channel="cctv15">
         <title lang="zh">精彩音乐汇-我的爱对你说-2025-259</title>
     </programme>
-    <programme start="20251009021005" stop="20251009032535" channel="cctv15">
+    <programme start="20251009030400" stop="20251009041930" channel="cctv15">
         <title lang="zh">民歌·中国-2025-93唱得幸福落满坡3</title>
     </programme>
-    <programme start="20251009032535" stop="20251009043205" channel="cctv15">
+    <programme start="20251009041930" stop="20251009052800" channel="cctv15">
         <title lang="zh">中国乡村音乐大会-月满乡音篇（无商务版）</title>
-    </programme>
-    <programme start="20251009043205" stop="20251009052800" channel="cctv15">
-        <title lang="zh">烽火战歌-8</title>
     </programme>
     <programme start="20251009052800" stop="20251009070030" channel="cctv15">
         <title lang="zh">影视留声机-2025-8-经典电影《鸡毛信》欣赏</title>
@@ -4126,7 +4126,7 @@
         <title lang="zh">精彩音乐汇-我的爱对你说-2025-276</title>
     </programme>
     <programme start="20251009111500" stop="20251009132630" channel="cctv15">
-        <title lang="zh">金声玉振——中国器乐大会-第一期</title>
+        <title lang="zh">金声玉振——中国器乐大会-（1）</title>
     </programme>
     <programme start="20251009132630" stop="20251009145200" channel="cctv15">
         <title lang="zh">风华国乐-2025-327江山如画精编2</title>
@@ -4903,16 +4903,16 @@
         <title lang="zh">4K标识演绎-2019-1</title>
     </programme>
     <programme start="20251008133625" stop="20251008140625" channel="cctv4k">
-        <title lang="zh">中央广播电视总台2025年中秋晚会-1（4K）</title>
+        <title lang="zh">中央广播电视总台2025年中秋晚会-备播1（4K）</title>
     </programme>
     <programme start="20251008140625" stop="20251008143625" channel="cctv4k">
-        <title lang="zh">中央广播电视总台2025年中秋晚会-2（4K）</title>
+        <title lang="zh">中央广播电视总台2025年中秋晚会-备播2（4K）</title>
     </programme>
     <programme start="20251008143625" stop="20251008150625" channel="cctv4k">
-        <title lang="zh">中央广播电视总台2025年中秋晚会-3（4K）</title>
+        <title lang="zh">中央广播电视总台2025年中秋晚会-备播3（4K）</title>
     </programme>
     <programme start="20251008150625" stop="20251008152415" channel="cctv4k">
-        <title lang="zh">中央广播电视总台2025年中秋晚会-4（4K）</title>
+        <title lang="zh">中央广播电视总台2025年中秋晚会-备播4（4K）</title>
     </programme>
     <programme start="20251008152415" stop="20251008152435" channel="cctv4k">
         <title lang="zh">4K频道宣传片-标识演绎3</title>
