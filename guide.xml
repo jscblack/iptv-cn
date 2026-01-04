@@ -1434,11 +1434,11 @@
     <programme start="20260105100000" stop="20260105103000" channel="cctv5">
         <title lang="zh">体育新闻</title>
     </programme>
-    <programme start="20260105103000" stop="20260105113000" channel="cctv5">
+    <programme start="20260105103000" stop="20260105120500" channel="cctv5">
         <title lang="zh">天下足球</title>
     </programme>
-    <programme start="20260105113000" stop="20260105134500" channel="cctv5">
-        <title lang="zh">2025/2026赛季中国男子篮球职业联赛常规赛- 第11轮（上海久事 - 浙江方兴渡）</title>
+    <programme start="20260105120500" stop="20260105134500" channel="cctv5">
+        <title lang="zh">2025CMG体坛荣耀之夜-1</title>
     </programme>
     <programme start="20260105134500" stop="20260105145000" channel="cctv5">
         <title lang="zh">体育世界</title>
@@ -1609,7 +1609,7 @@
         <title lang="zh">实况录像-2025/2026赛季速度滑冰世界杯 荷兰站 1</title>
     </programme>
     <programme start="20260105080000" stop="20260105083000" channel="cctv5plus">
-        <title lang="zh">2025/2026赛季雪车世界杯 德国温特贝格站-男子钢架雪车决赛</title>
+        <title lang="zh">实况录像-2025/2026赛季短道速滑世界巡回赛 中国队比赛</title>
     </programme>
     <programme start="20260105083000" stop="20260105100000" channel="cctv5plus">
         <title lang="zh">国际足球赛场-25-26赛季法甲联赛第17轮 摩纳哥—里昂</title>
@@ -2356,10 +2356,10 @@
         <title lang="zh">星推荐-2026年1月-4</title>
     </programme>
     <programme start="20260105044700" stop="20260105054200" channel="cctv8">
-        <title lang="zh">逍遥28/39</title>
+        <title lang="zh">逍遥第28集</title>
     </programme>
     <programme start="20260105054200" stop="20260105063630" channel="cctv8">
-        <title lang="zh">逍遥29/39</title>
+        <title lang="zh">逍遥第29集</title>
     </programme>
     <programme start="20260105063630" stop="20260105073210" channel="cctv8">
         <title lang="zh">逍遥30/39</title>
@@ -2650,7 +2650,7 @@
         <title lang="zh">活力·源2026-4</title>
     </programme>
     <programme start="20260105003100" stop="20260105012700" channel="cctvjilu">
-        <title lang="zh">特别呈现2025-4</title>
+        <title lang="zh">特别呈现2026-4</title>
     </programme>
     <programme start="20260105012700" stop="20260105022600" channel="cctvjilu">
         <title lang="zh">全景自然2026-4</title>
@@ -2662,7 +2662,7 @@
         <title lang="zh">寰宇视野2026-4</title>
     </programme>
     <programme start="20260105042700" stop="20260105053100" channel="cctvjilu">
-        <title lang="zh">特别呈现2025-4</title>
+        <title lang="zh">特别呈现2026-4</title>
     </programme>
     <programme start="20260105053100" stop="20260105063000" channel="cctvjilu">
         <title lang="zh">全景自然2026-4</title>
@@ -2686,7 +2686,7 @@
         <title lang="zh">活力·源2026-5</title>
     </programme>
     <programme start="20260105120000" stop="20260105130000" channel="cctvjilu">
-        <title lang="zh">特别呈现2025-5</title>
+        <title lang="zh">特别呈现2026-5</title>
     </programme>
     <programme start="20260105130000" stop="20260105140430" channel="cctvjilu">
         <title lang="zh">寰宇视野2026-5</title>
@@ -2710,7 +2710,7 @@
         <title lang="zh">活力·源2026-5</title>
     </programme>
     <programme start="20260105185330" stop="20260105195400" channel="cctvjilu">
-        <title lang="zh">特别呈现2025-5</title>
+        <title lang="zh">特别呈现2026-5</title>
     </programme>
     <programme start="20260105195400" stop="20260105201100" channel="cctvjilu">
         <title lang="zh">9视频2026-5</title>
@@ -2734,7 +2734,7 @@
         <title lang="zh">活力·源2026-5</title>
     </programme>
     <programme start="20260106003100" stop="20260106012700" channel="cctvjilu">
-        <title lang="zh">特别呈现2025-5</title>
+        <title lang="zh">特别呈现2026-5</title>
     </programme>
     <programme start="20260106012700" stop="20260106022600" channel="cctvjilu">
         <title lang="zh">全景自然2026-5</title>
@@ -2746,7 +2746,7 @@
         <title lang="zh">寰宇视野2026-5</title>
     </programme>
     <programme start="20260106042700" stop="20260106053100" channel="cctvjilu">
-        <title lang="zh">特别呈现2025-5</title>
+        <title lang="zh">特别呈现2026-5</title>
     </programme>
     <programme start="20260106053100" stop="20260106063000" channel="cctvjilu">
         <title lang="zh">全景自然2026-5</title>
@@ -2770,7 +2770,7 @@
         <title lang="zh">活力·源2026-6</title>
     </programme>
     <programme start="20260106120000" stop="20260106130000" channel="cctvjilu">
-        <title lang="zh">特别呈现2025-6</title>
+        <title lang="zh">特别呈现2026-6</title>
     </programme>
     <programme start="20260106130000" stop="20260106140430" channel="cctvjilu">
         <title lang="zh">寰宇视野2026-6</title>
@@ -3681,10 +3681,10 @@
     <programme start="20260104201500" stop="20260104210000" channel="cctv13">
         <title lang="zh">世界周刊</title>
     </programme>
-    <programme start="20260104210000" stop="20260104211600" channel="cctv13">
+    <programme start="20260104210000" stop="20260104211200" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20260104211600" stop="20260104220000" channel="cctv13">
+    <programme start="20260104211200" stop="20260104220000" channel="cctv13">
         <title lang="zh">面对面</title>
     </programme>
     <programme start="20260104220000" stop="20260105010000" channel="cctv13">
@@ -3702,19 +3702,19 @@
     <programme start="20260105030000" stop="20260105040000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20260105040000" stop="20260105043300" channel="cctv13">
+    <programme start="20260105040000" stop="20260105043400" channel="cctv13">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme start="20260105043300" stop="20260105050000" channel="cctv13">
+    <programme start="20260105043400" stop="20260105050000" channel="cctv13">
         <title lang="zh">法治在线</title>
     </programme>
     <programme start="20260105050000" stop="20260105060000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20260105060000" stop="20260105061600" channel="cctv13">
+    <programme start="20260105060000" stop="20260105061200" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20260105061600" stop="20260105070000" channel="cctv13">
+    <programme start="20260105061200" stop="20260105070000" channel="cctv13">
         <title lang="zh">面对面</title>
     </programme>
     <programme start="20260105070000" stop="20260105080000" channel="cctv13">
@@ -3729,10 +3729,13 @@
     <programme start="20260105100000" stop="20260105110000" channel="cctv13">
         <title lang="zh">共同关注</title>
     </programme>
-    <programme start="20260105110000" stop="20260105114030" channel="cctv13">
+    <programme start="20260105110000" stop="20260105113235" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260105114030" stop="20260105120000" channel="cctv13">
+    <programme start="20260105113235" stop="20260105113910" channel="cctv13">
+        <title lang="zh">天气预报</title>
+    </programme>
+    <programme start="20260105113910" stop="20260105120000" channel="cctv13">
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20260105120000" stop="20260105130000" channel="cctv13">
@@ -3756,13 +3759,13 @@
     <programme start="20260105160000" stop="20260105170000" channel="cctv13">
         <title lang="zh">午夜新闻</title>
     </programme>
-    <programme start="20260105170000" stop="20260105172000" channel="cctv13">
+    <programme start="20260105170000" stop="20260105172100" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20260105172000" stop="20260105173600" channel="cctv13">
+    <programme start="20260105172100" stop="20260105173700" channel="cctv13">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260105173600" stop="20260105180000" channel="cctv13">
+    <programme start="20260105173700" stop="20260105180000" channel="cctv13">
         <title lang="zh">法治在线</title>
     </programme>
     <programme start="20260105180000" stop="20260105183300" channel="cctv13">
@@ -3783,13 +3786,13 @@
     <programme start="20260105203300" stop="20260105210000" channel="cctv13">
         <title lang="zh">新闻1+1</title>
     </programme>
-    <programme start="20260105210000" stop="20260105211700" channel="cctv13">
+    <programme start="20260105210000" stop="20260105211800" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20260105211700" stop="20260105213300" channel="cctv13">
+    <programme start="20260105211800" stop="20260105213400" channel="cctv13">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260105213300" stop="20260105220000" channel="cctv13">
+    <programme start="20260105213400" stop="20260105220000" channel="cctv13">
         <title lang="zh">法治在线</title>
     </programme>
     <programme start="20260105220000" stop="20260106010000" channel="cctv13">
@@ -3804,10 +3807,10 @@
     <programme start="20260106030000" stop="20260106040000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20260106040000" stop="20260106043300" channel="cctv13">
+    <programme start="20260106040000" stop="20260106043400" channel="cctv13">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme start="20260106043300" stop="20260106050000" channel="cctv13">
+    <programme start="20260106043400" stop="20260106050000" channel="cctv13">
         <title lang="zh">法治在线</title>
     </programme>
     <programme start="20260106050000" stop="20260106060000" channel="cctv13">
@@ -3828,10 +3831,13 @@
     <programme start="20260106100000" stop="20260106110000" channel="cctv13">
         <title lang="zh">共同关注</title>
     </programme>
-    <programme start="20260106110000" stop="20260106114025" channel="cctv13">
+    <programme start="20260106110000" stop="20260106113235" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260106114025" stop="20260106120000" channel="cctv13">
+    <programme start="20260106113235" stop="20260106113925" channel="cctv13">
+        <title lang="zh">天气预报</title>
+    </programme>
+    <programme start="20260106113925" stop="20260106120000" channel="cctv13">
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20260106120000" stop="20260106130000" channel="cctv13">
@@ -4303,7 +4309,7 @@
         <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 乒乓球女单决赛</title>
     </programme>
     <programme start="20260105131500" stop="20260105134500" channel="cctv16">
-        <title lang="zh">2025/2026赛季雪车世界杯 德国温特贝格站-男子钢架雪车决赛</title>
+        <title lang="zh">实况录像（奥林匹克）-精品赛事记录-苏翊鸣获男子单板滑雪大跳台世界杯赛季总冠军（4K）</title>
     </programme>
     <programme start="20260105134500" stop="20260105151000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2025/2026赛季中国男子篮球职业联赛 第10轮 浙江方兴渡—北京北汽</title>
@@ -4662,34 +4668,37 @@
     <programme start="20260106093300" stop="20260106100000" channel="cctv17">
         <title lang="zh">谁知盘中餐-2026-2</title>
     </programme>
-    <programme start="20260106100000" stop="20260106103910" channel="cctv17">
+    <programme start="20260106100000" stop="20260106103500" channel="cctv17">
         <title lang="zh">中国三农报道</title>
     </programme>
-    <programme start="20260106103910" stop="20260106113430" channel="cctv17">
+    <programme start="20260106103500" stop="20260106105410" channel="cctv17">
+        <title lang="zh">中国三农报道</title>
+    </programme>
+    <programme start="20260106105410" stop="20260106114930" channel="cctv17">
         <title lang="zh">有你才有家1/50</title>
     </programme>
-    <programme start="20260106113430" stop="20260106123000" channel="cctv17">
+    <programme start="20260106114930" stop="20260106124500" channel="cctv17">
         <title lang="zh">有你才有家2/50</title>
     </programme>
-    <programme start="20260106123000" stop="20260106125800" channel="cctv17">
+    <programme start="20260106124500" stop="20260106131300" channel="cctv17">
         <title lang="zh">三农群英汇-2026-6</title>
     </programme>
-    <programme start="20260106125800" stop="20260106132600" channel="cctv17">
+    <programme start="20260106131300" stop="20260106134100" channel="cctv17">
         <title lang="zh">共富经-2025-256</title>
     </programme>
-    <programme start="20260106132600" stop="20260106141300" channel="cctv17">
+    <programme start="20260106134100" stop="20260106142800" channel="cctv17">
         <title lang="zh">乡村剧场（栏目剧）-福鼎一家人（精编）-19/19</title>
     </programme>
-    <programme start="20260106141300" stop="20260106143900" channel="cctv17">
+    <programme start="20260106142800" stop="20260106145400" channel="cctv17">
         <title lang="zh">超级农人秀-2026-5</title>
     </programme>
-    <programme start="20260106143900" stop="20260106150500" channel="cctv17">
+    <programme start="20260106145400" stop="20260106152000" channel="cctv17">
         <title lang="zh">田园帮帮团-2025-258</title>
     </programme>
-    <programme start="20260106150500" stop="20260106153100" channel="cctv17">
+    <programme start="20260106152000" stop="20260106154600" channel="cctv17">
         <title lang="zh">谁知盘中餐-2026-2</title>
     </programme>
-    <programme start="20260106153100" stop="20260106155900" channel="cctv17">
+    <programme start="20260106154600" stop="20260106155900" channel="cctv17">
         <title lang="zh">三农群英汇-2026-6</title>
     </programme>
     <programme start="20260103160000" stop="20260103220049" channel="cctv4k">
@@ -7108,7 +7117,7 @@
         <title lang="zh">千秋诗颂-早发白帝城（8K）新</title>
     </programme>
     <programme start="20260106044135" stop="20260106044635" channel="cctv8k">
-        <title lang="zh">上海总站超高清节目集锦-如果国宝会说话第二季（8K）-7</title>
+        <title lang="zh">上海总站超高清节目集锦-如果国宝会说话第一季（8K）-15</title>
     </programme>
     <programme start="20260106044635" stop="20260106045105" channel="cctv8k">
         <title lang="zh">8K超高清万象-美丽中国 四季</title>
@@ -8357,6 +8366,189 @@
     </programme>
     <programme start="20260104152600" stop="20260104155900" channel="zhejiang">
         <title lang="zh">奔跑吧生态篇</title>
+    </programme>
+    <programme start="20260104203600" stop="20260104205100" channel="zhejiang">
+        <title lang="zh">江南・戏文传奇</title>
+    </programme>
+    <programme start="20260104205100" stop="20260104213000" channel="zhejiang">
+        <title lang="zh">一本书一座城</title>
+    </programme>
+    <programme start="20260104213000" stop="20260104223000" channel="zhejiang">
+        <title lang="zh">纪录片</title>
+    </programme>
+    <programme start="20260104223000" stop="20260104230000" channel="zhejiang">
+        <title lang="zh">华商启示录</title>
+    </programme>
+    <programme start="20260104230000" stop="20260104231700" channel="zhejiang">
+        <title lang="zh">浙江新闻联播</title>
+    </programme>
+    <programme start="20260104231700" stop="20260104232600" channel="zhejiang">
+        <title lang="zh">天气预报</title>
+    </programme>
+    <programme start="20260104232600" stop="20260105001000" channel="zhejiang">
+        <title lang="zh">纪录片</title>
+    </programme>
+    <programme start="20260105001000" stop="20260105004600" channel="zhejiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20260105004600" stop="20260105012900" channel="zhejiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20260105012900" stop="20260105021400" channel="zhejiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20260105021400" stop="20260105025800" channel="zhejiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20260105025800" stop="20260105040000" channel="zhejiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20260105040000" stop="20260105042800" channel="zhejiang">
+        <title lang="zh">正午播报</title>
+    </programme>
+    <programme start="20260105042800" stop="20260105095700" channel="zhejiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20260105095700" stop="20260105100000" channel="zhejiang">
+        <title lang="zh">浙江海洋预报</title>
+    </programme>
+    <programme start="20260105100000" stop="20260105103000" channel="zhejiang">
+        <title lang="zh">新闻深一度</title>
+    </programme>
+    <programme start="20260105103000" stop="20260105105100" channel="zhejiang">
+        <title lang="zh">浙江新闻联播</title>
+    </programme>
+    <programme start="20260105105100" stop="20260105105300" channel="zhejiang">
+        <title lang="zh">浙江天气预报</title>
+    </programme>
+    <programme start="20260105105300" stop="20260105110000" channel="zhejiang">
+        <title lang="zh">今日聚焦</title>
+    </programme>
+    <programme start="20260105110000" stop="20260105113200" channel="zhejiang">
+        <title lang="zh">新闻联播</title>
+    </programme>
+    <programme start="20260105113200" stop="20260105130900" channel="zhejiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20260105130900" stop="20260105133000" channel="zhejiang">
+        <title lang="zh">抢先看</title>
+    </programme>
+    <programme start="20260105133000" stop="20260105134400" channel="zhejiang">
+        <title lang="zh">今日评说</title>
+    </programme>
+    <programme start="20260105134400" stop="20260105142300" channel="zhejiang">
+        <title lang="zh">好戏看浙里</title>
+    </programme>
+    <programme start="20260105142300" stop="20260105155300" channel="zhejiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20260105155300" stop="20260105155900" channel="zhejiang">
+        <title lang="zh">好戏看浙里</title>
+    </programme>
+    <programme start="20260105171700" stop="20260105172100" channel="zhejiang">
+        <title lang="zh">天气预报</title>
+    </programme>
+    <programme start="20260105172100" stop="20260105172600" channel="zhejiang">
+        <title lang="zh">今日聚焦</title>
+    </programme>
+    <programme start="20260105172600" stop="20260105175300" channel="zhejiang">
+        <title lang="zh">新闻深一度</title>
+    </programme>
+    <programme start="20260105175300" stop="20260105183200" channel="zhejiang">
+        <title lang="zh">西湖</title>
+    </programme>
+    <programme start="20260105183200" stop="20260105185800" channel="zhejiang">
+        <title lang="zh">预见2050</title>
+    </programme>
+    <programme start="20260105185800" stop="20260105203900" channel="zhejiang">
+        <title lang="zh">西湖</title>
+    </programme>
+    <programme start="20260105203900" stop="20260105205800" channel="zhejiang">
+        <title lang="zh">华少爱读书</title>
+    </programme>
+    <programme start="20260105205800" stop="20260105213000" channel="zhejiang">
+        <title lang="zh">江南・戏文传奇</title>
+    </programme>
+    <programme start="20260105213000" stop="20260105222500" channel="zhejiang">
+        <title lang="zh">纪录片</title>
+    </programme>
+    <programme start="20260105222500" stop="20260105230000" channel="zhejiang">
+        <title lang="zh">新闻深一度</title>
+    </programme>
+    <programme start="20260105230000" stop="20260105232600" channel="zhejiang">
+        <title lang="zh">浙江新闻联播</title>
+    </programme>
+    <programme start="20260105232600" stop="20260105235200" channel="zhejiang">
+        <title lang="zh">纪录片</title>
+    </programme>
+    <programme start="20260105235200" stop="20260106005000" channel="zhejiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20260106005000" stop="20260106013500" channel="zhejiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20260106013500" stop="20260106021800" channel="zhejiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20260106021800" stop="20260106030200" channel="zhejiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20260106030200" stop="20260106040000" channel="zhejiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20260106040000" stop="20260106042900" channel="zhejiang">
+        <title lang="zh">正午播报</title>
+    </programme>
+    <programme start="20260106042900" stop="20260106051600" channel="zhejiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20260106051600" stop="20260106060300" channel="zhejiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20260106060300" stop="20260106065000" channel="zhejiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20260106065000" stop="20260106073800" channel="zhejiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20260106073800" stop="20260106081900" channel="zhejiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20260106081900" stop="20260106090500" channel="zhejiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20260106090500" stop="20260106095700" channel="zhejiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20260106095700" stop="20260106100000" channel="zhejiang">
+        <title lang="zh">浙江海洋预报</title>
+    </programme>
+    <programme start="20260106100000" stop="20260106103000" channel="zhejiang">
+        <title lang="zh">新闻深一度</title>
+    </programme>
+    <programme start="20260106103000" stop="20260106105100" channel="zhejiang">
+        <title lang="zh">浙江新闻联播</title>
+    </programme>
+    <programme start="20260106105100" stop="20260106105300" channel="zhejiang">
+        <title lang="zh">浙江天气预报</title>
+    </programme>
+    <programme start="20260106105300" stop="20260106110000" channel="zhejiang">
+        <title lang="zh">今日聚焦</title>
+    </programme>
+    <programme start="20260106110000" stop="20260106113200" channel="zhejiang">
+        <title lang="zh">新闻联播</title>
+    </programme>
+    <programme start="20260106113200" stop="20260106131000" channel="zhejiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20260106131000" stop="20260106133000" channel="zhejiang">
+        <title lang="zh">抢先看</title>
+    </programme>
+    <programme start="20260106133000" stop="20260106134200" channel="zhejiang">
+        <title lang="zh">今日评说</title>
+    </programme>
+    <programme start="20260106134200" stop="20260106155900" channel="zhejiang">
+        <title lang="zh">电视剧</title>
     </programme>
     <programme start="20260103160000" stop="20260103183000" channel="hunan">
         <title lang="zh">声鸣远扬2025全国总决赛</title>
