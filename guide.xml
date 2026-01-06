@@ -276,28 +276,28 @@
     <programme start="20260107110000" stop="20260107113910" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260107113910" stop="20260107120210" channel="cctv1">
+    <programme start="20260107113910" stop="20260107120135" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260107120210" stop="20260107120600" channel="cctv1">
+    <programme start="20260107120135" stop="20260107120600" channel="cctv1">
         <title lang="zh">前情提要-奇迹-15/24</title>
     </programme>
     <programme start="20260107120600" stop="20260107123115" channel="cctv1">
         <title lang="zh">奇迹15/24</title>
     </programme>
-    <programme start="20260107123115" stop="20260107123205" channel="cctv1">
+    <programme start="20260107123115" stop="20260107123210" channel="cctv1">
         <title lang="zh">前情提要-奇迹-16/24</title>
     </programme>
-    <programme start="20260107123205" stop="20260107125610" channel="cctv1">
+    <programme start="20260107123210" stop="20260107125650" channel="cctv1">
         <title lang="zh">奇迹16/24</title>
     </programme>
-    <programme start="20260107125610" stop="20260107125810" channel="cctv1">
+    <programme start="20260107125650" stop="20260107130130" channel="cctv1">
         <title lang="zh">前情提要-风与潮-第26集</title>
     </programme>
-    <programme start="20260107125810" stop="20260107134615" channel="cctv1">
+    <programme start="20260107130130" stop="20260107134905" channel="cctv1">
         <title lang="zh">风与潮第26集</title>
     </programme>
-    <programme start="20260107134615" stop="20260107140000" channel="cctv1">
+    <programme start="20260107134905" stop="20260107140000" channel="cctv1">
         <title lang="zh">山水间的家-主题曲</title>
     </programme>
     <programme start="20260107140000" stop="20260107143530" channel="cctv1">
@@ -1821,29 +1821,32 @@
     <programme start="20260106195235" stop="20260106210530" channel="cctv6">
         <title lang="zh">巴雷利的巴菲（下）</title>
     </programme>
-    <programme start="20260106210530" stop="20260106231415" channel="cctv6">
+    <programme start="20260106210530" stop="20260106231357" channel="cctv6">
         <title lang="zh">铁道英雄</title>
     </programme>
-    <programme start="20260106231415" stop="20260107004714" channel="cctv6">
+    <programme start="20260106231357" stop="20260107004656" channel="cctv6">
         <title lang="zh">乾坤八极</title>
     </programme>
-    <programme start="20260107004714" stop="20260107022146" channel="cctv6">
+    <programme start="20260107004656" stop="20260107022128" channel="cctv6">
         <title lang="zh">抗日冲锋队 截杀行动</title>
     </programme>
-    <programme start="20260107022146" stop="20260107040116" channel="cctv6">
+    <programme start="20260107022128" stop="20260107040058" channel="cctv6">
         <title lang="zh">抗日冲锋队 偷梁换柱</title>
     </programme>
-    <programme start="20260107040116" stop="20260107040621" channel="cctv6">
+    <programme start="20260107040058" stop="20260107040603" channel="cctv6">
         <title lang="zh">音乐电影欣赏</title>
     </programme>
-    <programme start="20260107040621" stop="20260107053501" channel="cctv6">
+    <programme start="20260107040603" stop="20260107053443" channel="cctv6">
         <title lang="zh">东归英雄传</title>
     </programme>
-    <programme start="20260107053501" stop="20260107061022" channel="cctv6">
-        <title lang="zh">神枪手（上）</title>
+    <programme start="20260107053443" stop="20260107061115" channel="cctv6">
+        <title lang="zh">孪生歌手（上）</title>
     </programme>
-    <programme start="20260107061022" stop="20260107072617" channel="cctv6">
-        <title lang="zh">神枪手（下）</title>
+    <programme start="20260107061115" stop="20260107070710" channel="cctv6">
+        <title lang="zh">孪生歌手（下）</title>
+    </programme>
+    <programme start="20260107070710" stop="20260107072617" channel="cctv6">
+        <title lang="zh">我和我的祖国：相遇</title>
     </programme>
     <programme start="20260107072617" stop="20260107085817" channel="cctv6">
         <title lang="zh">终极代码</title>
@@ -2383,19 +2386,19 @@
         <title lang="zh">本集提要-不期而遇的生活-第24集</title>
     </programme>
     <programme start="20260106113000" stop="20260106122355" channel="cctv8">
-        <title lang="zh">不期而遇的生活24/35</title>
+        <title lang="zh">不期而遇的生活第24集</title>
     </programme>
     <programme start="20260106122355" stop="20260106122855" channel="cctv8">
         <title lang="zh">本集提要-不期而遇的生活-第25集</title>
     </programme>
     <programme start="20260106122855" stop="20260106132030" channel="cctv8">
-        <title lang="zh">不期而遇的生活25/35</title>
+        <title lang="zh">不期而遇的生活第25集</title>
     </programme>
     <programme start="20260106132030" stop="20260106132530" channel="cctv8">
         <title lang="zh">本集提要-不期而遇的生活-第26集</title>
     </programme>
     <programme start="20260106132530" stop="20260106141630" channel="cctv8">
-        <title lang="zh">不期而遇的生活26/35</title>
+        <title lang="zh">不期而遇的生活第26集</title>
     </programme>
     <programme start="20260106141630" stop="20260106150600" channel="cctv8">
         <title lang="zh">我的阿勒泰第5集</title>
@@ -2470,10 +2473,10 @@
         <title lang="zh">星推荐-2026年1月-6</title>
     </programme>
     <programme start="20260107044700" stop="20260107054200" channel="cctv8">
-        <title lang="zh">逍遥34/39</title>
+        <title lang="zh">逍遥第34集</title>
     </programme>
     <programme start="20260107054200" stop="20260107063630" channel="cctv8">
-        <title lang="zh">逍遥35/39</title>
+        <title lang="zh">逍遥第35集</title>
     </programme>
     <programme start="20260107063630" stop="20260107073210" channel="cctv8">
         <title lang="zh">逍遥36/39</title>
@@ -4234,7 +4237,7 @@
         <title lang="zh">神采正飞扬-中国郎之夜-4（纯享版）</title>
     </programme>
     <programme start="20260107144000" stop="20260107144700" channel="cctv15">
-        <title lang="zh">中国节拍-品味古典50</title>
+        <title lang="zh">中国节拍-品味古典61</title>
     </programme>
     <programme start="20260107144700" stop="20260107154630" channel="cctv15">
         <title lang="zh">CCTV音乐厅-2026-3-名家名曲（3）</title>
@@ -4279,7 +4282,7 @@
         <title lang="zh">唱享中国——爽爽贵阳·夏日先锋歌会-重播版</title>
     </programme>
     <programme start="20260108075230" stop="20260108075930" channel="cctv15">
-        <title lang="zh">中国节拍-品味古典50</title>
+        <title lang="zh">中国节拍-品味古典61</title>
     </programme>
     <programme start="20260108075930" stop="20260108085900" channel="cctv15">
         <title lang="zh">左岸有约-4</title>
