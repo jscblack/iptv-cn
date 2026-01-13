@@ -1884,53 +1884,62 @@
     <programme start="20260114180927" stop="20260114193500" channel="cctv6">
         <title lang="zh">录刀人</title>
     </programme>
-    <programme start="20260114193500" stop="20260114225826" channel="cctv6">
+    <programme start="20260114193500" stop="20260114210330" channel="cctv6">
         <title lang="zh">禁猎区</title>
     </programme>
-    <programme start="20260114225826" stop="20260115004619" channel="cctv6">
+    <programme start="20260114210330" stop="20260114222523" channel="cctv6">
+        <title lang="zh">武状元苏乞儿</title>
+    </programme>
+    <programme start="20260114222523" stop="20260115001156" channel="cctv6">
         <title lang="zh">解放·终局营救</title>
     </programme>
-    <programme start="20260115004619" stop="20260115022816" channel="cctv6">
+    <programme start="20260115001156" stop="20260115015138" channel="cctv6">
         <title lang="zh">金山鸿雁</title>
     </programme>
-    <programme start="20260115022816" stop="20260115041007" channel="cctv6">
+    <programme start="20260115015138" stop="20260115033254" channel="cctv6">
         <title lang="zh">弹道无痕</title>
     </programme>
-    <programme start="20260115041007" stop="20260115041622" channel="cctv6">
+    <programme start="20260115033254" stop="20260115033759" channel="cctv6">
         <title lang="zh">音乐电影欣赏</title>
     </programme>
-    <programme start="20260115041622" stop="20260115061156" channel="cctv6">
+    <programme start="20260115033759" stop="20260115053043" channel="cctv6">
         <title lang="zh">过年</title>
     </programme>
-    <programme start="20260115061156" stop="20260115075333" channel="cctv6">
+    <programme start="20260115053043" stop="20260115071040" channel="cctv6">
         <title lang="zh">十字锁喉手</title>
     </programme>
-    <programme start="20260115075333" stop="20260115094844" channel="cctv6">
+    <programme start="20260115071040" stop="20260115083816" channel="cctv6">
+        <title lang="zh">唐伯虎点秋香</title>
+    </programme>
+    <programme start="20260115083816" stop="20260115103227" channel="cctv6">
         <title lang="zh">乌衣夜行</title>
     </programme>
-    <programme start="20260115094844" stop="20260115095929" channel="cctv6">
-        <title lang="zh">今日影评</title>
+    <programme start="20260115103227" stop="20260115104212" channel="cctv6">
+        <title lang="zh">今日影评2026-011</title>
     </programme>
-    <programme start="20260115095929" stop="20260115121235" channel="cctv6">
-        <title lang="zh">金刚川</title>
+    <programme start="20260115104212" stop="20260115121825" channel="cctv6">
+        <title lang="zh">三弦战士韩起祥</title>
     </programme>
-    <programme start="20260115121235" stop="20260115140000" channel="cctv6">
+    <programme start="20260115121825" stop="20260115140000" channel="cctv6">
         <title lang="zh">风云太白山</title>
     </programme>
     <programme start="20260115140000" stop="20260115141800" channel="cctv6">
         <title lang="zh">中国电影报道2026-015</title>
     </programme>
-    <programme start="20260115141800" stop="20260115142320" channel="cctv6">
+    <programme start="20260115141800" stop="20260115142335" channel="cctv6">
         <title lang="zh">中国福利彩票阳光开奖2026-01-15</title>
     </programme>
-    <programme start="20260115142320" stop="20260115155000" channel="cctv6">
-        <title lang="zh">的士速递</title>
+    <programme start="20260115142335" stop="20260115150000" channel="cctv6">
+        <title lang="zh">的士速递（上）</title>
     </programme>
-    <programme start="20260115155000" stop="20260115155405" channel="cctv6">
+    <programme start="20260115150000" stop="20260115150100" channel="cctv6">
         <title lang="zh">中国体育彩票阳光开奖2026-01-15</title>
     </programme>
-    <programme start="20260115155405" stop="20260115155900" channel="cctv6">
-        <title lang="zh">今日影评</title>
+    <programme start="20260115150100" stop="20260115154900" channel="cctv6">
+        <title lang="zh">的士速递（下）</title>
+    </programme>
+    <programme start="20260115154900" stop="20260115155900" channel="cctv6">
+        <title lang="zh">今日影评2026-011</title>
     </programme>
     <programme start="20260112161015" stop="20260112164815" channel="cctv7">
         <title lang="zh">兵器面面观-2026-8</title>
@@ -2377,19 +2386,19 @@
         <title lang="zh">本集提要-小城大事-第7集</title>
     </programme>
     <programme start="20260113113000" stop="20260113122355" channel="cctv8">
-        <title lang="zh">小城大事7/40</title>
+        <title lang="zh">小城大事第7集</title>
     </programme>
     <programme start="20260113122355" stop="20260113122855" channel="cctv8">
-        <title lang="zh">本集提要-小城大事-8/40</title>
+        <title lang="zh">本集提要-小城大事-第8集</title>
     </programme>
     <programme start="20260113122855" stop="20260113132030" channel="cctv8">
-        <title lang="zh">小城大事8/40</title>
+        <title lang="zh">小城大事第8集</title>
     </programme>
     <programme start="20260113132030" stop="20260113132530" channel="cctv8">
         <title lang="zh">本集提要-人民的选择-第7集</title>
     </programme>
     <programme start="20260113132530" stop="20260113141630" channel="cctv8">
-        <title lang="zh">人民的选择7/26</title>
+        <title lang="zh">人民的选择第7集</title>
     </programme>
     <programme start="20260113141630" stop="20260113150400" channel="cctv8">
         <title lang="zh">剧说很好看-2026-2</title>
@@ -2509,7 +2518,7 @@
         <title lang="zh">星推荐-2026年1月-14</title>
     </programme>
     <programme start="20260114112700" stop="20260114113000" channel="cctv8">
-        <title lang="zh">本集提要-小城大事-9/40</title>
+        <title lang="zh">本集提要-小城大事-第9集</title>
     </programme>
     <programme start="20260114113000" stop="20260114122355" channel="cctv8">
         <title lang="zh">小城大事9/40</title>
@@ -2524,7 +2533,7 @@
         <title lang="zh">本集提要-人民的选择-第8集</title>
     </programme>
     <programme start="20260114132530" stop="20260114141515" channel="cctv8">
-        <title lang="zh">人民的选择8/26</title>
+        <title lang="zh">人民的选择第8集</title>
     </programme>
     <programme start="20260114141515" stop="20260114141700" channel="cctv8">
         <title lang="zh">本集提要-人民的选择-第9集</title>
