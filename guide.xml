@@ -144,11 +144,11 @@
     <programme start="20260319091315" stop="20260319100515" channel="cctv1">
         <title lang="zh">第一动画乐园-2026-66</title>
     </programme>
-    <programme start="20260319100515" stop="20260319101945" channel="cctv1">
+    <programme start="20260319100515" stop="20260319102045" channel="cctv1">
         <title lang="zh">第一动画乐园-2026-67</title>
     </programme>
-    <programme start="20260319101945" stop="20260319105045" channel="cctv1">
-        <title lang="zh">人文名镇-福建五夫</title>
+    <programme start="20260319102045" stop="20260319105045" channel="cctv1">
+        <title lang="zh">农耕探文明-2025-14</title>
     </programme>
     <programme start="20260319105045" stop="20260319110000" channel="cctv1">
         <title lang="zh">秘境之眼-2026-64</title>
@@ -369,11 +369,11 @@
     <programme start="20260321113825" stop="20260321120300" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260321120300" stop="20260321135120" channel="cctv1">
+    <programme start="20260321120300" stop="20260321134520" channel="cctv1">
         <title lang="zh">城市风华录（第二季）-郴州篇</title>
     </programme>
-    <programme start="20260321135120" stop="20260321140000" channel="cctv1">
-        <title lang="zh">三餐四季（第二季）-宣传片</title>
+    <programme start="20260321134520" stop="20260321140000" channel="cctv1">
+        <title lang="zh">中华古树-建阳闽楠古树群（4K）</title>
     </programme>
     <programme start="20260321140000" stop="20260321143515" channel="cctv1">
         <title lang="zh">晚间新闻</title>
@@ -1026,11 +1026,8 @@
     <programme start="20260319110000" stop="20260319113000" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20260319113000" stop="20260319120000" channel="cctv4">
+    <programme start="20260319113000" stop="20260319123000" channel="cctv4">
         <title lang="zh">今日亚洲</title>
-    </programme>
-    <programme start="20260319120000" stop="20260319123000" channel="cctv4">
-        <title lang="zh">记住乡愁2026-43</title>
     </programme>
     <programme start="20260319123000" stop="20260319130000" channel="cctv4">
         <title lang="zh">海峡两岸-2026-78</title>
@@ -1038,11 +1035,8 @@
     <programme start="20260319130000" stop="20260319133000" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20260319133000" stop="20260319140000" channel="cctv4">
+    <programme start="20260319133000" stop="20260319143000" channel="cctv4">
         <title lang="zh">今日关注</title>
-    </programme>
-    <programme start="20260319140000" stop="20260319143000" channel="cctv4">
-        <title lang="zh">走遍中国-2026-45</title>
     </programme>
     <programme start="20260319143000" stop="20260319150230" channel="cctv4">
         <title lang="zh">新闻联播</title>
@@ -1080,26 +1074,23 @@
     <programme start="20260319200000" stop="20260319203000" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20260319203000" stop="20260319210000" channel="cctv4">
-        <title lang="zh">今日关注</title>
-    </programme>
-    <programme start="20260319210000" stop="20260319213000" channel="cctv4">
+    <programme start="20260319203000" stop="20260319210040" channel="cctv4">
         <title lang="zh">记住乡愁2026-43</title>
     </programme>
-    <programme start="20260319213000" stop="20260319220000" channel="cctv4">
+    <programme start="20260319210040" stop="20260319213200" channel="cctv4">
+        <title lang="zh">中国文艺-2026-56</title>
+    </programme>
+    <programme start="20260319213200" stop="20260319220240" channel="cctv4">
+        <title lang="zh">国家记忆-2024-20</title>
+    </programme>
+    <programme start="20260319220240" stop="20260319223040" channel="cctv4">
         <title lang="zh">走遍中国-2026-45</title>
     </programme>
-    <programme start="20260319220000" stop="20260319223000" channel="cctv4">
+    <programme start="20260319223040" stop="20260319230000" channel="cctv4">
         <title lang="zh">海峡两岸-2026-78</title>
     </programme>
-    <programme start="20260319223000" stop="20260319230000" channel="cctv4">
-        <title lang="zh">今日亚洲</title>
-    </programme>
-    <programme start="20260319230000" stop="20260319233000" channel="cctv4">
+    <programme start="20260319230000" stop="20260320000000" channel="cctv4">
         <title lang="zh">中国新闻</title>
-    </programme>
-    <programme start="20260319233000" stop="20260320000000" channel="cctv4">
-        <title lang="zh">今日关注</title>
     </programme>
     <programme start="20260320000000" stop="20260320010000" channel="cctv4">
         <title lang="zh">今日环球</title>
@@ -1648,19 +1639,19 @@
         <title lang="zh">2025/2026赛季北美冰球职业联赛-常规赛37（阿纳海姆小鸭—犹他猛犸象）</title>
     </programme>
     <programme start="20260321050500" stop="20260321063500" channel="cctv5plus">
-        <title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第28轮 浙江方兴渡—北京控股</title>
+        <title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第28轮 浙江浙商证券—北京控股</title>
     </programme>
     <programme start="20260321063500" stop="20260321073000" channel="cctv5plus">
         <title lang="zh">实况录像-2026年世界职业拳王争霸赛 3</title>
     </programme>
-    <programme start="20260321073000" stop="20260321090000" channel="cctv5plus">
-        <title lang="zh">国际足球赛场-25-26赛季英超联赛第30轮 曼联—阿斯顿维拉</title>
+    <programme start="20260321073000" stop="20260321083000" channel="cctv5plus">
+        <title lang="zh">2026年体操世界杯-安塔利亚站1</title>
     </programme>
-    <programme start="20260321090000" stop="20260321100000" channel="cctv5plus">
-        <title lang="zh">逐冰追雪（4K）</title>
+    <programme start="20260321083000" stop="20260321103500" channel="cctv5plus">
+        <title lang="zh">2025/2026赛季中国排球超级联赛-女子半决赛（江苏中天钢铁—天津渤海银行）</title>
     </programme>
-    <programme start="20260321100000" stop="20260321113000" channel="cctv5plus">
-        <title lang="zh">实况录像-2025/2026赛季欧洲篮球联赛 第32轮 巴伦西亚—巴塞罗那</title>
+    <programme start="20260321103500" stop="20260321113000" channel="cctv5plus">
+        <title lang="zh">逐冰追雪-2026-8（4K）</title>
     </programme>
     <programme start="20260321113000" stop="20260321134000" channel="cctv5plus">
         <title lang="zh">2026中国足球超级联赛-第3轮（重庆铜梁龙—成都蓉城）</title>
