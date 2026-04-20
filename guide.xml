@@ -270,22 +270,22 @@
     <programme start="20260421110000" stop="20260421113740" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260421113740" stop="20260421115810" channel="cctv1">
+    <programme start="20260421113740" stop="20260421115800" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260421115810" stop="20260421120200" channel="cctv1">
-        <title lang="zh">前情提要-金关-10/22</title>
+    <programme start="20260421115800" stop="20260421120200" channel="cctv1">
+        <title lang="zh">前情提要-金关-第10集</title>
     </programme>
-    <programme start="20260421120200" stop="20260421125305" channel="cctv1">
+    <programme start="20260421120200" stop="20260421125225" channel="cctv1">
         <title lang="zh">金关10/22</title>
     </programme>
-    <programme start="20260421125305" stop="20260421125535" channel="cctv1">
-        <title lang="zh">前情提要-金关-11/22</title>
+    <programme start="20260421125225" stop="20260421125700" channel="cctv1">
+        <title lang="zh">前情提要-金关-第11集</title>
     </programme>
-    <programme start="20260421125535" stop="20260421135030" channel="cctv1">
+    <programme start="20260421125700" stop="20260421135130" channel="cctv1">
         <title lang="zh">金关11/22</title>
     </programme>
-    <programme start="20260421135030" stop="20260421140000" channel="cctv1">
+    <programme start="20260421135130" stop="20260421140000" channel="cctv1">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
     <programme start="20260421140000" stop="20260421143615" channel="cctv1">
@@ -5028,13 +5028,16 @@
     <programme start="20260420133735" stop="20260420142705" channel="cctv4k">
         <title lang="zh">大地之上-5（4K）</title>
     </programme>
-    <programme start="20260420142705" stop="20260420150705" channel="cctv4k">
+    <programme start="20260420142705" stop="20260420142817" channel="cctv4k">
+        <title lang="zh">4K宣传片-谷雨牡丹</title>
+    </programme>
+    <programme start="20260420142817" stop="20260420150817" channel="cctv4k">
         <title lang="zh">探索·发现（4K）-2024-49</title>
     </programme>
-    <programme start="20260420150705" stop="20260420155635" channel="cctv4k">
+    <programme start="20260420150817" stop="20260420155747" channel="cctv4k">
         <title lang="zh">舌尖上的中国 第四季-3（4K）</title>
     </programme>
-    <programme start="20260420155635" stop="20260420155925" channel="cctv4k">
+    <programme start="20260420155747" stop="20260420155925" channel="cctv4k">
         <title lang="zh">4K垫播节目-丝绸之旅2025</title>
     </programme>
     <programme start="20260420155925" stop="20260420155900" channel="cctv4k">
@@ -5064,8 +5067,11 @@
     <programme start="20260421000325" stop="20260421005255" channel="cctv4k">
         <title lang="zh">大地之上-5（4K）</title>
     </programme>
-    <programme start="20260421005255" stop="20260421005745" channel="cctv4k">
-        <title lang="zh">听起来很好吃(第二季)-3（4K）</title>
+    <programme start="20260421005255" stop="20260421005633" channel="cctv4k">
+        <title lang="zh">4K垫播节目-美丽中国2025-云南1</title>
+    </programme>
+    <programme start="20260421005633" stop="20260421005745" channel="cctv4k">
+        <title lang="zh">4K宣传片-谷雨牡丹</title>
     </programme>
     <programme start="20260421005745" stop="20260421005815" channel="cctv4k">
         <title lang="zh">4K宣传片-城市风华录</title>
@@ -5112,8 +5118,14 @@
     <programme start="20260421051150" stop="20260421055350" channel="cctv4k">
         <title lang="zh">远方的家2024-127(4K)</title>
     </programme>
-    <programme start="20260421055350" stop="20260421060350" channel="cctv4k">
-        <title lang="zh">2024秘境之眼-探秘金丝猴栖息地(4K)</title>
+    <programme start="20260421055350" stop="20260421055840" channel="cctv4k">
+        <title lang="zh">听起来很好吃(第二季)-3（4K）</title>
+    </programme>
+    <programme start="20260421055840" stop="20260421060238" channel="cctv4k">
+        <title lang="zh">4K垫播节目-美丽中国2025-云南1</title>
+    </programme>
+    <programme start="20260421060238" stop="20260421060350" channel="cctv4k">
+        <title lang="zh">4K宣传片-谷雨牡丹</title>
     </programme>
     <programme start="20260421060350" stop="20260421064950" channel="cctv4k">
         <title lang="zh">蛮好的人生-（4K）-20/36</title>
@@ -5163,8 +5175,11 @@
     <programme start="20260421100000" stop="20260421102800" channel="cctv4k">
         <title lang="zh">绿水青山中国答卷-18（4K）</title>
     </programme>
-    <programme start="20260421102800" stop="20260421103000" channel="cctv4k">
+    <programme start="20260421102800" stop="20260421102848" channel="cctv4k">
         <title lang="zh">4K垫播节目-美丽中国2025-云南滇金丝猴</title>
+    </programme>
+    <programme start="20260421102848" stop="20260421103000" channel="cctv4k">
+        <title lang="zh">4K宣传片-谷雨牡丹</title>
     </programme>
     <programme start="20260421103000" stop="20260421110000" channel="cctv4k">
         <title lang="zh">文脉春秋-2025-2(4K)</title>
@@ -5319,8 +5334,11 @@
     <programme start="20260422073550" stop="20260422082520" channel="cctv4k">
         <title lang="zh">大地之上-6（4K）</title>
     </programme>
-    <programme start="20260422082520" stop="20260422083010" channel="cctv4k">
-        <title lang="zh">听起来很好吃(第二季)-4（4K）</title>
+    <programme start="20260422082520" stop="20260422082858" channel="cctv4k">
+        <title lang="zh">4K垫播节目-美丽中国2025-云南1</title>
+    </programme>
+    <programme start="20260422082858" stop="20260422083010" channel="cctv4k">
+        <title lang="zh">4K宣传片-谷雨牡丹</title>
     </programme>
     <programme start="20260422083010" stop="20260422091010" channel="cctv4k">
         <title lang="zh">探索·发现（4K）-2024-50</title>
