@@ -279,14 +279,17 @@
     <programme start="20260430110000" stop="20260430113840" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260430113840" stop="20260430120300" channel="cctv1">
+    <programme start="20260430113840" stop="20260430120100" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260430120300" stop="20260430135435" channel="cctv1">
-        <title lang="zh">专题节目-1</title>
+    <programme start="20260430120100" stop="20260430133315" channel="cctv1">
+        <title lang="zh">中国中医药大会（第三季）-2</title>
     </programme>
-    <programme start="20260430135435" stop="20260430140000" channel="cctv1">
+    <programme start="20260430133315" stop="20260430134530" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
+    </programme>
+    <programme start="20260430134530" stop="20260430140000" channel="cctv1">
+        <title lang="zh">中华古树-绍兴古桂花群（4K）</title>
     </programme>
     <programme start="20260430140000" stop="20260430143545" channel="cctv1">
         <title lang="zh">晚间新闻</title>
@@ -1275,20 +1278,23 @@
     <programme start="20260501010000" stop="20260501012600" channel="cctv4">
         <title lang="zh">今日亚洲</title>
     </programme>
-    <programme start="20260501012600" stop="20260501015630" channel="cctv4">
-        <title lang="zh">国家记忆-2024-22</title>
+    <programme start="20260501012600" stop="20260501015430" channel="cctv4">
+        <title lang="zh">走遍中国-2026-73</title>
     </programme>
-    <programme start="20260501015630" stop="20260501022330" channel="cctv4">
-        <title lang="zh">国家记忆-2024-23</title>
+    <programme start="20260501015430" stop="20260501022030" channel="cctv4">
+        <title lang="zh">走遍中国-2026-74</title>
     </programme>
-    <programme start="20260501022330" stop="20260501025330" channel="cctv4">
-        <title lang="zh">国家记忆-2024-24</title>
+    <programme start="20260501022030" stop="20260501024830" channel="cctv4">
+        <title lang="zh">走遍中国-2026-75</title>
     </programme>
-    <programme start="20260501025330" stop="20260501032330" channel="cctv4">
-        <title lang="zh">国家记忆-2024-25</title>
+    <programme start="20260501024830" stop="20260501031630" channel="cctv4">
+        <title lang="zh">走遍中国-2026-76</title>
     </programme>
-    <programme start="20260501032330" stop="20260501033000" channel="cctv4">
-        <title lang="zh">记住乡愁-片段展播-2024-25</title>
+    <programme start="20260501031630" stop="20260501032130" channel="cctv4">
+        <title lang="zh">记住乡愁-片段展播-2025-26</title>
+    </programme>
+    <programme start="20260501032130" stop="20260501033000" channel="cctv4">
+        <title lang="zh">记住乡愁-片段展播-2025-24</title>
     </programme>
     <programme start="20260501033000" stop="20260501040000" channel="cctv4">
         <title lang="zh">海峡两岸-2026-120</title>
@@ -1411,7 +1417,7 @@
         <title lang="zh">体育世界</title>
     </programme>
     <programme start="20260429140000" stop="20260429155900" channel="cctv5">
-        <title lang="zh">2025/2026赛季世界斯诺克锦标赛-1/4决赛2</title>
+        <title lang="zh">2025/2026赛季世界斯诺克锦标赛-1/4决赛2 赵心童-墨菲</title>
     </programme>
     <programme start="20260429163500" stop="20260429170500" channel="cctv5">
         <title lang="zh">实况录像-2026年体操世界杯 科特布斯站 25分钟版</title>
@@ -1444,7 +1450,7 @@
         <title lang="zh">国际足球赛场-25-26赛季英超联赛第34轮 伯恩利—曼城（4K）</title>
     </programme>
     <programme start="20260430023100" stop="20260430035500" channel="cctv5">
-        <title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 季后赛12进8 第一场1</title>
+        <title lang="zh">实况录像-2025/2026赛季欧洲篮球联赛 季后赛 巴伦西亚—帕纳辛纳科斯</title>
     </programme>
     <programme start="20260430035500" stop="20260430040000" channel="cctv5">
         <title lang="zh">健身动起来</title>
@@ -1483,7 +1489,7 @@
         <title lang="zh">2025/2026赛季世界斯诺克锦标赛-半决赛1</title>
     </programme>
     <programme start="20260430150500" stop="20260430155900" channel="cctv5">
-        <title lang="zh">实况录像-2026年国际乒联单打世界杯 2</title>
+        <title lang="zh">实况录像-2026年第六届亚沙会 闭幕式（录播）</title>
     </programme>
     <programme start="20260430160500" stop="20260430170500" channel="cctv5">
         <title lang="zh">实况录像-2026年艺术体操世界杯 塔什干站 1</title>
@@ -1495,7 +1501,7 @@
         <title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第37轮 北京控股—北京北汽</title>
     </programme>
     <programme start="20260430200000" stop="20260430213000" channel="cctv5">
-        <title lang="zh">国际足球赛场-25-26赛季法甲联赛第31轮 洛里昂—斯特拉斯堡（4K）</title>
+        <title lang="zh">国际足球赛场-25-26赛季英超联赛第34轮 伯恩利—曼城（4K）</title>
     </programme>
     <programme start="20260430213000" stop="20260430220000" channel="cctv5">
         <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 高山滑雪男子大回转（4K）</title>
@@ -1695,14 +1701,14 @@
     <programme start="20260501030100" stop="20260501040200" channel="cctv5plus">
         <title lang="zh">实况录像-2026年艺术体操世界杯 巴库站1</title>
     </programme>
-    <programme start="20260501040200" stop="20260501050500" channel="cctv5plus">
+    <programme start="20260501040200" stop="20260501050000" channel="cctv5plus">
         <title lang="zh">实况录像-2026年全国举重锦标赛 男子比赛2</title>
     </programme>
-    <programme start="20260501050500" stop="20260501052800" channel="cctv5plus">
-        <title lang="zh">实况录像-精彩一刻-2025/2026斯诺克世界公开赛 奥沙利文的153</title>
+    <programme start="20260501050000" stop="20260501060000" channel="cctv5plus">
+        <title lang="zh">2026上海浪琴环球马术冠军赛-1.60米争时赛</title>
     </programme>
-    <programme start="20260501052800" stop="20260501070000" channel="cctv5plus">
-        <title lang="zh">国际足球赛场-25-26赛季法甲联赛第31轮 洛里昂—斯特拉斯堡（4K）</title>
+    <programme start="20260501060000" stop="20260501070000" channel="cctv5plus">
+        <title lang="zh">实况录像-2026年体操世界杯 奥西耶克站 1</title>
     </programme>
     <programme start="20260501070000" stop="20260501075500" channel="cctv5plus">
         <title lang="zh">2026年世界泳联跳水世界杯（总决赛）-女子双人10米跳台决赛</title>
@@ -4188,8 +4194,11 @@
     <programme start="20260501133630" stop="20260501145200" channel="cctv15">
         <title lang="zh">音乐公开课-2026-7</title>
     </programme>
-    <programme start="20260501145200" stop="20260501155900" channel="cctv15">
-        <title lang="zh">风华国乐-2026-126《风华国乐2026春季音乐会》</title>
+    <programme start="20260501145200" stop="20260501155130" channel="cctv15">
+        <title lang="zh">CCTV音乐厅-2026-128-“国风雅韵”民族管弦乐音乐会（1）</title>
+    </programme>
+    <programme start="20260501155130" stop="20260501155900" channel="cctv15">
+        <title lang="zh">风华国乐-2026-123</title>
     </programme>
     <programme start="20260428160500" stop="20260428173000" channel="cctv16">
         <title lang="zh">国际足球赛场-25-26赛季英超联赛第33轮 纽卡斯尔联—伯恩茅斯</title>
@@ -4557,17 +4566,17 @@
     <programme start="20260430031015" stop="20260430040000" channel="cctv17">
         <title lang="zh">我和我的三个姐姐第20集</title>
     </programme>
-    <programme start="20260430040000" stop="20260430043200" channel="cctv17">
+    <programme start="20260430040000" stop="20260430043400" channel="cctv17">
         <title lang="zh">中国三农报道</title>
     </programme>
-    <programme start="20260430043200" stop="20260430050100" channel="cctv17">
+    <programme start="20260430043400" stop="20260430050300" channel="cctv17">
         <title lang="zh">谁知盘中餐-2026-81</title>
     </programme>
-    <programme start="20260430050100" stop="20260430052805" channel="cctv17">
+    <programme start="20260430050300" stop="20260430053005" channel="cctv17">
         <title lang="zh">田园帮帮团-2026-9</title>
     </programme>
-    <programme start="20260430052805" stop="20260430053820" channel="cctv17">
-        <title lang="zh">2026田园特供-乡村达人秀10-高空扁带绝活表演</title>
+    <programme start="20260430053005" stop="20260430053820" channel="cctv17">
+        <title lang="zh">2026田园特供-乡村达人秀36-高空扁带绝活表演（改版）</title>
     </programme>
     <programme start="20260430053820" stop="20260430062940" channel="cctv17">
         <title lang="zh">破冰行动第6集</title>
@@ -4603,30 +4612,30 @@
         <title lang="zh">三农群英汇-2026-159</title>
     </programme>
     <programme start="20260430131500" stop="20260430134530" channel="cctv17">
-        <title lang="zh">共富经-2026-73</title>
+        <title lang="zh">共富经-2026-74</title>
     </programme>
     <programme start="20260430134530" stop="20260430141300" channel="cctv17">
         <title lang="zh">超级农人秀-2026-86</title>
     </programme>
-    <programme start="20260430141300" stop="20260430144000" channel="cctv17">
+    <programme start="20260430141300" stop="20260430144230" channel="cctv17">
         <title lang="zh">田园帮帮团-2026-69</title>
     </programme>
-    <programme start="20260430144000" stop="20260430150700" channel="cctv17">
+    <programme start="20260430144230" stop="20260430151000" channel="cctv17">
         <title lang="zh">谁知盘中餐-2026-82</title>
     </programme>
-    <programme start="20260430150700" stop="20260430153600" channel="cctv17">
+    <programme start="20260430151000" stop="20260430153900" channel="cctv17">
         <title lang="zh">三农群英汇-2026-159</title>
     </programme>
-    <programme start="20260430153600" stop="20260430155900" channel="cctv17">
-        <title lang="zh">共富经-2026-73</title>
+    <programme start="20260430153900" stop="20260430155900" channel="cctv17">
+        <title lang="zh">共富经-2026-74</title>
     </programme>
-    <programme start="20260430160200" stop="20260430162900" channel="cctv17">
+    <programme start="20260430160500" stop="20260430163200" channel="cctv17">
         <title lang="zh">大地讲堂-2026-34</title>
     </programme>
-    <programme start="20260430162900" stop="20260430170000" channel="cctv17">
+    <programme start="20260430163200" stop="20260430170300" channel="cctv17">
         <title lang="zh">超级农人秀-2026-86</title>
     </programme>
-    <programme start="20260430170000" stop="20260430215700" channel="cctv17">
+    <programme start="20260430170300" stop="20260430215700" channel="cctv17">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20260430215700" stop="20260430220700" channel="cctv17">
