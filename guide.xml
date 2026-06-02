@@ -232,13 +232,13 @@
         <title lang="zh">生活早参考-特别节目（生活圈）2026-149</title>
     </programme>
     <programme start="20260603012145" stop="20260603021215" channel="cctv1">
-        <title lang="zh">青山是故乡3/29</title>
+        <title lang="zh">青山是故乡第3集</title>
     </programme>
     <programme start="20260603021215" stop="20260603030145" channel="cctv1">
-        <title lang="zh">青山是故乡4/29</title>
+        <title lang="zh">青山是故乡第4集</title>
     </programme>
     <programme start="20260603030145" stop="20260603034945" channel="cctv1">
-        <title lang="zh">青山是故乡5/29</title>
+        <title lang="zh">青山是故乡第5集</title>
     </programme>
     <programme start="20260603034945" stop="20260603035345" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
@@ -253,19 +253,19 @@
         <title lang="zh">今日说法-2026-97</title>
     </programme>
     <programme start="20260603050715" stop="20260603055500" channel="cctv1">
-        <title lang="zh">喀什恋歌4/8</title>
+        <title lang="zh">喀什恋歌第4集</title>
     </programme>
     <programme start="20260603055500" stop="20260603064245" channel="cctv1">
-        <title lang="zh">喀什恋歌5/8</title>
+        <title lang="zh">喀什恋歌第5集</title>
     </programme>
     <programme start="20260603064245" stop="20260603073145" channel="cctv1">
-        <title lang="zh">喀什恋歌6/8</title>
+        <title lang="zh">喀什恋歌第6集</title>
     </programme>
     <programme start="20260603073145" stop="20260603082100" channel="cctv1">
-        <title lang="zh">喀什恋歌7/8</title>
+        <title lang="zh">喀什恋歌第7集</title>
     </programme>
     <programme start="20260603082100" stop="20260603090930" channel="cctv1">
-        <title lang="zh">喀什恋歌8/8</title>
+        <title lang="zh">喀什恋歌第8集</title>
     </programme>
     <programme start="20260603090930" stop="20260603093730" channel="cctv1">
         <title lang="zh">第一动画乐园-2026-146</title>
@@ -288,19 +288,19 @@
     <programme start="20260603115900" stop="20260603120300" channel="cctv1">
         <title lang="zh">前情提要-主角-40/48</title>
     </programme>
-    <programme start="20260603120300" stop="20260603125530" channel="cctv1">
+    <programme start="20260603120300" stop="20260603125405" channel="cctv1">
         <title lang="zh">主角40/48</title>
     </programme>
-    <programme start="20260603125530" stop="20260603125800" channel="cctv1">
+    <programme start="20260603125405" stop="20260603125635" channel="cctv1">
         <title lang="zh">前情提要-主角-41/48</title>
     </programme>
-    <programme start="20260603125800" stop="20260603134850" channel="cctv1">
+    <programme start="20260603125635" stop="20260603134545" channel="cctv1">
         <title lang="zh">主角41/48</title>
     </programme>
-    <programme start="20260603134850" stop="20260603135420" channel="cctv1">
+    <programme start="20260603134545" stop="20260603135115" channel="cctv1">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
-    <programme start="20260603135420" stop="20260603140000" channel="cctv1">
+    <programme start="20260603135115" stop="20260603140000" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme start="20260603140000" stop="20260603143630" channel="cctv1">
@@ -2142,8 +2142,11 @@
     <programme start="20260603153615" stop="20260603155900" channel="cctv7">
         <title lang="zh">军事纪实-2026-110</title>
     </programme>
-    <programme start="20260603161045" stop="20260603220300" channel="cctv7">
+    <programme start="20260603161045" stop="20260603164845" channel="cctv7">
         <title lang="zh">兵器面面观-2026-110</title>
+    </programme>
+    <programme start="20260603164845" stop="20260603220300" channel="cctv7">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20260603220300" stop="20260603223330" channel="cctv7">
         <title lang="zh">军事纪实-2026-110</title>
@@ -3081,8 +3084,11 @@
     <programme start="20260603173530" stop="20260603182530" channel="cctv10">
         <title lang="zh">奥秘（精编）-27</title>
     </programme>
-    <programme start="20260603182530" stop="20260603220000" channel="cctv10">
+    <programme start="20260603182530" stop="20260603190530" channel="cctv10">
         <title lang="zh">百家讲坛-2026-154</title>
+    </programme>
+    <programme start="20260603190530" stop="20260603220000" channel="cctv10">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20260603220000" stop="20260603221000" channel="cctv10">
         <title lang="zh">读书-2026-208</title>
@@ -3250,10 +3256,10 @@
         <title lang="zh">豫剧电影 朝阳沟</title>
     </programme>
     <programme start="20260603032520" stop="20260603041550" channel="cctv11">
-        <title lang="zh">人生之路3/37</title>
+        <title lang="zh">人生之路第3集</title>
     </programme>
     <programme start="20260603041550" stop="20260603050620" channel="cctv11">
-        <title lang="zh">人生之路4/37</title>
+        <title lang="zh">人生之路第4集</title>
     </programme>
     <programme start="20260603050620" stop="20260603062520" channel="cctv11">
         <title lang="zh">角儿来了-2025-29黄梅雅韵</title>
@@ -3262,10 +3268,10 @@
         <title lang="zh">中国戏曲像音像集萃-2025-12黄梅戏《天仙配》</title>
     </programme>
     <programme start="20260603091300" stop="20260603100330" channel="cctv11">
-        <title lang="zh">锦囊妙录18/36</title>
+        <title lang="zh">锦囊妙录第18集</title>
     </programme>
     <programme start="20260603100330" stop="20260603110000" channel="cctv11">
-        <title lang="zh">锦囊妙录19/36</title>
+        <title lang="zh">锦囊妙录第19集</title>
     </programme>
     <programme start="20260603110000" stop="20260603113000" channel="cctv11">
         <title lang="zh">青春戏苑-2026-126《刘三姐》精编专辑2</title>
@@ -3274,16 +3280,19 @@
         <title lang="zh">青春戏苑-2026-119 黄梅折子戏专场</title>
     </programme>
     <programme start="20260603134055" stop="20260603143125" channel="cctv11">
-        <title lang="zh">新居之约35/39</title>
+        <title lang="zh">新居之约第35集</title>
     </programme>
     <programme start="20260603143125" stop="20260603152155" channel="cctv11">
-        <title lang="zh">新居之约36/39</title>
+        <title lang="zh">新居之约第36集</title>
     </programme>
     <programme start="20260603152155" stop="20260603155900" channel="cctv11">
-        <title lang="zh">新居之约37/39</title>
+        <title lang="zh">新居之约第37集</title>
     </programme>
-    <programme start="20260603161225" stop="20260603220630" channel="cctv11">
+    <programme start="20260603161225" stop="20260603164325" channel="cctv11">
         <title lang="zh">青春戏苑-2026-126《刘三姐》精编专辑2</title>
+    </programme>
+    <programme start="20260603164325" stop="20260603220630" channel="cctv11">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20260603220630" stop="20260603231140" channel="cctv11">
         <title lang="zh">CCTV空中剧院-2025-72地方戏版 好戏连连看 评剧《花为媒》选场二</title>
