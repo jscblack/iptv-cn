@@ -273,17 +273,17 @@
     <programme start="20260606110000" stop="20260606113840" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260606113840" stop="20260606120300" channel="cctv1">
+    <programme start="20260606113840" stop="20260606120100" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260606120300" stop="20260606130545" channel="cctv1">
+    <programme start="20260606120100" stop="20260606130320" channel="cctv1">
         <title lang="zh">中国中医药大会（第三季）-6</title>
     </programme>
-    <programme start="20260606130545" stop="20260606130645" channel="cctv1">
+    <programme start="20260606130320" stop="20260606130430" channel="cctv1">
         <title lang="zh">前情提要-主角-第46集</title>
     </programme>
-    <programme start="20260606130645" stop="20260606140000" channel="cctv1">
-        <title lang="zh">主角46/48</title>
+    <programme start="20260606130430" stop="20260606140000" channel="cctv1">
+        <title lang="zh">主角第46集</title>
     </programme>
     <programme start="20260606140000" stop="20260606143630" channel="cctv1">
         <title lang="zh">晚间新闻</title>
@@ -367,7 +367,7 @@
         <title lang="zh">家业14/42</title>
     </programme>
     <programme start="20260607102045" stop="20260607105045" channel="cctv1">
-        <title lang="zh">寻味山海-九江</title>
+        <title lang="zh">本草流芳-黄连</title>
     </programme>
     <programme start="20260607105045" stop="20260607110000" channel="cctv1">
         <title lang="zh">秘境之眼-2026-152</title>
@@ -375,25 +375,16 @@
     <programme start="20260607110000" stop="20260607113855" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260607113855" stop="20260607115900" channel="cctv1">
+    <programme start="20260607113855" stop="20260607120300" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260607115900" stop="20260607120300" channel="cctv1">
-        <title lang="zh">前情提要-主角-47/48</title>
+    <programme start="20260607120300" stop="20260607134130" channel="cctv1">
+        <title lang="zh">三餐四季（第三季）-11安徽</title>
     </programme>
-    <programme start="20260607120300" stop="20260607125230" channel="cctv1">
-        <title lang="zh">主角47/48</title>
-    </programme>
-    <programme start="20260607125230" stop="20260607125530" channel="cctv1">
-        <title lang="zh">前情提要-主角-48/48</title>
-    </programme>
-    <programme start="20260607125530" stop="20260607134645" channel="cctv1">
-        <title lang="zh">主角48/48</title>
-    </programme>
-    <programme start="20260607134645" stop="20260607135320" channel="cctv1">
+    <programme start="20260607134130" stop="20260607135220" channel="cctv1">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
-    <programme start="20260607135320" stop="20260607140000" channel="cctv1">
+    <programme start="20260607135220" stop="20260607140000" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme start="20260607140000" stop="20260607143630" channel="cctv1">
@@ -705,8 +696,11 @@
     <programme start="20260607040000" stop="20260607050110" channel="cctv2">
         <title lang="zh">天下财经</title>
     </programme>
-    <programme start="20260607050110" stop="20260607052510" channel="cctv2">
-        <title lang="zh">周末特供2025-厨房里的桃花源4</title>
+    <programme start="20260607050110" stop="20260607051110" channel="cctv2">
+        <title lang="zh">周末特供2025-八闽奇味4-10（下）</title>
+    </programme>
+    <programme start="20260607051110" stop="20260607052510" channel="cctv2">
+        <title lang="zh">周末特供2025-八闽奇味5</title>
     </programme>
     <programme start="20260607052510" stop="20260607054710" channel="cctv2">
         <title lang="zh">2024精品财经纪录-皖美风味-2</title>
@@ -1429,10 +1423,10 @@
         <title lang="zh">实况录像-2026年射箭世界杯 中国站 2</title>
     </programme>
     <programme start="20260606003000" stop="20260606033000" channel="cctv5">
-        <title lang="zh">2025/2026赛季美国职业篮球联赛-总决赛2</title>
+        <title lang="zh">2025/2026赛季美国职业篮球联赛-总决赛（尼克斯-马刺）第二场</title>
     </programme>
     <programme start="20260606033000" stop="20260606035500" channel="cctv5">
-        <title lang="zh">实况录像-2026年世界田联钻石联赛 拉巴特站 25分钟版</title>
+        <title lang="zh">实况录像-2026年国际篮联三人篮球世界杯 女子比赛</title>
     </programme>
     <programme start="20260606035500" stop="20260606040000" channel="cctv5">
         <title lang="zh">健身动起来</title>
@@ -1449,14 +1443,17 @@
     <programme start="20260606060000" stop="20260606070000" channel="cctv5">
         <title lang="zh">实况录像-绿茵经典-2022年卡塔尔世界杯 小组赛H组 葡萄牙队-加纳队</title>
     </programme>
-    <programme start="20260606070000" stop="20260606082500" channel="cctv5">
-        <title lang="zh">实况录像-2026年长三角国际田径钻石赛（上海/绍兴柯桥）</title>
+    <programme start="20260606070000" stop="20260606072500" channel="cctv5">
+        <title lang="zh">实况录像-2026年世界田联钻石联赛 拉巴特站</title>
     </programme>
-    <programme start="20260606082500" stop="20260606083000" channel="cctv5">
-        <title lang="zh">健身动起来</title>
+    <programme start="20260606072500" stop="20260606093000" channel="cctv5">
+        <title lang="zh">2026中国之队遵义国际青年足球邀请赛-U23中国队- U23塔吉克斯坦队</title>
     </programme>
-    <programme start="20260606083000" stop="20260606100000" channel="cctv5">
-        <title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 总决赛 5</title>
+    <programme start="20260606093000" stop="20260606095500" channel="cctv5">
+        <title lang="zh">体坛零距离-2026-18(4K)</title>
+    </programme>
+    <programme start="20260606095500" stop="20260606100000" channel="cctv5">
+        <title lang="zh">健身动起来-2026-114</title>
     </programme>
     <programme start="20260606100000" stop="20260606103000" channel="cctv5">
         <title lang="zh">体育新闻</title>
@@ -1656,17 +1653,17 @@
     <programme start="20260606220000" stop="20260606233000" channel="cctv5plus">
         <title lang="zh">实况录像-2026年世界田联钻石联赛 拉巴特站</title>
     </programme>
-    <programme start="20260606233000" stop="20260607003000" channel="cctv5plus">
-        <title lang="zh">实况录像-2026年体操世界挑战杯系列赛 乌兹别克斯坦 塔什干站 2</title>
+    <programme start="20260606233000" stop="20260607000000" channel="cctv5plus">
+        <title lang="zh">实况录像-精品赛事记录-2026年射箭世界杯墨西哥站 中国队金牌1</title>
     </programme>
-    <programme start="20260607003000" stop="20260607020100" channel="cctv5plus">
-        <title lang="zh">实况录像-2026年田径世界接力赛（4K）</title>
+    <programme start="20260607000000" stop="20260607030500" channel="cctv5plus">
+        <title lang="zh">2025/2026赛季北美冰球职业联赛斯坦利杯-总决赛（卡罗莱纳飓风-维加斯金骑士）第三场</title>
     </programme>
-    <programme start="20260607020100" stop="20260607030200" channel="cctv5plus">
+    <programme start="20260607030500" stop="20260607033600" channel="cctv5plus">
+        <title lang="zh">实况录像-精品赛事记录-2026年射箭世界杯墨西哥站 中国队金牌2</title>
+    </programme>
+    <programme start="20260607033600" stop="20260607043200" channel="cctv5plus">
         <title lang="zh">实况录像-2026年赛艇世界杯 塞维利亚站</title>
-    </programme>
-    <programme start="20260607030200" stop="20260607043200" channel="cctv5plus">
-        <title lang="zh">2025/2026意大利足球甲级联赛-第38轮2（4K）</title>
     </programme>
     <programme start="20260607043200" stop="20260607060200" channel="cctv5plus">
         <title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 总决赛 5</title>
@@ -2374,19 +2371,19 @@
         <title lang="zh">本集提要-家业-第40集</title>
     </programme>
     <programme start="20260606113000" stop="20260606122540" channel="cctv8">
-        <title lang="zh">家业40/42</title>
+        <title lang="zh">家业第40集</title>
     </programme>
     <programme start="20260606122540" stop="20260606123040" channel="cctv8">
         <title lang="zh">本集提要-家业-第41集</title>
     </programme>
     <programme start="20260606123040" stop="20260606132440" channel="cctv8">
-        <title lang="zh">家业41/42</title>
+        <title lang="zh">家业第41集</title>
     </programme>
     <programme start="20260606132440" stop="20260606132940" channel="cctv8">
         <title lang="zh">本集提要-家业-第42集</title>
     </programme>
     <programme start="20260606132940" stop="20260606141940" channel="cctv8">
-        <title lang="zh">家业42/42</title>
+        <title lang="zh">家业第42集</title>
     </programme>
     <programme start="20260606141940" stop="20260606142140" channel="cctv8">
         <title lang="zh">本集提要-雨霖铃-第37集</title>
@@ -4765,7 +4762,7 @@
         <title lang="zh">4K频道宣传片-标识演绎3</title>
     </programme>
     <programme start="20260605133515" stop="20260605142445" channel="cctv4k">
-        <title lang="zh">大地之上-2（4K）</title>
+        <title lang="zh">澳门：露天博物馆-1（4K）</title>
     </programme>
     <programme start="20260605142445" stop="20260605150445" channel="cctv4k">
         <title lang="zh">探索·发现（4K）-2024-107</title>
@@ -4804,7 +4801,7 @@
         <title lang="zh">“字”从遇见你-14（4K）</title>
     </programme>
     <programme start="20260606000015" stop="20260606004945" channel="cctv4k">
-        <title lang="zh">大地之上-2（4K）</title>
+        <title lang="zh">澳门：露天博物馆-1（4K）</title>
     </programme>
     <programme start="20260606004945" stop="20260606005945" channel="cctv4k">
         <title lang="zh">2024秘境之眼-风舞雅江(4K)</title>
@@ -4885,7 +4882,7 @@
         <title lang="zh">冬去春来-第2集预告（4K）</title>
     </programme>
     <programme start="20260606073310" stop="20260606082240" channel="cctv4k">
-        <title lang="zh">大地之上-2（4K）</title>
+        <title lang="zh">澳门：露天博物馆-1（4K）</title>
     </programme>
     <programme start="20260606082240" stop="20260606090240" channel="cctv4k">
         <title lang="zh">探索·发现（4K）-2024-107</title>
@@ -4936,7 +4933,7 @@
         <title lang="zh">4K宣传片-周末一起看电影</title>
     </programme>
     <programme start="20260606120135" stop="20260606120145" channel="cctv4k">
-        <title lang="zh">4K节目预告</title>
+        <title lang="zh">4K节目预告-垫播</title>
     </programme>
     <programme start="20260606120145" stop="20260606124745" channel="cctv4k">
         <title lang="zh">冬去春来-（4K）-2/32</title>
@@ -4954,7 +4951,7 @@
         <title lang="zh">4K超清视野-2018-1-标识演绎-2/3</title>
     </programme>
     <programme start="20260606133505" stop="20260606142435" channel="cctv4k">
-        <title lang="zh">大地之上-3（4K）</title>
+        <title lang="zh">舌尖上的中国 第四季-1（4K）</title>
     </programme>
     <programme start="20260606142435" stop="20260606150435" channel="cctv4k">
         <title lang="zh">探索·发现（4K）-2024-108</title>
@@ -4993,7 +4990,7 @@
         <title lang="zh">“字”从遇见你-1（4K）</title>
     </programme>
     <programme start="20260607000015" stop="20260607004945" channel="cctv4k">
-        <title lang="zh">大地之上-3（4K）</title>
+        <title lang="zh">舌尖上的中国 第四季-1（4K）</title>
     </programme>
     <programme start="20260607004945" stop="20260607005945" channel="cctv4k">
         <title lang="zh">2024秘境之眼-雉舞贡嘎(4K)</title>
@@ -5074,7 +5071,7 @@
         <title lang="zh">冬去春来-第4集预告（4K）</title>
     </programme>
     <programme start="20260607073310" stop="20260607082240" channel="cctv4k">
-        <title lang="zh">大地之上-3（4K）</title>
+        <title lang="zh">舌尖上的中国 第四季-1（4K）</title>
     </programme>
     <programme start="20260607082240" stop="20260607090240" channel="cctv4k">
         <title lang="zh">探索·发现（4K）-2024-108</title>
@@ -5134,7 +5131,7 @@
         <title lang="zh">4K宣传片-中国中医药大会</title>
     </programme>
     <programme start="20260607120240" stop="20260607120250" channel="cctv4k">
-        <title lang="zh">4K节目预告</title>
+        <title lang="zh">4K节目预告-垫播</title>
     </programme>
     <programme start="20260607120250" stop="20260607124850" channel="cctv4k">
         <title lang="zh">冬去春来-（4K）-4/32</title>
@@ -5148,8 +5145,11 @@
     <programme start="20260607133520" stop="20260607133540" channel="cctv4k">
         <title lang="zh">4K超清视野-2018-1-标识演绎-2/3</title>
     </programme>
-    <programme start="20260607133540" stop="20260607142510" channel="cctv4k">
-        <title lang="zh">大地之上-4（4K）</title>
+    <programme start="20260607133540" stop="20260607142440" channel="cctv4k">
+        <title lang="zh">舌尖上的中国 第四季-2（4K）</title>
+    </programme>
+    <programme start="20260607142440" stop="20260607142510" channel="cctv4k">
+        <title lang="zh">4K宣传片-2026美加墨世界杯央视频</title>
     </programme>
     <programme start="20260607142510" stop="20260607150510" channel="cctv4k">
         <title lang="zh">探索·发现（4K）-2024-109</title>
