@@ -190,7 +190,7 @@
         <title lang="zh">生活早参考-特别节目（生活圈）2026-158</title>
     </programme>
     <programme start="20260612183345" stop="20260612184630" channel="cctv1">
-        <title lang="zh">中华古树-黄帝手植柏（4K）</title>
+        <title lang="zh">中华古树-功勋树（4K）</title>
     </programme>
     <programme start="20260612184630" stop="20260612202000" channel="cctv1">
         <title lang="zh">非遗里的中国（第四季）-甘肃篇（精编）</title>
@@ -258,16 +258,16 @@
     <programme start="20260613110000" stop="20260613113855" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260613113855" stop="20260613120300" channel="cctv1">
+    <programme start="20260613113855" stop="20260613120200" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260613120300" stop="20260613134730" channel="cctv1">
+    <programme start="20260613120200" stop="20260613134540" channel="cctv1">
         <title lang="zh">非遗里的中国（第五季）-河南篇</title>
     </programme>
-    <programme start="20260613134730" stop="20260613135625" channel="cctv1">
+    <programme start="20260613134540" stop="20260613135520" channel="cctv1">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
-    <programme start="20260613135625" stop="20260613140000" channel="cctv1">
+    <programme start="20260613135520" stop="20260613140000" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme start="20260613140000" stop="20260613143600" channel="cctv1">
@@ -846,14 +846,11 @@
     <programme start="20260613065800" stop="20260613072705" channel="cctv3">
         <title lang="zh">艺熠生辉-5</title>
     </programme>
-    <programme start="20260613072705" stop="20260613085505" channel="cctv3">
+    <programme start="20260613072705" stop="20260613085640" channel="cctv3">
         <title lang="zh">星光大道-2026-29</title>
     </programme>
-    <programme start="20260613085505" stop="20260613095340" channel="cctv3">
+    <programme start="20260613085640" stop="20260613100115" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2026-462</title>
-    </programme>
-    <programme start="20260613095340" stop="20260613100115" channel="cctv3">
-        <title lang="zh">综艺喜乐汇-2026-1039 踏地为节</title>
     </programme>
     <programme start="20260613100115" stop="20260613112350" channel="cctv3">
         <title lang="zh">开门大吉-2026-22</title>
@@ -1360,15 +1357,15 @@
         <title lang="zh">实况录像-2026世界杯小组赛A组第一轮 墨西哥队—南非队</title>
     </programme>
     <programme start="20260612163500" stop="20260612170000" channel="cctv5">
-        <title lang="zh">实况录像-2026年世界田联钻石联赛  斯德哥尔摩站 25分钟版</title>
+        <title lang="zh">实况录像-绿茵热潮—城市故事 多伦多</title>
     </programme>
     <programme start="20260612170000" stop="20260612213000" channel="cctv5">
         <title lang="zh">2026世界杯-小组赛B组第一轮（加拿大—波黑）</title>
     </programme>
-    <programme start="20260612213000" stop="20260612220000" channel="cctv5">
-        <title lang="zh">实况录像-2026年射箭世界杯 中国站 1</title>
+    <programme start="20260612213000" stop="20260612223000" channel="cctv5">
+        <title lang="zh">实况录像-2026年体操世界杯 奥西耶克站 1</title>
     </programme>
-    <programme start="20260612220000" stop="20260612230000" channel="cctv5">
+    <programme start="20260612223000" stop="20260612230000" channel="cctv5">
         <title lang="zh">实况录像-2026年体操世界杯 奥西耶克站 1</title>
     </programme>
     <programme start="20260612230000" stop="20260613040000" channel="cctv5">
@@ -2242,10 +2239,10 @@
         <title lang="zh">星推荐-2026年6月-12</title>
     </programme>
     <programme start="20260613044325" stop="20260613053840" channel="cctv8">
-        <title lang="zh">莫离10/40</title>
+        <title lang="zh">莫离第10集</title>
     </programme>
     <programme start="20260613053840" stop="20260613063340" channel="cctv8">
-        <title lang="zh">莫离11/40</title>
+        <title lang="zh">莫离第11集</title>
     </programme>
     <programme start="20260613063340" stop="20260613072940" channel="cctv8">
         <title lang="zh">雨霖铃第23集</title>
@@ -2287,13 +2284,13 @@
         <title lang="zh">本集提要-太行谣-第22集</title>
     </programme>
     <programme start="20260613132940" stop="20260613141940" channel="cctv8">
-        <title lang="zh">太行谣22/24</title>
+        <title lang="zh">太行谣第22集</title>
     </programme>
     <programme start="20260613141940" stop="20260613142140" channel="cctv8">
         <title lang="zh">本集提要-太行谣-第23集</title>
     </programme>
     <programme start="20260613142140" stop="20260613151140" channel="cctv8">
-        <title lang="zh">太行谣23/24</title>
+        <title lang="zh">太行谣第23集</title>
     </programme>
     <programme start="20260613151140" stop="20260613155740" channel="cctv8">
         <title lang="zh">黑白禁区第25集</title>
