@@ -1114,19 +1114,19 @@
         <title lang="zh">中国新闻</title>
     </programme>
     <programme start="20260614050340" stop="20260614055010" channel="cctv4">
-        <title lang="zh">归队12/34</title>
+        <title lang="zh">归队第12集</title>
     </programme>
     <programme start="20260614055010" stop="20260614063610" channel="cctv4">
-        <title lang="zh">归队13/34</title>
+        <title lang="zh">归队第13集</title>
     </programme>
     <programme start="20260614063610" stop="20260614072455" channel="cctv4">
-        <title lang="zh">归队14/34</title>
+        <title lang="zh">归队第14集</title>
     </programme>
     <programme start="20260614072455" stop="20260614081225" channel="cctv4">
-        <title lang="zh">归队15/34</title>
+        <title lang="zh">归队第15集</title>
     </programme>
     <programme start="20260614081225" stop="20260614090000" channel="cctv4">
-        <title lang="zh">归队16/34</title>
+        <title lang="zh">归队第16集</title>
     </programme>
     <programme start="20260614090000" stop="20260614100000" channel="cctv4">
         <title lang="zh">健康中国-2026-24</title>
@@ -1159,13 +1159,13 @@
         <title lang="zh">国宝发现-2026-24</title>
     </programme>
     <programme start="20260614153000" stop="20260614155900" channel="cctv4">
-        <title lang="zh">一代匠师3/32</title>
+        <title lang="zh">一代匠师第3集</title>
     </programme>
     <programme start="20260614161600" stop="20260614170200" channel="cctv4">
-        <title lang="zh">一代匠师4/32</title>
+        <title lang="zh">一代匠师第4集</title>
     </programme>
     <programme start="20260614170200" stop="20260614174800" channel="cctv4">
-        <title lang="zh">一代匠师5/32</title>
+        <title lang="zh">一代匠师第5集</title>
     </programme>
     <programme start="20260614174800" stop="20260614175200" channel="cctv4">
         <title lang="zh">记住乡愁-片段展播-2024-38</title>
@@ -1871,6 +1871,9 @@
     </programme>
     <programme start="20260614154045" stop="20260614155900" channel="cctv7">
         <title lang="zh">兵器面面观-环球兵器大事件-2026-24</title>
+    </programme>
+    <programme start="20260614162345" stop="20260614220300" channel="cctv7">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20260614220300" stop="20260614223330" channel="cctv7">
         <title lang="zh">第二战场-2026-24</title>
@@ -4150,10 +4153,10 @@
         <title lang="zh">田野欢歌-2025-18</title>
     </programme>
     <programme start="20260614021800" stop="20260614031015" channel="cctv17">
-        <title lang="zh">绽放吧，百合2/42</title>
+        <title lang="zh">绽放吧，百合第2集</title>
     </programme>
     <programme start="20260614031015" stop="20260614040000" channel="cctv17">
-        <title lang="zh">绽放吧，百合3/42</title>
+        <title lang="zh">绽放吧，百合第3集</title>
     </programme>
     <programme start="20260614040000" stop="20260614043200" channel="cctv17">
         <title lang="zh">中国三农报道</title>
@@ -4168,16 +4171,16 @@
         <title lang="zh">大地讲堂-2026-51</title>
     </programme>
     <programme start="20260614054020" stop="20260614062950" channel="cctv17">
-        <title lang="zh">妈妈在等你47/47</title>
+        <title lang="zh">妈妈在等你第47集</title>
     </programme>
     <programme start="20260614062950" stop="20260614072020" channel="cctv17">
-        <title lang="zh">有你才有家1/50</title>
+        <title lang="zh">有你才有家第1集</title>
     </programme>
     <programme start="20260614072020" stop="20260614081215" channel="cctv17">
-        <title lang="zh">有你才有家2/50</title>
+        <title lang="zh">有你才有家第2集</title>
     </programme>
     <programme start="20260614081215" stop="20260614090300" channel="cctv17">
-        <title lang="zh">有你才有家3/50</title>
+        <title lang="zh">有你才有家第3集</title>
     </programme>
     <programme start="20260614090300" stop="20260614093200" channel="cctv17">
         <title lang="zh">乡理乡亲-2026-52</title>
@@ -4189,10 +4192,10 @@
         <title lang="zh">中国三农报道</title>
     </programme>
     <programme start="20260614103900" stop="20260614113430" channel="cctv17">
-        <title lang="zh">绽放吧，百合4/42</title>
+        <title lang="zh">绽放吧，百合第4集</title>
     </programme>
     <programme start="20260614113430" stop="20260614122800" channel="cctv17">
-        <title lang="zh">绽放吧，百合5/42</title>
+        <title lang="zh">绽放吧，百合第5集</title>
     </programme>
     <programme start="20260614122800" stop="20260614125600" channel="cctv17">
         <title lang="zh">大地讲堂-2026-53</title>
@@ -4209,8 +4212,11 @@
     <programme start="20260614154200" stop="20260614155900" channel="cctv17">
         <title lang="zh">田野欢歌-2025-66</title>
     </programme>
-    <programme start="20260614163400" stop="20260614215630" channel="cctv17">
+    <programme start="20260614163400" stop="20260614170530" channel="cctv17">
         <title lang="zh">乡理乡亲-2026-52</title>
+    </programme>
+    <programme start="20260614170530" stop="20260614215630" channel="cctv17">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20260614215630" stop="20260614220500" channel="cctv17">
         <title lang="zh">2026田园特供-乡村达人秀12-飞斧表演</title>
