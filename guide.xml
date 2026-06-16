@@ -276,25 +276,25 @@
     <programme start="20260617110000" stop="20260617113910" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260617113910" stop="20260617115915" channel="cctv1">
+    <programme start="20260617113910" stop="20260617115950" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260617115915" stop="20260617120300" channel="cctv1">
+    <programme start="20260617115950" stop="20260617120400" channel="cctv1">
         <title lang="zh">前情提要-星月征途-第14集</title>
     </programme>
-    <programme start="20260617120300" stop="20260617125405" channel="cctv1">
+    <programme start="20260617120400" stop="20260617125440" channel="cctv1">
         <title lang="zh">星月征途14/20</title>
     </programme>
-    <programme start="20260617125405" stop="20260617125635" channel="cctv1">
+    <programme start="20260617125440" stop="20260617125715" channel="cctv1">
         <title lang="zh">前情提要-星月征途-第15集</title>
     </programme>
-    <programme start="20260617125635" stop="20260617134530" channel="cctv1">
+    <programme start="20260617125715" stop="20260617134550" channel="cctv1">
         <title lang="zh">星月征途15/20</title>
     </programme>
-    <programme start="20260617134530" stop="20260617135100" channel="cctv1">
+    <programme start="20260617134550" stop="20260617135220" channel="cctv1">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
-    <programme start="20260617135100" stop="20260617140000" channel="cctv1">
+    <programme start="20260617135220" stop="20260617140000" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme start="20260617140000" stop="20260617143630" channel="cctv1">
@@ -2317,10 +2317,10 @@
         <title lang="zh">星推荐-2026年6月-16</title>
     </programme>
     <programme start="20260617044225" stop="20260617053810" channel="cctv8">
-        <title lang="zh">莫离18/40</title>
+        <title lang="zh">莫离第18集</title>
     </programme>
     <programme start="20260617053810" stop="20260617063310" channel="cctv8">
-        <title lang="zh">莫离19/40</title>
+        <title lang="zh">莫离第19集</title>
     </programme>
     <programme start="20260617063310" stop="20260617072910" channel="cctv8">
         <title lang="zh">雨霖铃第31集</title>
@@ -2350,7 +2350,7 @@
         <title lang="zh">本集提要-问心（精编版）-1/2</title>
     </programme>
     <programme start="20260617113000" stop="20260617122540" channel="cctv8">
-        <title lang="zh">问心（精编版）1/2</title>
+        <title lang="zh">问心（精编版）第1集</title>
     </programme>
     <programme start="20260617122540" stop="20260617123040" channel="cctv8">
         <title lang="zh">本集提要-问心（精编版）-2/2</title>
@@ -3885,14 +3885,8 @@
     <programme start="20260617100000" stop="20260617103500" channel="cctvchild">
         <title lang="zh">智慧树-2026-119</title>
     </programme>
-    <programme start="20260617103500" stop="20260617112900" channel="cctvchild">
-        <title lang="zh">动画大放映（黄金版）-2026-95</title>
-    </programme>
-    <programme start="20260617112900" stop="20260617122900" channel="cctvchild">
-        <title lang="zh">第二十二届中国国际动漫节-“金猴奖”颁奖仪式</title>
-    </programme>
-    <programme start="20260617122900" stop="20260617135000" channel="cctvchild">
-        <title lang="zh">动画大放映（黄金版）-2026-96</title>
+    <programme start="20260617103500" stop="20260617135000" channel="cctvchild">
+        <title lang="zh">动画大放映（黄金版）-2026-97</title>
     </programme>
     <programme start="20260617135000" stop="20260617143800" channel="cctvchild">
         <title lang="zh">大决战-15/49</title>
