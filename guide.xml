@@ -1183,19 +1183,19 @@
         <title lang="zh">中国新闻</title>
     </programme>
     <programme start="20260623050345" stop="20260623055015" channel="cctv4">
-        <title lang="zh">虎胆巍城20/36</title>
+        <title lang="zh">虎胆巍城第20集</title>
     </programme>
     <programme start="20260623055015" stop="20260623063615" channel="cctv4">
-        <title lang="zh">虎胆巍城21/36</title>
+        <title lang="zh">虎胆巍城第21集</title>
     </programme>
     <programme start="20260623063615" stop="20260623072500" channel="cctv4">
-        <title lang="zh">虎胆巍城22/36</title>
+        <title lang="zh">虎胆巍城第22集</title>
     </programme>
     <programme start="20260623072500" stop="20260623081200" channel="cctv4">
-        <title lang="zh">虎胆巍城23/36</title>
+        <title lang="zh">虎胆巍城第23集</title>
     </programme>
     <programme start="20260623081200" stop="20260623085900" channel="cctv4">
-        <title lang="zh">虎胆巍城24/36</title>
+        <title lang="zh">虎胆巍城第24集</title>
     </programme>
     <programme start="20260623085900" stop="20260623091500" channel="cctv4">
         <title lang="zh">平凡匠心-2026-8</title>
@@ -1231,13 +1231,13 @@
         <title lang="zh">新闻联播</title>
     </programme>
     <programme start="20260623150300" stop="20260623154900" channel="cctv4">
-        <title lang="zh">一代匠师29/32</title>
+        <title lang="zh">一代匠师第29集</title>
     </programme>
     <programme start="20260623154900" stop="20260623155900" channel="cctv4">
-        <title lang="zh">一代匠师30/32</title>
+        <title lang="zh">一代匠师第30集</title>
     </programme>
     <programme start="20260623163500" stop="20260623172140" channel="cctv4">
-        <title lang="zh">一代匠师31/32</title>
+        <title lang="zh">一代匠师第31集</title>
     </programme>
     <programme start="20260623172140" stop="20260623175100" channel="cctv4">
         <title lang="zh">中国文艺-2026-124</title>
@@ -2949,8 +2949,11 @@
     <programme start="20260623172030" stop="20260623180030" channel="cctv10">
         <title lang="zh">健康之路-2026-175</title>
     </programme>
-    <programme start="20260623180030" stop="20260623220000" channel="cctv10">
+    <programme start="20260623180030" stop="20260623184030" channel="cctv10">
         <title lang="zh">百家讲坛-2026-174</title>
+    </programme>
+    <programme start="20260623184030" stop="20260623220000" channel="cctv10">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20260623220000" stop="20260623221000" channel="cctv10">
         <title lang="zh">读书-2026-228</title>
@@ -3124,10 +3127,10 @@
         <title lang="zh">扬剧电影 衣冠风流</title>
     </programme>
     <programme start="20260623033125" stop="20260623042155" channel="cctv11">
-        <title lang="zh">人世间6/58</title>
+        <title lang="zh">人世间第6集</title>
     </programme>
     <programme start="20260623042155" stop="20260623051225" channel="cctv11">
-        <title lang="zh">人世间7/58</title>
+        <title lang="zh">人世间第7集</title>
     </programme>
     <programme start="20260623051225" stop="20260623063125" channel="cctv11">
         <title lang="zh">梨园闯关我挂帅-2025-46</title>
@@ -3136,10 +3139,10 @@
         <title lang="zh">中国戏曲像音像集萃-2026-9越剧《狸猫换太子》</title>
     </programme>
     <programme start="20260623091300" stop="20260623100330" channel="cctv11">
-        <title lang="zh">绝代双骄22/44</title>
+        <title lang="zh">绝代双骄第22集</title>
     </programme>
     <programme start="20260623100330" stop="20260623110000" channel="cctv11">
-        <title lang="zh">绝代双骄23/44</title>
+        <title lang="zh">绝代双骄第23集</title>
     </programme>
     <programme start="20260623110000" stop="20260623113000" channel="cctv11">
         <title lang="zh">青春戏苑-2026-126《刘三姐》精编专辑2</title>
@@ -3148,16 +3151,19 @@
         <title lang="zh">越剧电影 红楼梦（修复版）</title>
     </programme>
     <programme start="20260623142845" stop="20260623151915" channel="cctv11">
-        <title lang="zh">女士的法则18/38</title>
+        <title lang="zh">女士的法则第18集</title>
     </programme>
     <programme start="20260623151915" stop="20260623155900" channel="cctv11">
-        <title lang="zh">女士的法则19/38</title>
+        <title lang="zh">女士的法则第19集</title>
     </programme>
     <programme start="20260623160945" stop="20260623170015" channel="cctv11">
-        <title lang="zh">女士的法则20/38</title>
+        <title lang="zh">女士的法则第20集</title>
     </programme>
-    <programme start="20260623170015" stop="20260623220630" channel="cctv11">
+    <programme start="20260623170015" stop="20260623173115" channel="cctv11">
         <title lang="zh">青春戏苑-2026-126《刘三姐》精编专辑2</title>
+    </programme>
+    <programme start="20260623173115" stop="20260623220630" channel="cctv11">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20260623220630" stop="20260623232050" channel="cctv11">
         <title lang="zh">CCTV空中剧院-2024-145地方戏版 好戏连连看 黄梅戏《五月的鲜花》选场（精编）</title>
@@ -3396,8 +3402,11 @@
     <programme start="20260623163200" stop="20260623171800" channel="cctv12">
         <title lang="zh">2025社会与法电视剧精选-破冰行动-18/43</title>
     </programme>
-    <programme start="20260623171800" stop="20260623220000" channel="cctv12">
+    <programme start="20260623171800" stop="20260623180900" channel="cctv12">
         <title lang="zh">普法剧场2026-174</title>
+    </programme>
+    <programme start="20260623180900" stop="20260623220000" channel="cctv12">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20260623220000" stop="20260623223300" channel="cctv12">
         <title lang="zh">法律讲堂-2026-174</title>
