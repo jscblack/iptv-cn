@@ -169,13 +169,13 @@
         <title lang="zh">前情提要-种墨园-第2集</title>
     </programme>
     <programme start="20260624120100" stop="20260624125225" channel="cctv1">
-        <title lang="zh">种墨园2/34</title>
+        <title lang="zh">种墨园第2集</title>
     </programme>
     <programme start="20260624125225" stop="20260624125635" channel="cctv1">
         <title lang="zh">前情提要-种墨园-第3集</title>
     </programme>
     <programme start="20260624125635" stop="20260624134640" channel="cctv1">
-        <title lang="zh">种墨园3/34</title>
+        <title lang="zh">种墨园第3集</title>
     </programme>
     <programme start="20260624134640" stop="20260624135310" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
@@ -282,25 +282,25 @@
     <programme start="20260625110000" stop="20260625113855" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260625113855" stop="20260625120155" channel="cctv1">
+    <programme start="20260625113855" stop="20260625120040" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260625120155" stop="20260625120600" channel="cctv1">
-        <title lang="zh">前情提要-电视剧（高清文件）</title>
+    <programme start="20260625120040" stop="20260625120500" channel="cctv1">
+        <title lang="zh">前情提要-种墨园-4/34</title>
     </programme>
-    <programme start="20260625120600" stop="20260625125605" channel="cctv1">
-        <title lang="zh">电视剧-（高清文件）</title>
+    <programme start="20260625120500" stop="20260625125455" channel="cctv1">
+        <title lang="zh">种墨园4/34</title>
     </programme>
-    <programme start="20260625125605" stop="20260625125735" channel="cctv1">
-        <title lang="zh">前情提要-电视剧（高清文件）</title>
+    <programme start="20260625125455" stop="20260625125800" channel="cctv1">
+        <title lang="zh">前情提要-种墨园-5/34</title>
     </programme>
-    <programme start="20260625125735" stop="20260625134600" channel="cctv1">
-        <title lang="zh">电视剧-（高清文件）</title>
+    <programme start="20260625125800" stop="20260625134700" channel="cctv1">
+        <title lang="zh">种墨园5/34</title>
     </programme>
-    <programme start="20260625134600" stop="20260625135130" channel="cctv1">
+    <programme start="20260625134700" stop="20260625135330" channel="cctv1">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
-    <programme start="20260625135130" stop="20260625140000" channel="cctv1">
+    <programme start="20260625135330" stop="20260625140000" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme start="20260625140000" stop="20260625143530" channel="cctv1">
@@ -423,11 +423,11 @@
     <programme start="20260626140000" stop="20260626143530" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20260626143530" stop="20260626151130" channel="cctv1">
-        <title lang="zh">自然中国-严守耕地红线-田脉永续</title>
+    <programme start="20260626143530" stop="20260626153130" channel="cctv1">
+        <title lang="zh">周末一起看电影-4</title>
     </programme>
-    <programme start="20260626151130" stop="20260626155900" channel="cctv1">
-        <title lang="zh">非遗里的中国（第四季）-甘肃篇（精编）</title>
+    <programme start="20260626153130" stop="20260626155900" channel="cctv1">
+        <title lang="zh">自然中国-严守耕地红线-田脉永续</title>
     </programme>
     <programme start="20260623161830" stop="20260623171940" channel="cctv2">
         <title lang="zh">一槌定音-2026-28</title>
@@ -2353,7 +2353,7 @@
         <title lang="zh">星推荐-2026年6月-24</title>
     </programme>
     <programme start="20260625044225" stop="20260625053810" channel="cctv8">
-        <title lang="zh">莫离31/40</title>
+        <title lang="zh">莫离第31集</title>
     </programme>
     <programme start="20260625053810" stop="20260625063310" channel="cctv8">
         <title lang="zh">大山的女儿第13集</title>
@@ -6159,8 +6159,11 @@
     <programme start="20260625010100" stop="20260625010130" channel="cctv8k">
         <title lang="zh">三餐四季第三季-宣传片（8K）</title>
     </programme>
-    <programme start="20260625010130" stop="20260625010500" channel="cctv8k">
-        <title lang="zh">鹿鸣课堂-宣传片(8K)</title>
+    <programme start="20260625010130" stop="20260625010330" channel="cctv8k">
+        <title lang="zh">2026机器人机甲格斗赛-宣传片（8K）</title>
+    </programme>
+    <programme start="20260625010330" stop="20260625010500" channel="cctv8k">
+        <title lang="zh">品牌强国工程-2026形象宣传片4（8K）</title>
     </programme>
     <programme start="20260625010500" stop="20260625010535" channel="cctv8k">
         <title lang="zh">8K超高清万象-夏至2026</title>
@@ -6351,8 +6354,11 @@
     <programme start="20260625050100" stop="20260625050130" channel="cctv8k">
         <title lang="zh">三餐四季第三季-宣传片（8K）</title>
     </programme>
-    <programme start="20260625050130" stop="20260625050500" channel="cctv8k">
-        <title lang="zh">鹿鸣课堂-宣传片(8K)</title>
+    <programme start="20260625050130" stop="20260625050330" channel="cctv8k">
+        <title lang="zh">2026机器人机甲格斗赛-宣传片（8K）</title>
+    </programme>
+    <programme start="20260625050330" stop="20260625050500" channel="cctv8k">
+        <title lang="zh">品牌强国工程-2026形象宣传片4（8K）</title>
     </programme>
     <programme start="20260625050500" stop="20260625050535" channel="cctv8k">
         <title lang="zh">8K超高清万象-夏至2026</title>
@@ -6543,8 +6549,11 @@
     <programme start="20260625090100" stop="20260625090130" channel="cctv8k">
         <title lang="zh">三餐四季第三季-宣传片（8K）</title>
     </programme>
-    <programme start="20260625090130" stop="20260625090500" channel="cctv8k">
-        <title lang="zh">鹿鸣课堂-宣传片(8K)</title>
+    <programme start="20260625090130" stop="20260625090330" channel="cctv8k">
+        <title lang="zh">2026机器人机甲格斗赛-宣传片（8K）</title>
+    </programme>
+    <programme start="20260625090330" stop="20260625090500" channel="cctv8k">
+        <title lang="zh">品牌强国工程-2026形象宣传片4（8K）</title>
     </programme>
     <programme start="20260625090500" stop="20260625090535" channel="cctv8k">
         <title lang="zh">8K超高清万象-夏至2026</title>
