@@ -1174,19 +1174,19 @@
         <title lang="zh">中国新闻</title>
     </programme>
     <programme start="20260710050345" stop="20260710055015" channel="cctv4">
-        <title lang="zh">铁道风云7/34</title>
+        <title lang="zh">铁道风云第7集</title>
     </programme>
     <programme start="20260710055015" stop="20260710063615" channel="cctv4">
-        <title lang="zh">铁道风云8/34</title>
+        <title lang="zh">铁道风云第8集</title>
     </programme>
     <programme start="20260710063615" stop="20260710072500" channel="cctv4">
-        <title lang="zh">铁道风云9/34</title>
+        <title lang="zh">铁道风云第9集</title>
     </programme>
     <programme start="20260710072500" stop="20260710081200" channel="cctv4">
-        <title lang="zh">铁道风云10/34</title>
+        <title lang="zh">铁道风云第10集</title>
     </programme>
     <programme start="20260710081200" stop="20260710085920" channel="cctv4">
-        <title lang="zh">铁道风云11/34</title>
+        <title lang="zh">铁道风云第11集</title>
     </programme>
     <programme start="20260710085920" stop="20260710091500" channel="cctv4">
         <title lang="zh">平凡匠心-2026-24</title>
@@ -1222,13 +1222,13 @@
         <title lang="zh">新闻联播</title>
     </programme>
     <programme start="20260710150300" stop="20260710154900" channel="cctv4">
-        <title lang="zh">灿烂的季节13/40</title>
+        <title lang="zh">灿烂的季节第13集</title>
     </programme>
     <programme start="20260710154900" stop="20260710155900" channel="cctv4">
-        <title lang="zh">灿烂的季节14/40</title>
+        <title lang="zh">灿烂的季节第14集</title>
     </programme>
     <programme start="20260710163500" stop="20260710172140" channel="cctv4">
-        <title lang="zh">灿烂的季节15/40</title>
+        <title lang="zh">灿烂的季节第15集</title>
     </programme>
     <programme start="20260710172140" stop="20260710175100" channel="cctv4">
         <title lang="zh">中国文艺-2026-137</title>
@@ -3006,8 +3006,11 @@
     <programme start="20260710173530" stop="20260710181530" channel="cctv10">
         <title lang="zh">健康之路-2026-192</title>
     </programme>
-    <programme start="20260710181530" stop="20260710220000" channel="cctv10">
+    <programme start="20260710181530" stop="20260710185530" channel="cctv10">
         <title lang="zh">百家讲坛-2026-191</title>
+    </programme>
+    <programme start="20260710185530" stop="20260710220000" channel="cctv10">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20260710220000" stop="20260710221000" channel="cctv10">
         <title lang="zh">读书-2026-245</title>
