@@ -4,15 +4,33 @@ from datetime import datetime, timezone, timedelta
 
 tz = pytz.timezone('Asia/Shanghai')
 
-cctv_channel = ['cctv1','cctv2','cctv3','cctv4','cctv5','cctv5plus','cctv6',\
-    'cctv7','cctv8','cctvjilu','cctv10','cctv11','cctv12','cctv13','cctvchild', \
-        'cctv15','cctv16','cctv17','cctv4k','cctv8k','dongfang','jiangsu','zhejiang','hunan', \
-        'cetv1','cetv2','cetv3','cetv4','btv1','btvjishi','dongfang', \
-        'hunan','shandong','zhejiang','jiangsu','guangdong','dongnan','anhui', \
-        'gansu','liaoning','travel','neimenggu','ningxia','qinghai','xiamen', \
-        'yunnan','chongqing','jiangxi','shan1xi','shan3xi','shenzhen','sichuan','tianjin', \
-        'guangxi','guizhou','hebei','henan','heilongjiang','hubei','jilin', \
-        'yanbian','xizang','xinjiang','bingtuan','btvchild','gaoerfu','sdetv']
+# 频道列表按 js_iptv6.m3u 的顺序排列，仅保留央视接口能匹配到的频道。
+# 对应关系（m3u -> 央视接口ID）：
+#   CCTV1-CCTV8 -> cctv1-cctv8；CCTV5+ -> cctv5plus
+#   CCTV9 -> cctvjilu (CCTV-9 纪录)；CCTV14 -> cctvchild (少儿)
+#   CCTV10-13/15-17 -> cctv10-13/15-17；CCTV4K/8K -> cctv4k/cctv8k
+#   北京卫视 -> btv1；东方/广东/湖南/江苏/山东/深圳/四川/浙江卫视
+#   -> dongfang/guangdong/hunan/jiangsu/shandong/shenzhen/sichuan/zhejiang
+cctv_channel = [
+    'cctv1', 'cctv2', 'cctv3', 'cctv4', 'cctv5', 'cctv5plus',
+    'cctv6', 'cctv7', 'cctv8', 'cctvjilu', 'cctv10', 'cctv11',
+    'cctv12', 'cctv13', 'cctvchild', 'cctv15', 'cctv16', 'cctv17',
+    'cctv4k', 'cctv8k',
+    'btv1', 'dongfang', 'guangdong', 'hunan', 'jiangsu', 'shandong',
+    'shenzhen', 'sichuan', 'zhejiang',
+]
+
+# backup：m3u 中存在但央视接口无对应ID的频道（不处理）
+#   凤凰卫视中文台 / 凤凰卫视资讯台 / 凤凰卫视香港台 / 江苏交通广播
+# backup：原频道列表中 m3u 未包含的频道（不处理，需要时取消注释恢复）
+# backup_channels = [
+#     'cetv1', 'cetv2', 'cetv3', 'cetv4', 'btvjishi', 'dongnan', 'anhui',
+#     'gansu', 'liaoning', 'travel', 'neimenggu', 'ningxia', 'qinghai',
+#     'xiamen', 'yunnan', 'chongqing', 'jiangxi', 'shan1xi', 'shan3xi',
+#     'tianjin', 'guangxi', 'guizhou', 'hebei', 'henan', 'heilongjiang',
+#     'hubei', 'jilin', 'yanbian', 'xizang', 'xinjiang', 'bingtuan',
+#     'btvchild', 'gaoerfu', 'sdetv',
+# ]
 
 def transformChannelName(input):
     '''
