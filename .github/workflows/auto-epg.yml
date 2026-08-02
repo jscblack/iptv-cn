@@ -1,13 +1,11 @@
 name: auto update
 
 on:
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
   schedule:
   # Verified via https://crontab.guru/ for 1,7,12,18 Beijing time (UTC+8)
   - cron: "0 17,23,4,10 * * *"
+  push:
+    branches: [ main ]
 
 jobs:
   build:
@@ -40,19 +38,23 @@ jobs:
       - name: Update tv-guide
         run: python get-epg.py
 
-      # Each run rewrites main to a single root commit and force-pushes it,
-      # so repository history (and clone size) stays minimal forever.
-      - name: Commit and push (single-commit history)
+      # guide.xml 只发布到独立的 epg 分支，每次以单提交覆盖推送。
+      # main 的历史不再包含自动更新，其他文件的手动提交完整保留。
+      - name: Publish guide.xml to epg branch (single-commit)
         run: |
           git config --local user.email "github-actions-bot@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add -A
-          if git diff --cached --quiet; then
-            echo "No changes, skipping push"
-            exit 0
-          fi
-          git checkout --orphan fresh-root
-          git commit -m "🚀 update tv-guide at $(date '+%Y-%m-%d %H:%M:%S')"
-          git branch -M fresh-root main
           git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
-          git push --force origin main
+          NEW_BLOB=$(git hash-object -w guide.xml)
+          EPG=$(git ls-remote origin refs/heads/epg | cut -f1)
+          if [ -n "$EPG" ]; then
+            git fetch -q --depth=1 origin refs/heads/epg
+            if [ "$(git rev-parse FETCH_HEAD:guide.xml 2>/dev/null)" = "$NEW_BLOB" ]; then
+              echo "guide.xml unchanged, skip push"
+              exit 0
+            fi
+          fi
+          TREE=$(printf '100644 blob %s\tguide.xml\n' "$NEW_BLOB" | git mktree)
+          COMMIT=$(git commit-tree "$TREE" -m "🚀 update tv-guide at $(date '+%Y-%m-%d %H:%M:%S')")
+          git push --force origin "${COMMIT}:refs/heads/epg"
+          echo "published guide.xml to epg branch"
