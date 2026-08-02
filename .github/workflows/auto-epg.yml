@@ -1,0 +1,58 @@
+name: auto update
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  schedule:
+  # Verified via https://crontab.guru/ for 1,7,12,18 Beijing time (UTC+8)
+  - cron: "0 17,23,4,10 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.8
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - uses: actions/cache@v4
+        if: startsWith(runner.os, 'Linux')
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Set Timezone
+        run: sudo timedatectl set-timezone 'Asia/Shanghai'
+
+      - name: Update tv-guide
+        run: python get-epg.py
+
+      # Each run rewrites main to a single root commit and force-pushes it,
+      # so repository history (and clone size) stays minimal forever.
+      - name: Commit and push (single-commit history)
+        run: |
+          git config --local user.email "github-actions-bot@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes, skipping push"
+            exit 0
+          fi
+          git checkout --orphan fresh-root
+          git commit -m "🚀 update tv-guide at $(date '+%Y-%m-%d %H:%M:%S')"
+          git branch -M fresh-root main
+          git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git push --force origin main
